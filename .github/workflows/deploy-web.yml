@@ -1,5 +1,16 @@
 name: Deploy web to GitHub Pages
 
+# This must be the ONLY workflow that deploys Pages, and Settings -> Pages ->
+# Source must be "GitHub Actions".
+#
+# Adding a second Pages workflow does not merge with this one — they race, and
+# the last to finish wins. GitHub's "Deploy Jekyll" starter (offered when you
+# switch the Pages source) builds the repository root, which here is just the
+# README, and silently replaced the built app with it.
+#
+# Note the paths filter below: a commit that touches neither etzan/web/** nor
+# this file will not deploy. Use "Run workflow" on the Actions tab for those.
+
 on:
   push:
     branches: [main]
