@@ -1,0 +1,1677 @@
+﻿Age,Gender,Educational Level,How many hours do you spend daily on social media,Do you prefer using technology for work or leisure?,How many hours do you spend in front of computer screens or smartphones daily?,Do you feel that you use social media excessively?,Do social media platforms affect your social relationships?,Have you noticed a change in your mood after using technology?,"How would you rate your level of focus while working or studying? On a scale from 1 to 5, where 1 = very poor and 5 = excellent.",Do you find it difficult to concentrate when using technology (social media)?,How often do you feel distracted while trying to work or study due to technology (social media)?,"How would you rate your level of concern regarding technology use, particularly social media? On a scale from 1 to 5, where 1 = very low and 5 = excellent.","Do you believe that your use of social media negatively affects y How would you rate your level of concern regarding technology use, particularly social media? On a scale from 1 to 5, where 1 = very low and 5 = excellent.our mental health?",Do you believe that your use of social media negatively affects your mental health?,What platforms do you primarily use?,"""Do you think that using certain applications can help reduce feelings of mental fatigue?""
+","""Do you use any strategies to reduce technology usage?""","""If 'yes' was chosen for the above question, what are the strategies?"""
+35,0,3,3,0,3,1,1,1,3,1,1,1,2,0,Facebook,1,0,Spending time with family
+34,1,3,3,0,3,1,1,1,5,1,1,1,4,1,TikTok,1,1,Reading
+32,1,3,3,0,3,1,1,0,5,0,1,1,1,0,Facebook,1,1,Exercising
+24,0,2,3,0,3,1,0,0,5,1,0,1,3,1,Instagram,1,1,Spending time with family
+21,1,2,2,1,2,1,0,1,2,1,1,1,3,1,Instagram,1,1,Reading
+23,0,2,1,0,3,0,0,1,3,0,1,0,1,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+20,0,2,2,0,2,0,0,1,4,0,0,1,4,0,TikTok,1,1,Spending time with family
+21,1,2,2,0,2,1,1,1,3,1,1,1,3,1,Instagram,1,0,Reading
+36,1,3,2,1,2,1,1,1,4,0,1,1,3,1,Facebook,1,0,Exercising
+28,1,2,3,1,3,0,0,1,3,1,0,1,1,1,Facebook,1,1,Spending time with family
+21,1,2,1,0,3,0,1,1,3,1,1,1,3,1,Instagram,1,1,Reading
+40,1,3,2,0,1,1,1,1,3,1,1,1,3,1,Facebook,0,0,Exercising
+18,0,2,3,1,3,1,0,1,3,0,1,1,4,1,TikTok,1,1,Spending time with family
+18,0,0,2,1,2,0,1,1,3,0,0,0,2,0,Instagram,1,0,Reading
+20,0,2,3,1,3,1,1,1,3,0,1,0,2,1,Instagram,0,0,Exercising
+56,0,3,1,1,1,0,0,0,5,1,1,1,4,0,Instagram,0,0,Spending time with family
+42,1,3,1,0,2,1,1,1,5,1,1,1,4,1,Facebook,1,1,Exercising
+27,0,3,2,0,2,0,0,0,4,0,0,0,3,0,Instagram,0,1,Spending time with family
+30,1,3,1,0,1,0,0,0,3,1,1,1,2,0,Facebook,1,1,Reading
+18,0,2,3,0,3,1,0,1,4,0,0,1,2,0,Instagram,1,0,Exercising
+30,1,3,2,0,2,1,0,0,4,1,0,1,2,1,Facebook,0,1,Spending time with family
+19,0,2,3,0,3,1,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+44,1,4,2,0,1,0,0,1,5,0,1,1,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+35,1,3,3,0,3,1,1,1,4,0,1,0,1,1,Facebook,0,1,Spending time with family
+32,1,3,2,1,2,1,1,1,3,0,1,1,4,1,Facebook,1,0,Reading
+32,1,3,3,1,3,0,0,0,4,1,1,1,3,1,Facebook,1,1,Exercising
+34,1,3,2,0,2,1,1,1,4,1,1,1,4,1,Instagram,1,1,Spending time with family
+32,0,2,1,0,2,1,1,1,4,0,0,0,3,1,Instagram,0,0,Reading
+26,0,1,3,0,1,0,0,1,3,0,0,1,2,0,Instagram,1,0,Exercising
+34,1,2,1,1,2,1,1,1,5,0,1,1,4,1,Instagram,0,0,Spending time with family
+25,0,3,2,1,1,1,0,1,3,0,1,1,3,1,Facebook,1,1,Reading
+36,0,3,1,0,1,0,1,0,4,1,1,1,3,0,Facebook,1,1,Exercising
+31,0,2,3,1,3,0,0,1,4,1,0,0,4,0,Instagram,1,0,Spending time with family
+30,0,3,0,0,1,0,0,1,4,1,0,1,3,1,Facebook,1,1,Exercising
+40,1,3,1,0,1,0,0,1,4,0,1,1,2,1,Facebook,1,1,Spending time with family
+28,0,3,1,0,3,0,0,1,5,0,1,0,3,0,Instagram,1,1,Reading
+29,1,2,1,0,1,0,0,0,3,1,1,1,3,0,Facebook,0,1,Exercising
+23,0,1,3,1,3,1,0,1,2,0,1,1,3,1,Instagram,0,0,Spending time with family
+30,1,3,3,0,2,1,1,1,3,1,1,1,3,1,Facebook,1,1,Reading
+21,0,2,2,1,2,0,0,0,4,0,0,0,2,0,Instagram,1,0,Exercising
+19,0,0,3,1,3,1,1,1,2,1,1,1,1,1,Instagram,1,0,Spending time with family
+19,0,0,3,1,3,1,1,1,3,1,1,0,2,1,Telegram wats up,1,0,Reading
+31,1,2,2,0,2,1,0,1,3,0,1,1,4,1,Instagram,0,1,Exercising
+29,0,3,3,1,3,1,0,1,3,1,1,1,3,1,Instagram,0,0,Spending time with family
+18,0,0,2,1,0,1,0,1,2,1,1,1,1,1,Instagram,0,1,Reading
+29,1,2,1,0,1,0,0,0,4,0,1,1,1,0,Instagram,1,1,Exercising
+18,0,2,1,0,1,0,0,0,3,0,1,0,1,0,Instagram,0,0,Spending time with family
+29,0,3,2,0,2,1,0,1,4,1,1,1,3,1,Instagram,1,1,Reading
+23,0,2,3,1,3,1,1,1,3,1,1,1,2,0,Instagram,0,0,Exercising
+30,1,3,1,0,1,1,0,1,4,0,1,1,1,1,Facebook,1,0,Spending time with family
+50,0,4,0,0,1,1,1,1,3,1,1,1,3,1,WhatsAppTelegram ,0,1,Exercising
+20,1,2,1,1,2,0,0,1,4,0,1,0,2,0,Facebook,1,0,Spending time with family
+19,0,2,1,1,1,0,1,1,4,1,1,1,3,1,Instagram,1,1,Reading
+23,0,1,1,0,2,0,0,1,3,0,1,0,2,0,Telegram,0,1,Exercising
+30,1,4,2,0,3,1,1,1,4,1,1,1,5,1,Instagram,0,0,Spending time with family
+19,0,2,3,1,3,1,1,1,3,1,1,0,1,0,Instagram,1,0,Reading
+47,0,3,2,0,2,0,0,1,3,0,1,0,3,0,Facebook,1,0,Exercising
+23,1,2,1,1,1,0,0,1,3,1,1,1,4,0,Instagram,1,1,Spending time with family
+19,0,2,3,0,3,0,0,1,4,1,0,1,4,0,Instagram,1,0,Reading
+51,1,3,2,0,2,0,0,1,4,0,1,1,4,0,Facebook,1,1,Exercising
+25,0,3,2,1,2,0,0,1,4,0,1,0,1,0,Instagram,1,1,Spending time with family
+33,1,3,1,0,3,1,1,1,4,0,0,1,2,1,YouTube,1,0,Reading
+36,1,3,3,0,3,1,0,1,1,1,1,1,1,1,TikTok,1,0,Exercising
+23,0,2,3,1,3,1,1,1,4,0,0,1,1,1,Instagram,1,0,Spending time with family
+45,1,3,2,0,3,1,1,0,4,0,0,1,3,0,Facebook,1,0,Reading
+19,0,2,3,1,3,0,0,1,5,1,1,1,2,1,TikTok,0,0,Exercising
+18,0,2,2,1,2,1,0,0,3,1,1,1,4,1,Instagram,0,0,Spending time with family
+26,1,2,3,0,3,1,1,1,4,0,1,0,3,1,Instagram,0,1,Exercising
+48,1,2,2,0,2,0,1,1,3,1,1,0,1,0,Facebook,1,0,Spending time with family
+22,1,2,2,0,3,1,0,1,1,1,1,1,3,1,Instagram,0,0,Reading
+41,1,4,1,0,2,0,0,0,5,0,1,0,1,0,Facebook,1,0,Exercising
+30,1,2,0,1,2,0,1,1,4,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram",0,1,Spending time with family
+20,0,2,3,1,3,1,0,1,3,1,1,0,4,0,Instagram,1,0,Reading
+40,0,2,3,1,3,1,1,1,3,0,1,1,3,1,Instagram,1,1,Exercising
+32,0,2,3,1,3,1,1,1,3,1,1,1,4,1,Instagram,0,0,Spending time with family
+27,0,3,2,1,2,0,0,0,4,0,1,0,1,0,Instagram,1,0,Reading
+19,0,2,3,1,3,1,0,1,3,1,1,1,3,0,Instagram,1,0,Exercising
+34,1,3,2,0,2,1,1,1,3,1,1,1,3,1,Facebook,1,1,Spending time with family
+25,0,2,1,1,2,0,1,1,3,1,1,1,1,0,Instagram,1,1,Reading
+32,0,3,2,0,2,0,0,0,4,0,0,0,2,0,Facebook,1,1,Exercising
+18,0,2,3,1,3,1,0,1,3,0,1,0,1,0,TikTok,1,0,Spending time with family
+32,0,3,2,0,1,1,1,1,3,1,1,1,3,0,Instagram,1,0,Reading
+25,0,2,0,1,2,1,0,0,5,0,1,0,1,0,YouTube ,0,1,Exercising
+19,0,2,3,0,3,0,0,0,3,1,1,0,2,0,"TikTok, Facebook, Telegram,Instagram",0,0,Spending time with family
+19,0,2,3,1,3,0,0,0,3,1,0,1,3,1,Instagram,1,0,Exercising
+39,1,4,2,0,2,1,1,1,3,1,0,1,1,1,Facebook,0,1,Spending time with family
+38,1,4,1,0,3,0,0,0,3,1,1,1,2,0,Facebook,0,0,Reading
+56,0,4,0,0,2,0,1,1,4,0,1,1,2,0,Instagram,1,0,Exercising
+23,0,2,2,1,2,0,0,0,4,1,0,1,2,0,"Telegram,Instagram,YouTube,Snapchat,XTikTok, Facebook",1,1,Spending time with family
+19,0,2,2,0,2,1,0,1,5,0,0,1,1,0,Instagram,1,0,Reading
+31,0,2,0,0,3,0,1,1,3,0,0,0,4,1,Facebook,0,0,Exercising
+19,0,2,3,1,3,1,0,1,2,0,1,1,3,1,TikTok,0,0,Spending time with family
+19,1,2,3,1,3,1,1,1,3,0,1,1,4,1,Instagram,0,0,Reading
+20,0,0,1,0,3,0,0,1,5,0,0,0,1,0,YouTube ,1,0,Exercising
+34,0,3,3,1,3,1,0,0,4,1,1,0,2,1,Facebook,0,1,Spending time with family
+25,0,0,2,1,1,0,1,1,2,1,1,1,2,1,Snapchat,1,1,Reading
+41,1,3,1,0,3,0,1,0,3,0,0,1,2,0,Facebook,1,0,Exercising
+34,0,3,3,1,3,1,0,0,4,0,1,1,2,1,Instagram,0,1,Spending time with family
+22,1,2,3,1,3,1,0,1,3,0,1,0,1,0,Instagram,1,0,Reading
+18,1,0,2,1,2,1,0,1,3,0,0,0,3,0,Instagram,0,0,Exercising
+22,0,1,3,1,3,0,0,0,4,0,1,0,3,0,Instagram,0,1,Spending time with family
+48,0,4,3,0,3,1,0,1,3,1,1,1,4,0,Instagram,1,1,Exercising
+44,1,4,3,0,3,1,0,0,5,0,1,0,1,0,Facebook,0,0,Spending time with family
+20,0,2,3,1,3,0,0,0,4,0,1,0,1,0,Instagram,0,0,Reading
+18,0,0,3,1,3,1,1,1,3,1,1,1,3,1,telegram ,0,0,Exercising
+23,1,2,2,0,2,1,1,1,3,1,1,1,5,1,TikTok,1,0,Spending time with family
+27,0,2,2,0,2,1,0,0,5,0,0,1,3,0,Instagram,1,0,Reading
+24,1,2,3,0,3,1,1,1,5,1,1,1,1,1,Instagram,1,1,Exercising
+34,1,3,3,1,3,1,1,1,3,0,1,1,4,1,Facebook,0,0,Spending time with family
+43,1,3,1,0,2,0,0,0,3,0,0,1,3,0,telegram,1,0,Reading
+35,0,3,1,0,2,0,1,1,3,1,1,1,4,1,Facebook,0,0,Exercising
+29,1,2,3,0,3,1,1,1,3,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,1,Spending time with family
+23,0,2,3,1,3,1,0,1,3,0,1,1,2,0,Instagram,0,1,Reading
+37,1,4,0,0,3,1,1,1,3,0,1,1,3,1,Facebook,1,1,Exercising
+21,0,2,1,0,2,1,0,0,4,1,1,1,3,1,Instagram,1,0,Spending time with family
+25,1,2,2,1,2,0,0,0,4,0,1,0,4,1,Facebook,1,1,Reading
+21,1,2,2,0,2,0,0,1,4,0,0,1,1,0,Facebook,1,0,Exercising
+20,0,2,2,1,3,1,0,1,3,0,1,0,2,0,Instagram,1,1,Spending time with family
+20,1,2,2,1,1,1,1,1,4,0,1,1,3,0,Instagram,1,1,Exercising
+21,0,2,2,1,2,0,0,0,4,1,0,1,2,0,Instagram,1,1,Spending time with family
+22,0,2,3,0,3,0,0,1,3,1,1,0,1,0,"TikTok, Facebook, Telegram,Instagram",1,0,Reading
+20,0,2,1,0,1,0,0,1,5,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram",0,1,Exercising
+45,0,4,3,0,3,1,0,0,5,0,0,0,4,0,Facebook,1,0,Spending time with family
+31,1,2,2,0,3,0,0,0,4,0,1,1,2,1,TikTok,1,0,Reading
+46,1,3,3,0,2,1,0,1,4,1,1,1,3,1,TikTok,1,0,Exercising
+22,0,1,3,1,3,1,0,1,5,0,1,0,3,1,Instagram,1,1,Spending time with family
+26,0,3,3,0,3,1,1,1,3,0,0,1,3,1,Facebook,0,0,Reading
+44,1,2,2,0,3,1,0,0,3,0,0,0,3,1,Facebook,0,0,Exercising
+22,1,2,3,1,3,0,0,1,4,0,1,1,1,0,TikTok,1,0,Spending time with family
+54,1,2,1,1,1,0,1,0,4,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram",1,1,Reading
+21,1,2,0,1,0,0,0,1,3,1,1,1,3,1,Telegram ,1,1,Exercising
+40,0,4,1,0,1,0,1,1,3,1,0,1,4,1,Instagram,1,1,Spending time with family
+19,0,0,3,1,3,1,1,1,3,1,1,0,3,0,Instagram,1,0,Reading
+27,0,2,3,1,2,1,0,1,4,0,1,1,3,0,Instagram,1,0,Exercising
+32,1,3,1,1,2,0,0,0,4,0,1,0,1,0,Facebook,1,1,Spending time with family
+19,0,1,2,1,2,1,0,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+18,1,2,3,0,3,1,1,1,3,1,1,0,4,1,Facebook,1,0,Spending time with family
+20,0,1,2,1,2,0,0,1,3,0,1,0,3,1,Instagram,1,1,Reading
+21,0,2,1,1,1,1,0,1,3,1,1,0,5,0,TikTok,1,0,Exercising
+27,1,2,3,1,3,1,0,1,4,0,1,1,5,1,Instagram,0,0,Spending time with family
+19,0,1,3,1,3,1,0,1,3,1,0,0,2,0,Instagram,1,1,Reading
+20,1,0,2,0,3,1,1,1,3,1,1,1,3,1,Instagram,0,0,Exercising
+34,0,3,1,0,2,0,0,0,4,0,1,0,1,0,"TikTok, Facebook, Telegram,Instagram",0,0,Spending time with family
+19,0,0,3,1,3,1,0,1,2,1,1,1,2,1,Instagram,1,1,Reading
+19,0,1,1,0,3,1,1,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram",1,0,Exercising
+20,0,1,3,0,3,1,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,1,Spending time with family
+19,0,1,3,1,3,1,1,1,5,0,1,1,5,1,Instagram,1,1,Reading
+22,1,0,3,1,3,1,1,1,3,1,1,1,4,1,Facebook,1,1,Exercising
+19,0,2,3,1,3,1,0,1,4,1,0,1,3,1,"Youtube, Telegram ",1,1,Spending time with family
+20,1,1,2,0,2,1,1,1,5,1,0,1,3,1,Instagram,1,0,Reading
+19,1,1,2,1,2,1,1,1,4,0,1,0,3,0,Instagram,1,0,Exercising
+21,1,1,2,1,2,1,0,1,3,1,1,0,4,1,TikTok,1,0,Spending time with family
+21,1,1,3,0,3,1,0,1,3,0,1,1,3,1,YouTube ,1,1,Exercising
+18,1,1,3,0,3,0,0,1,4,0,1,0,3,1,Instagram,1,1,Spending time with family
+18,1,1,2,1,3,0,1,1,3,0,0,1,3,0,Instagram,1,1,Reading
+19,0,2,2,0,2,0,0,1,3,0,1,0,5,0,"TikTok, Facebook, Telegram,Instagram",0,0,Exercising
+22,0,2,2,0,2,1,0,1,4,1,1,0,2,1,Instagram,1,0,Spending time with family
+18,0,1,3,1,3,1,0,1,3,1,1,1,2,1,Telegram ,1,0,Reading
+20,0,2,3,1,3,1,0,1,4,1,1,0,1,0,YouTube,1,0,Exercising
+18,1,1,2,0,2,1,0,1,5,0,0,1,1,1,TikTok,0,0,Spending time with family
+28,0,2,1,0,2,0,1,1,3,1,1,1,4,1,Telegram ,1,0,Reading
+54,0,3,1,0,1,0,1,1,3,0,1,0,3,0,Facebook,1,1,Exercising
+20,0,1,3,1,3,1,1,1,2,1,1,1,4,1,Telegram,1,0,Spending time with family
+20,0,0,0,0,0,1,0,1,3,1,1,1,2,0,WhatsApp,1,0,Reading
+18,0,0,1,0,0,0,0,0,3,1,0,1,3,0,Instagram,0,0,Exercising
+20,0,1,2,0,2,0,1,1,4,1,1,1,2,0,Telegram,1,0,Spending time with family
+18,0,1,1,0,1,0,0,1,4,0,0,0,1,0,Instagram,1,1,Reading
+20,0,1,3,1,3,1,0,1,5,0,0,1,5,1,Instagram,0,1,Exercising
+20,0,2,2,1,2,0,0,0,3,0,1,1,1,0,Instagram,0,1,Spending time with family
+20,0,1,2,1,2,0,1,1,5,0,1,0,1,1,TikTok,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,1,3,1,3,1,0,1,3,0,1,0,3,0,Instagram,1,1,Spending time with family
+40,1,4,2,0,0,1,0,1,5,0,1,0,1,1,Facebook,0,0,Reading
+19,0,0,1,0,1,0,1,1,2,0,1,0,1,0,Youtube,0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,2,3,1,3,1,0,0,4,0,0,0,2,0,Instagram,0,1,Spending time with family
+21,0,1,3,1,3,0,0,1,3,1,1,1,3,1,Instagram,1,1,Reading
+38,0,3,2,1,1,1,0,0,3,0,1,0,1,1,Facebook,1,0,Exercising
+23,1,2,3,1,3,1,0,1,3,1,1,0,1,0,Instagram,1,1,Spending time with family
+33,1,3,1,0,2,1,1,1,4,1,0,1,3,1,Facebook,0,1,Reading
+19,0,2,3,1,3,1,1,1,4,1,1,1,1,1,Instagram,1,0,Exercising
+12,1,4,3,1,3,0,0,0,5,0,1,0,1,0,Instagram,0,0,Spending time with family
+40,0,2,2,0,2,1,1,1,3,1,1,1,4,1,TikTok,0,0,Reading
+19,0,1,2,0,2,1,0,1,3,0,1,1,3,0,Instagram,1,1,Exercising
+20,1,2,2,1,3,0,0,0,3,0,0,0,3,0,Instagram,1,0,Spending time with family
+20,0,2,3,0,3,1,1,1,5,0,0,1,3,0,Instagram,1,1,Reading
+26,0,2,3,1,3,1,1,1,3,1,1,1,3,1,Telegram ,1,1,Exercising
+20,0,2,1,1,1,1,0,0,4,1,1,1,3,0,Instagram,1,1,Spending time with family
+20,0,2,1,1,1,1,0,1,4,0,0,1,2,1,Instagram,1,1,Exercising
+20,1,1,1,1,3,1,0,1,4,0,1,0,3,0,Instagram,1,0,Spending time with family
+19,0,2,2,0,2,0,0,1,4,0,0,0,2,0,Instagram,1,0,Reading
+19,0,0,2,1,1,0,1,1,4,0,1,1,3,0,Instagram,0,0,Exercising
+40,1,3,2,0,2,0,1,1,4,0,1,1,3,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Spending time with family
+23,1,0,1,1,3,0,0,0,4,0,0,0,1,0,"TikTok, Facebook, Telegram,Instagram",1,0,Reading
+27,0,2,2,0,2,1,0,0,4,0,1,1,2,0,Instagram,1,0,Exercising
+28,1,2,3,1,3,1,1,1,2,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Spending time with family
+35,1,2,1,0,1,0,0,1,4,1,0,0,3,1,Facebook,1,1,Reading
+25,1,2,3,1,3,1,1,0,1,1,1,1,5,1,Instagram,0,0,Exercising
+48,0,2,3,0,0,1,1,1,3,1,1,1,3,1,Instagram,1,1,Spending time with family
+19,0,2,2,1,2,0,0,0,4,0,1,0,1,1,Instagram,0,0,Reading
+19,1,2,0,0,3,0,0,1,4,1,0,1,3,1,Instagram,1,1,Exercising
+21,0,1,3,1,3,1,0,1,1,1,1,1,1,0,Instagram,1,1,Spending time with family
+20,1,1,3,1,3,1,0,1,3,1,1,1,3,0,TikTok,0,0,Reading
+20,0,1,1,0,3,1,0,1,4,1,1,0,2,0,Instagram,1,0,Exercising
+20,0,2,1,1,0,0,0,1,5,0,1,0,1,0,Instagram,1,0,Spending time with family
+21,1,1,3,0,3,1,0,1,4,0,1,0,1,0,Instagram,0,0,Exercising
+28,1,3,2,0,3,1,1,1,3,0,1,1,3,1,Facebook,1,1,Spending time with family
+21,1,2,1,1,0,0,1,1,4,1,0,0,1,0,Instagram,0,1,Reading
+32,1,3,1,0,2,0,0,1,2,1,1,1,2,1,Facebook,0,0,Exercising
+35,1,3,2,1,1,1,1,1,3,0,1,1,3,1,Facebook,1,1,Spending time with family
+31,1,3,3,1,3,1,1,1,3,1,0,1,4,1,TikTok,0,0,Reading
+26,1,2,3,1,3,1,1,1,3,1,1,1,5,1,TikTok,0,1,Exercising
+42,0,3,2,1,3,1,1,1,3,0,0,1,3,1,Facebook,1,0,Spending time with family
+30,0,3,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,1,Reading
+32,0,3,2,1,2,1,0,1,3,1,1,0,1,0,Instagram,1,0,Exercising
+23,1,2,2,0,1,1,1,1,3,0,0,1,2,0,"TikTok, Facebook, Telegram,Instagram",1,1,Spending time with family
+18,0,0,3,1,3,1,1,1,3,0,1,1,5,1,Instagram,0,1,Reading
+29,1,3,1,0,2,1,1,1,4,0,1,1,4,1,Facebook,0,1,Exercising
+28,0,3,1,0,3,1,0,1,4,0,0,0,3,1,Instagram,1,1,Spending time with family
+29,1,3,3,0,3,0,1,1,5,0,1,1,4,1,Telegram,1,0,Reading
+24,1,0,2,0,1,0,0,0,3,0,1,1,3,0,Facebook,1,0,Exercising
+40,1,3,1,0,2,0,0,1,4,1,1,1,2,1,Facebook,0,0,Spending time with family
+20,1,1,3,0,3,1,0,1,3,0,1,1,1,1,Instagram,1,0,Exercising
+44,1,3,0,0,0,0,0,1,5,0,1,0,1,0,TikTok,0,0,Spending time with family
+48,1,3,3,1,3,1,1,1,4,0,1,1,2,0,Facebook,1,0,Reading
+30,1,2,1,1,1,0,0,0,4,1,1,0,1,1,"TikTok, Facebook, Telegram,Instagram",0,1,Exercising
+29,1,2,1,0,1,1,1,1,4,1,1,1,3,1,Instagram,1,1,Spending time with family
+44,1,3,1,0,2,0,1,1,5,0,0,0,3,1,Facebook,1,1,Reading
+29,0,2,3,1,3,1,1,1,3,1,1,1,5,1,Instagram,1,1,Exercising
+27,0,3,3,1,3,1,0,0,4,0,1,0,3,0,Instagram,0,0,Spending time with family
+19,0,1,3,1,3,1,1,1,5,0,1,0,1,0,TikTok,1,0,Reading
+21,1,2,3,1,3,0,1,1,5,0,1,0,1,0,Instagram,0,0,Exercising
+44,0,2,1,1,2,1,1,1,4,0,1,1,3,1,Facebook,1,1,Spending time with family
+31,1,2,2,0,3,0,0,0,4,0,1,0,5,1,Instagram,1,0,Reading
+19,0,1,2,1,2,1,0,1,3,1,1,0,2,0,Instagram,0,0,Exercising
+55,1,2,2,0,2,0,0,1,5,0,0,0,1,0,"TikTok, Facebook, Telegram,Instagram",1,0,Spending time with family
+21,1,1,3,1,3,1,1,1,1,1,1,1,5,1,TikTok,0,0,Reading
+54,1,2,1,0,1,1,0,1,4,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram",1,0,Exercising
+27,1,2,3,1,3,1,1,1,3,0,1,1,5,1,Instagram,0,0,Spending time with family
+30,0,3,3,1,3,1,0,0,4,0,1,1,1,0,Instagram,0,1,Exercising
+45,1,3,1,1,1,1,0,1,2,1,0,1,2,1,Facebook,0,1,Spending time with family
+34,0,3,1,1,3,0,0,0,4,1,0,0,2,0,Facebook,0,1,Reading
+27,0,3,3,0,3,1,0,1,5,0,1,0,3,0,Facebook,1,0,Exercising
+35,0,4,3,1,2,0,1,0,4,0,0,1,2,1,Facebook,1,0,Spending time with family
+27,0,3,3,1,3,0,0,0,4,1,1,0,3,0,Instagram,1,1,Reading
+44,0,2,3,0,3,0,0,0,4,0,0,1,2,0,Googel,1,1,Exercising
+58,1,2,3,0,2,1,1,1,4,1,0,1,4,1,Facebook,1,1,Spending time with family
+34,0,3,3,0,3,1,0,1,4,0,1,1,2,0,Instagram,1,0,Reading
+36,0,3,1,0,2,0,0,1,3,1,0,0,3,0,Facebook,0,0,Exercising
+54,0,3,0,0,0,0,0,1,4,0,1,0,4,0,TikTok,0,0,Spending time with family
+36,1,3,3,1,3,1,1,1,3,1,1,1,4,1,TikTok,1,1,Reading
+51,1,2,2,0,2,0,0,1,4,0,0,0,4,0,Facebook,0,0,Exercising
+33,1,3,1,1,2,0,0,0,4,0,0,0,2,0,YouTube ,0,0,Spending time with family
+32,0,3,3,1,3,0,1,1,4,0,1,1,3,1,Instagram,1,1,Reading
+18,1,2,3,0,3,1,0,1,4,0,0,1,3,0,TikTok,1,0,Exercising
+19,0,2,3,0,3,1,0,1,4,1,1,1,5,1,Instagram,1,0,Spending time with family
+18,1,0,1,1,1,0,0,0,5,1,0,1,1,0,Instagram,0,0,Exercising
+42,1,4,1,0,3,1,1,1,5,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Spending time with family
+37,0,3,3,1,3,1,1,1,5,0,0,1,5,1,Instagram,0,0,Reading
+39,0,2,3,1,3,1,0,0,3,0,1,1,4,1,YouTube,0,0,Exercising
+50,1,2,0,0,0,0,1,1,3,1,1,1,4,1,WhatsApp,1,0,Spending time with family
+35,1,3,3,0,2,1,1,1,4,0,0,1,3,1,Facebook,1,1,Reading
+27,0,3,3,0,3,1,0,1,3,1,1,0,4,1,Instagram,1,0,Exercising
+45,0,3,2,1,1,0,0,1,5,0,1,1,3,1,Facebook,1,1,Spending time with family
+25,0,2,0,1,2,0,0,0,5,0,1,0,2,0,TikTok,0,1,Reading
+18,0,2,3,1,3,1,1,1,2,1,1,1,2,1,TikTok,0,1,All of the above options
+41,1,3,2,0,2,0,1,0,3,1,1,كليهما,3,1,TikTok,1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+31,1,3,3,1,2,1,0,1,4,1,1,0,1,1,Facebook,1,0,All of the above options
+18,0,2,2,1,2,0,1,0,3,0,1,كليهما,4,1,Instagram و Telegram,0,1,All of the above options
+51,0,3,1,1,1,0,0,1,3,0,0,0,2,1,TikTok,0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+23,0,1,3,1,3,0,0,1,3,0,0,0,3,1,Telegram,1,1,Exercising
+22,0,2,2,1,3,0,0,1,3,1,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+33,0,2,2,1,3,0,0,1,4,0,0,0,4,1,TikTok,1,0,Exercising
+37,1,3,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+35,1,3,1,0,3,0,0,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,None
+29,1,2,3,1,3,1,0,0,4,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+54,1,2,2,1,3,0,1,1,4,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+34,0,3,3,1,3,1,0,1,3,1,1,1,4,1,"Instagram, Telegram",1,1,None
+35,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",0,0,Hanging out with friends
+38,1,4,2,1,2,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+42,1,4,2,1,3,0,0,0,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+35,1,4,2,1,3,1,1,1,4,1,1,1,3,1,"Facebook, Instagram",1,1,All of the above options
+33,1,4,1,1,3,1,1,1,5,0,1,1,3,1,"Facebook, Telegram",1,1,All of the above options
+45,0,3,2,1,3,1,1,1,4,1,1,1,4,1,"Facebook, Telegram",1,0,Reading
+32,0,2,2,1,3,0,0,1,5,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+30,1,2,3,1,3,1,1,1,3,1,1,1,3,1,TikTok,1,0,Hanging out with friends
+12,1,0,1,0,1,0,0,0,5,0,0,0,1,1,TikTok,1,0,Exercising
+39,1,3,0,1,3,0,1,1,3,1,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,None
+19,0,0,3,1,3,1,1,1,3,0,0,0,4,1,TikTok,1,0,None
+56,0,2,1,1,1,0,0,1,3,1,1,1,2,1,"Facebook, Instagram",1,0,All of the above options
+17,0,2,0,1,0,0,0,0,5,0,0,0,1,1,"Instagram, Telegram",1,1,None
+30,0,3,3,1,3,1,1,1,3,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+18,0,2,3,1,3,1,0,0,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+33,1,2,0,1,3,0,1,1,4,0,0,1,3,1,Facebook,1,1,Hanging out with friends
+30,1,3,2,1,2,1,1,1,3,1,1,1,3,1,TikTok,1,1,All of the above options
+48,0,2,1,0,1,1,1,1,3,1,0,1,2,1,Instagram,1,1,All of the above options
+52,0,2,1,0,2,0,0,1,5,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+37,0,3,3,1,2,1,1,1,4,1,1,1,4,1,Facebook,1,1,None
+46,0,2,2,1,3,1,0,1,3,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,All of the above options
+53,1,2,2,1,2,0,1,1,5,1,1,1,3,1,TikTok,0,0,None
+26,0,0,0,1,2,1,0,1,3,0,1,1,4,1,Instagram,1,1,All of the above options
+29,0,3,2,0,2,0,1,0,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,None
+20,0,0,2,1,3,0,1,1,4,1,1,1,1,1,Instagram,1,1,None
+36,0,3,1,1,3,0,0,0,5,0,0,0,4,1,Facebook,1,1,None
+37,0,3,2,1,3,0,0,1,4,1,0,1,1,1,"Facebook, Instagram, Telegram",0,0,All of the above options
+30,1,3,2,1,3,0,0,1,5,0,0,0,1,1,"Facebook, Telegram",1,0,None
+43,0,3,0,1,2,0,1,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+51,1,4,1,1,1,1,0,1,5,0,0,1,1,1,Facebook,1,1,None
+18,0,2,2,1,2,1,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,1,2,2,1,1,0,1,1,3,1,0,1,4,1,TikTok,1,1,Spending time with family
+17,0,0,2,1,2,0,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,None
+19,0,2,2,1,2,1,1,1,4,1,1,1,3,1,Telegram,1,1,All of the above options
+34,0,2,0,1,1,0,0,0,5,0,0,1,1,1,Instagram,1,0,All of the above options
+19,1,2,3,1,3,0,0,1,5,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+43,0,3,0,1,3,0,0,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+46,1,4,1,0,3,0,0,0,5,0,1,0,1,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+18,0,0,1,1,2,0,0,1,4,0,0,0,2,1,Telegram,1,0,All of the above options
+31,0,4,1,1,1,0,0,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram",0,0,None
+29,0,2,1,0,1,0,0,0,4,0,1,1,3,1,TikTok,1,1,Hanging out with friends
+43,1,4,2,0,3,1,1,1,3,1,1,1,4,1,Telegram,1,1,None
+18,0,2,2,1,2,1,0,1,3,1,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+30,1,3,1,1,1,1,0,0,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+64,1,3,1,1,1,0,1,1,3,0,1,1,3,1,"Facebook, Telegram",1,0,All of the above options
+39,0,3,2,1,3,1,1,1,5,1,0,1,3,1,"Facebook, Telegram",1,1,Exercising
+38,1,2,1,1,3,1,1,1,3,0,0,1,3,1,"Facebook, Instagram, Telegram",0,0,Exercising
+33,0,2,2,1,2,1,1,1,4,1,1,1,4,1,"Facebook, Instagram, Telegram",1,1,Hanging out with friends
+54,1,4,2,1,3,1,1,1,4,1,1,1,5,1,"Facebook, Instagram, Telegram",1,1,Reading
+37,0,3,0,0,1,0,1,1,3,1,0,0,3,1,Facebook,1,1,Hanging out with friends
+18,0,2,3,1,3,0,1,1,3,1,1,1,4,1,Instagram,0,1,None
+28,0,2,3,1,3,0,0,1,3,0,0,1,3,1,"Instagram, Telegram,TikTok, Facebook, Telegram",1,0,All of the above options
+58,0,3,1,1,1,0,1,0,5,1,1,1,3,1,"TikTok, Facebook, Telegram",1,1,Reading
+36,0,2,2,1,3,0,0,1,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+33,1,3,3,1,3,1,1,1,5,0,1,1,4,1,Facebook,0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+25,0,2,3,1,3,1,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+34,1,4,2,1,2,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+50,0,3,3,1,3,1,1,1,4,0,0,1,2,1,"Facebook, Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+38,1,3,1,0,3,0,0,0,4,0,0,0,3,1,Telegram,1,1,Hanging out with friends
+45,0,3,1,1,1,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,3,1,3,1,0,1,3,0,1,1,2,1,Telegram,1,1,All of the above options
+38,1,3,2,1,2,0,1,1,3,1,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+45,0,1,1,0,3,0,1,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+40,0,4,1,1,3,0,1,1,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+25,0,2,2,1,2,0,0,0,5,0,0,0,2,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+35,1,3,2,1,2,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,2,3,1,3,1,0,1,3,1,1,0,2,1,"TikTok, Facebook, Telegram",1,0,Hanging out with friends
+35,1,3,1,1,1,1,0,1,4,1,0,1,3,1,"Facebook, Telegram",0,0,Exercising
+45,0,3,1,0,0,0,1,0,5,0,0,0,5,1,Facebook,0,0,All of the above options
+35,0,2,1,1,1,0,1,1,3,1,1,1,3,1,"Facebook, Telegram",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+39,0,3,1,1,1,0,0,0,5,0,0,0,1,1,"Facebook, Telegram",0,1,Exercising
+18,1,2,1,1,2,0,1,1,3,0,1,0,2,1,"Instagram, Telegram",1,1,All of the above options
+18,0,2,3,1,3,1,1,1,1,0,1,1,4,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,0,4,3,1,3,0,0,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+32,0,3,1,0,2,0,0,0,3,0,0,1,4,1,"Facebook, Instagram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+28,0,3,0,1,1,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,1,Exercising
+52,1,3,3,0,3,0,0,0,4,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+50,0,3,2,1,3,0,0,0,5,0,0,0,2,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+46,0,3,1,1,2,0,0,1,4,0,0,1,4,1,Facebook,0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+45,0,3,3,1,3,0,1,1,4,0,0,1,3,1,"Facebook, Telegram",1,1,All of the above options
+43,1,3,1,1,1,0,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+33,1,3,1,1,3,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+52,1,4,2,1,3,1,1,1,4,0,0,1,4,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+43,1,3,3,0,3,1,1,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+34,1,3,2,1,3,1,1,1,4,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+57,1,3,0,1,2,1,1,1,4,0,0,1,3,1,Telegram,0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+52,0,1,1,1,2,0,1,0,4,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,Reading
+22,0,2,1,1,2,0,1,1,4,0,0,1,2,1,Instagram,1,1,Reading
+27,0,2,2,1,2,0,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+32,0,2,3,1,3,1,0,1,4,1,1,1,3,1,Instagram,1,0,All of the above options
+29,0,1,1,0,1,0,0,0,4,0,0,0,1,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,2,0,0,3,0,0,1,3,0,0,1,4,1,"TikTok, Facebook, Telegram",0,1,All of the above options
+25,0,2,2,0,0,0,1,1,4,1,1,1,2,1,"Instagram, Telegram",1,1,All of the above options
+27,1,2,3,1,3,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",0,1,Hanging out with friends
+28,0,1,3,1,3,1,1,0,3,1,0,1,2,1,"TikTok, Facebook, Telegram",1,0,Reading
+30,1,2,0,1,2,0,0,0,4,1,1,0,1,1,"TikTok, Facebook, Telegram,Instagram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,3,1,3,1,1,1,3,0,1,1,3,1,Telegram,1,0,Hanging out with friends
+27,1,1,2,1,2,0,0,0,4,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram",1,0,Hanging out with friends
+22,1,2,2,1,2,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram",1,1,All of the above options
+19,1,2,3,0,3,1,1,1,3,1,1,1,3,1,"Facebook, Instagram, Telegram",1,0,All of the above options
+50,0,3,3,1,3,0,1,1,4,0,0,1,2,1,"Facebook, Telegram",1,1,Exercising
+35,1,3,3,1,3,0,0,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram",1,0,Hanging out with friends
+25,0,2,3,1,3,1,1,1,3,1,0,1,3,1,"TikTok, Facebook, Telegram",0,1,All of the above options
+18,0,2,2,0,2,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,1,Reading
+19,0,2,1,1,1,1,1,1,3,1,1,1,3,1,"Instagram, Telegram",0,1,Exercising
+24,1,2,2,1,2,0,0,0,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",0,1,All of the above options
+32,1,3,1,1,1,0,1,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram",1,1,All of the above options
+49,0,4,1,0,1,0,0,0,3,0,1,1,3,1,Facebook,1,0,Reading
+26,0,1,1,1,1,0,0,0,3,0,0,0,1,1,"Facebook, Telegram",0,0,Hanging out with friends
+52,1,3,1,1,1,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram",1,0,All of the above options
+18,0,2,3,1,3,0,1,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+50,0,3,0,1,2,0,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+50,1,3,2,0,3,1,1,1,3,1,1,1,3,1,Facebook,1,1,Hanging out with friends
+27,0,2,0,1,2,0,0,1,5,0,0,0,1,1,"TikTok, Facebook, Telegram",1,1,Reading
+35,1,4,2,0,3,0,1,1,5,0,1,1,3,1,"Facebook, Telegram",0,1,All of the above options
+50,0,3,1,1,3,0,1,1,5,0,1,1,3,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+35,0,4,1,1,3,0,0,0,4,0,1,1,2,1,Telegram,1,1,Hanging out with friends
+30,1,2,3,1,3,0,0,1,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,0,3,1,3,1,1,1,3,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram",1,1,All of the above options
+20,0,2,2,1,2,1,1,1,3,1,1,1,4,1,Instagram,1,1,All of the above options
+21,0,2,2,1,2,0,0,1,3,0,0,0,3,1,"Instagram, Telegram",1,0,Hanging out with friends
+43,0,4,3,1,2,0,0,1,4,1,1,1,3,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+49,0,2,1,1,3,1,1,1,5,0,1,1,5,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+27,0,1,0,1,2,0,1,1,4,1,1,1,4,1,"TikTok, Facebook, Telegram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+23,0,2,3,1,3,1,1,1,3,1,1,1,4,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,1,2,0,2,0,1,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,0,3,3,0,3,0,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",0,1,Reading
+20,0,2,3,1,3,1,1,1,4,0,0,0,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+58,1,4,2,0,3,1,1,0,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram",0,1,Hanging out with friends
+25,1,3,3,1,3,1,1,1,2,1,1,1,5,1,"Facebook, Telegram,TikTok, Facebook, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+17,1,0,3,1,3,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,Exercising
+29,1,2,2,1,2,1,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+31,1,3,3,1,3,1,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram",1,0,Reading
+18,0,2,3,1,3,0,1,1,3,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram",1,0,All of the above options
+17,1,0,1,1,2,0,1,1,4,0,1,1,4,1,Telegram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+32,0,2,1,1,1,0,1,1,4,0,0,1,1,1,"Instagram, Telegram",1,1,Reading
+25,0,2,1,1,1,1,1,1,1,1,1,1,1,1,"Instagram, Telegram",1,0,All of the above options
+32,1,0,1,0,1,0,0,1,5,0,0,0,3,1,Facebook,0,1,Reading
+35,0,2,0,0,0,0,0,0,4,0,0,0,3,1,"TikTok, Facebook, Telegram",1,1,Exercising
+28,0,3,3,0,2,1,0,1,4,0,0,1,2,1,"Instagram, Telegram",1,1,Reading
+48,0,1,0,1,1,0,0,1,5,0,0,1,3,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+45,1,2,0,1,0,0,0,0,5,0,0,1,4,1,"TikTok, Facebook, Telegram",0,0,All of the above options
+37,1,2,3,1,3,1,1,1,4,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram",1,0,All of the above options
+27,0,2,1,1,1,0,0,1,4,0,0,0,1,1,Instagram,1,1,Hanging out with friends
+32,1,2,1,1,1,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+45,0,2,1,1,1,0,0,0,5,0,0,0,1,1,Telegram,1,1,All of the above options
+20,0,0,3,1,2,0,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+49,0,2,1,1,1,1,1,1,4,1,1,1,3,1,"Facebook, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+25,0,1,3,1,2,1,1,1,4,1,0,0,3,1,"TikTok, Facebook, Telegram,Instagram",1,0,Hanging out with friends
+27,0,3,1,1,2,0,1,1,3,0,0,1,3,1,"Instagram, Telegram",1,1,All of the above options
+34,1,2,0,1,0,0,1,1,4,1,0,1,5,1,"TikTok, Facebook, Telegram,Instagram",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+48,0,1,1,1,1,0,1,1,4,1,0,1,4,1,Instagram,1,1,Reading
+39,1,4,0,0,1,1,0,1,3,0,0,0,5,1,"TikTok, Facebook, Telegram,Instagram",1,1,Reading
+20,0,0,3,1,3,0,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram",1,0,Sleeping
+35,1,2,3,1,3,1,1,1,4,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram",1,1,Reading
+32,1,2,3,1,3,0,1,0,5,1,0,1,5,1,"Facebook,TikTok, Facebook, Telegram",1,0,Exercising
+25,0,2,3,1,3,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+25,1,1,2,0,3,0,1,1,3,0,1,1,3,1,"Facebook, Instagram, Telegram",1,0,Hanging out with friends
+31,0,2,2,1,3,0,1,1,3,1,1,1,2,1,Instagram,1,1,Reading
+20,0,2,2,1,2,1,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,1,Hanging out with friends
+20,0,0,3,1,3,1,1,1,4,0,0,1,4,1,Telegram,1,0,Exercising
+51,0,3,0,0,1,0,1,1,4,0,1,1,4,1,Telegram,1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+24,0,2,3,1,3,1,0,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+37,1,4,2,0,2,1,1,1,5,0,1,1,1,1,Facebook,1,1,Hanging out with friends
+20,1,2,1,1,3,1,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram",1,1,Hanging out with friends
+20,0,2,2,1,2,0,0,1,4,0,0,0,4,1,Telegram,1,1,Hanging out with friends
+21,1,2,2,1,2,0,0,1,4,1,0,1,4,1,"Instagram, Telegram",1,1,Exercising
+23,0,1,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,0,Reading
+20,1,0,3,1,3,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube",1,0,All of the above options
+19,1,0,3,1,3,1,1,1,3,0,1,1,3,1,Instagram,1,0,All of the above options
+21,0,0,3,1,0,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram",1,0,Exercising
+21,1,0,1,1,1,1,0,0,4,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram",1,1,All of the above options
+54,0,1,2,0,2,1,0,0,4,1,0,1,4,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+24,0,0,0,0,0,0,0,1,5,1,1,1,5,1,Telegram,1,0,Reading
+56,1,2,3,1,3,1,0,0,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube",1,0,Hanging out with friends
+19,1,0,2,1,2,0,0,0,5,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube",1,1,All of the above options
+37,1,2,1,1,1,0,1,1,4,0,0,0,2,1,Facebook,1,1,All of the above options
+25,0,1,1,1,1,1,1,1,4,0,0,0,3,1,"Facebook, Instagram, Telegram, Snapchat",1,1,All of the above options
+19,0,2,3,1,3,1,0,1,3,1,1,0,3,1,"Instagram, Telegram",1,1,All of the above options
+19,0,2,3,1,3,1,1,1,3,1,1,1,5,1,"Instagram, Telegram",1,1,Hanging out with friends
+19,0,2,3,1,3,1,0,0,3,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,Hanging out with friends
+19,1,2,2,1,3,1,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat",1,0,Reading
+19,0,2,3,1,1,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat",1,0,Hanging out with friends
+21,1,2,1,1,2,0,0,0,3,0,0,0,4,1,"TikTok, Facebook, Telegram",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"Instagram,TikTok, Facebook, Telegram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,1,2,2,1,2,0,0,1,5,0,0,0,2,1,Instagram,1,1,Exercising
+19,1,0,3,1,3,0,1,1,2,1,1,1,1,1,"Snapchat,TikTok, Facebook, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,1,2,3,1,3,0,0,1,4,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,1,2,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,0,Reading
+20,0,2,1,1,2,1,1,1,3,0,1,1,2,1,"Instagram, Telegram",1,1,All of the above options
+20,0,2,2,1,2,0,0,1,3,1,1,1,1,1,Telegram,1,1,All of the above options
+18,0,2,1,1,2,0,0,0,3,1,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,0,2,3,1,3,0,0,1,3,1,1,1,5,1,"Instagram, Telegram",0,1,Hanging out with friends
+18,1,2,1,1,3,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram",1,1,All of the above options
+20,0,2,3,1,3,1,1,1,3,0,1,1,3,1,Instagram,1,1,Reading
+13,0,2,1,1,1,0,0,0,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat",1,1,All of the above options
+20,1,2,1,1,2,0,0,0,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,2,3,1,3,1,1,1,3,1,1,1,4,1,Instagram,0,1,Hanging out with friends
+19,1,2,3,1,3,1,0,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+37,0,3,0,1,0,0,0,1,5,1,0,1,4,1,Telegram,0,0,All of the above options
+19,1,2,2,1,2,0,0,0,4,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram",1,1,Reading
+18,0,0,2,1,2,1,0,1,4,1,1,1,5,1,Instagram,0,0,All of the above options
+19,1,2,1,1,2,0,0,1,5,0,0,0,1,1,"Instagram, Telegram",1,0,Hanging out with friends
+22,1,2,3,1,3,0,0,1,4,1,1,1,3,1,"Instagram, Telegram",1,0,All of the above options
+19,0,2,3,1,3,1,1,1,2,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+18,0,2,2,1,2,1,0,1,4,0,0,1,3,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,1,2,3,1,3,1,1,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+21,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram,TikTok, Facebook, Telegram",1,1,Hanging out with friends
+22,1,2,3,1,3,1,0,1,4,0,0,1,1,1,"Instagram,TikTok, Facebook, Telegram",1,0,Reading
+21,1,2,3,1,3,1,0,0,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,0,3,1,3,1,1,1,3,1,1,1,2,1,"Instagram, Telegram, Snapchat",1,1,Hanging out with friends
+23,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram",1,1,Exercising
+22,0,2,2,1,3,0,1,1,3,0,1,1,3,1,Telegram,1,1,Reading
+21,0,2,1,1,1,0,1,1,4,1,1,1,3,1,Instagram,1,1,Hanging out with friends
+22,0,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+21,1,2,3,1,3,1,0,1,4,1,1,1,3,1,Instagram,1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,0,1,1,3,0,0,0,3,0,1,1,1,1,Telegram,1,0,Reading
+19,1,0,3,1,2,0,0,1,3,1,1,1,3,1,"Instagram, Telegram",1,1,Reading
+21,1,2,2,1,2,1,1,1,3,1,1,1,4,1,Instagram,1,1,Hanging out with friends
+23,0,2,2,1,2,0,0,1,4,0,1,0,1,1,Instagram,0,0,Hanging out with friends
+21,0,2,3,1,3,1,1,1,3,1,1,0,2,1,"Instagram, Telegram, Snapchat",1,0,All of the above options
+20,0,2,3,1,3,1,1,1,4,0,1,1,3,1,"Instagram, Telegram",1,1,Reading
+19,0,0,3,1,3,1,0,1,3,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+21,0,2,2,1,3,1,0,1,4,1,1,1,3,1,"Instagram, Telegram",0,1,Hanging out with friends
+21,1,2,3,1,3,1,0,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+35,0,3,2,1,3,1,0,1,2,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+22,1,2,3,0,3,1,1,1,3,1,1,1,5,1,Facebook,1,0,All of the above options
+20,0,0,3,1,3,1,0,1,3,0,1,1,2,1,Instagram,1,1,All of the above options
+39,1,4,1,1,1,0,0,1,5,0,0,0,3,1,"Facebook, Instagram",1,0,Reading
+21,0,2,3,1,3,1,1,1,2,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,1,2,1,1,2,1,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram",0,1,Reading
+20,0,2,1,1,1,0,0,1,4,0,1,1,2,1,Telegram,1,0,All of the above options
+22,1,2,1,1,3,0,1,1,3,1,1,1,2,1,Telegram,1,1,Exercising
+17,0,0,3,1,3,1,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+22,0,2,1,1,2,1,1,1,3,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+21,1,2,0,1,0,0,0,0,4,0,0,1,1,1,Facebook,1,1,All of the above options
+19,0,2,2,1,3,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+36,1,3,2,0,3,1,0,0,3,0,1,1,5,1,Facebook,1,1,All of the above options
+24,1,2,2,1,1,0,1,1,5,1,0,0,3,1,Instagram,0,1,All of the above options
+18,1,0,2,1,2,0,1,1,5,0,0,1,3,1,Instagram,1,1,Reading
+22,1,1,3,1,3,1,0,1,3,0,0,1,3,1,Instagram,1,1,Hanging out with friends
+25,1,2,1,1,2,0,1,1,4,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram",1,0,Exercising
+37,1,3,3,1,3,1,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+18,1,2,3,1,1,0,0,1,4,1,1,0,2,1,"TikTok, Facebook, Telegram,Instagram",1,1,All of the above options
+35,0,2,1,1,2,0,0,1,4,0,0,0,2,1,Instagram,1,1,Exercising
+47,1,4,1,1,1,1,1,1,3,1,1,1,3,1,"Facebook, Telegram",1,1,Hanging out with friends
+43,1,4,0,1,3,0,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+36,1,3,2,1,3,1,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+34,1,4,2,1,2,1,1,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+26,1,1,3,1,3,1,1,1,4,0,1,1,3,1,"Instagram, Telegram, Snapchat",1,0,Reading
+26,0,2,2,1,2,0,0,0,4,0,0,0,1,1,Snapchat,1,1,All of the above options
+44,0,3,3,1,3,1,1,1,5,1,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+34,0,3,1,1,1,0,0,1,4,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+30,0,3,3,1,3,1,0,1,4,0,0,1,3,1,Instagram,0,1,Hanging out with friends
+50,0,3,2,1,2,1,1,1,3,0,1,1,4,1,Facebook,0,1,Reading
+35,0,2,2,0,2,0,1,1,3,1,1,1,3,1,Instagram,1,0,Reading
+40,0,4,3,1,3,1,1,1,4,0,1,1,4,1,"Facebook, Instagram, Telegram",1,1,Exercising
+23,1,2,3,1,3,1,0,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+46,0,3,2,1,2,0,1,1,4,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+22,1,2,3,1,3,1,1,0,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,1,2,1,1,1,0,0,1,3,1,1,0,2,1,Instagram,1,1,All of the above options
+19,1,2,2,1,3,0,0,1,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+21,1,2,3,1,3,1,1,1,2,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+24,1,2,2,1,2,1,0,1,5,0,0,0,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+21,0,2,3,1,3,1,0,1,1,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+23,0,2,3,1,3,1,0,1,3,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,1,0,3,1,3,1,1,1,2,0,1,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+23,1,2,3,0,3,0,0,0,4,0,0,0,5,1,Instagram,0,1,Hanging out with friends
+48,1,4,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+26,1,2,3,0,2,1,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+21,1,2,3,1,3,0,1,1,3,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+23,1,2,0,1,1,0,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+34,1,2,0,1,0,1,1,0,3,1,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+23,1,2,2,0,2,1,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+22,1,2,3,1,3,1,0,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+20,1,2,1,0,1,0,1,1,4,0,0,1,3,1,"Facebook, Instagram, Telegram",0,0,Hanging out with friends
+21,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+28,1,3,2,1,2,1,1,1,5,0,1,0,3,1,Instagram,0,1,All of the above options
+21,1,2,1,1,1,1,1,1,3,0,0,1,4,1,Instagram,1,0,All of the above options
+23,1,2,1,0,1,0,1,1,1,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+35,1,1,2,1,2,0,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,the job 
+45,0,2,1,0,1,0,1,1,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+36,1,3,2,1,2,0,0,0,4,0,1,1,3,1,"Facebook, Telegram",1,1,Exercising
+23,1,2,0,1,1,0,0,0,3,0,0,0,3,1,Facebook,1,1,All of the above options
+24,0,1,1,1,2,0,0,1,4,0,0,1,3,1,"Facebook, Instagram, Telegram",1,1,Reading
+50,0,3,2,0,2,0,0,0,4,0,1,1,2,1,"Facebook, Instagram",0,0,All of the above options
+28,1,2,2,1,2,1,1,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+21,0,2,3,1,3,1,1,1,1,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+36,1,4,2,1,1,1,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+31,0,2,2,1,2,0,0,0,4,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+27,1,2,3,1,3,0,1,1,4,1,1,0,2,1,"Facebook, Telegram",1,0,All of the above options
+20,1,2,2,1,2,0,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+22,1,2,1,0,1,1,1,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+27,0,2,1,1,1,1,0,1,4,1,0,1,4,1,"Facebook, Instagram, Telegram",1,0,Reading
+54,0,3,1,1,2,0,0,0,4,0,1,1,3,1,"Facebook, Telegram",0,1,Hanging out with friends
+24,0,2,1,1,2,0,1,1,4,0,0,1,2,1,"Facebook, Instagram",1,1,All of the above options
+31,0,2,3,1,0,1,0,1,4,0,0,1,5,1,Instagram,0,1,Reading
+45,0,3,1,1,1,1,1,1,5,0,0,0,1,1,Facebook,1,1,All of the above options
+29,0,2,2,0,3,0,0,0,4,0,0,1,4,1,Instagram,1,1,Reading
+22,1,2,1,0,1,0,1,1,4,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+48,0,3,0,1,1,1,0,0,1,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,1,2,3,1,0,1,1,0,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+19,1,2,1,1,3,0,0,0,4,0,0,0,3,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+23,1,0,2,1,2,0,1,1,3,1,1,0,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+20,1,2,2,1,3,0,0,1,5,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+21,0,0,1,1,1,0,0,0,3,1,1,0,3,1,Telegram,1,1,Reading
+19,1,2,1,1,2,0,1,1,4,1,1,1,3,1,"Facebook, Telegram",1,1,Hanging out with friends
+20,1,2,2,0,0,0,1,1,4,0,1,0,2,1,"Facebook, Instagram",1,1,Reading
+18,1,2,1,1,3,0,0,1,4,1,0,1,3,1,"Facebook, Instagram",1,1,All of the above options
+19,0,2,2,0,3,1,0,1,4,0,1,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+21,1,2,2,1,3,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+22,1,2,2,1,2,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,1,2,0,1,2,0,0,1,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,1,0,2,1,2,0,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+18,1,2,1,1,1,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,1,2,1,1,1,0,0,1,4,0,0,0,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,0,2,2,1,2,0,1,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+27,1,2,2,1,2,0,1,0,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+33,1,4,2,1,3,1,1,1,4,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+23,0,2,1,1,1,0,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+25,0,2,3,1,3,1,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,2,3,1,3,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+28,0,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+23,0,2,2,1,2,1,1,1,4,0,1,1,3,1,Instagram,0,1,Hanging out with friends
+30,0,3,3,1,3,0,1,1,4,0,1,1,3,1,Facebook,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,1,2,3,0,3,1,0,1,3,1,1,1,3,1,"Instagram, Telegram",1,0,Hanging out with friends
+21,1,2,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,1,Reading
+41,1,3,1,1,1,1,1,1,2,1,1,1,5,1,Facebook,0,1,All of the above options
+37,1,2,1,1,3,0,0,1,5,0,0,1,4,1,Facebook,1,0,Hanging out with friends
+47,1,3,3,1,3,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+28,0,2,3,1,3,1,0,1,4,0,1,1,3,1,"Facebook, Instagram, Telegram",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,1,3,2,1,2,1,1,1,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+31,1,2,1,1,2,0,0,1,4,0,0,1,2,1,"Facebook, Telegram",1,1,Hanging out with friends
+28,1,2,3,1,3,1,1,1,5,0,1,1,3,1,"Facebook, Instagram",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,0,4,3,1,3,1,1,1,1,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+34,0,3,3,1,3,1,1,1,5,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+40,0,3,3,1,3,1,1,1,1,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+50,0,3,1,1,2,0,0,1,5,0,0,0,1,1,"Facebook, Telegram",1,0,Hanging out with friends
+30,1,2,3,0,2,1,1,1,3,1,0,0,3,1,"Telegram,Instagram,YouTube,Snapchat,XTikTok, Facebook",1,1,Hanging out with friends
+50,1,0,0,0,0,0,0,1,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+48,1,2,1,1,2,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+33,1,2,3,1,3,1,1,0,3,1,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+29,1,2,1,1,3,0,1,1,4,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+32,1,2,3,1,3,1,0,0,4,1,1,1,3,1,"Facebook, Instagram",0,1,Hanging out with friends
+60,1,0,1,1,1,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+24,0,2,1,1,1,1,0,1,3,0,1,1,3,1,Instagram,1,1,All of the above options
+32,1,2,2,1,3,0,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+35,1,2,1,1,1,0,1,1,4,0,1,1,5,1,Facebook,1,0,Exercising
+32,1,2,3,0,3,1,0,0,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+23,1,2,1,1,1,0,1,1,3,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+20,1,2,3,1,3,0,0,1,3,1,1,0,1,1,"Facebook, Instagram, Telegram",1,0,Reading
+21,1,2,2,1,0,1,1,1,4,1,1,0,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+21,0,2,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,0,Exercising
+21,1,2,1,1,1,0,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+20,1,2,3,1,3,1,0,1,2,1,1,1,3,1,"Instagram, Telegram",1,0,Hanging out with friends
+22,0,2,3,1,3,1,1,1,4,1,1,1,3,1,Instagram,1,0,Hanging out with friends
+21,1,2,2,1,3,1,0,1,4,0,0,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+20,0,2,3,1,3,1,0,1,3,1,1,0,1,1,Instagram,1,1,Hanging out with friends
+21,0,2,3,1,3,0,0,1,4,0,1,1,3,1,Instagram,1,1,All of the above options
+20,0,2,2,1,3,0,0,1,4,0,0,1,3,1,"Instagram, Telegram",1,1,All of the above options
+21,0,2,2,1,2,1,0,1,3,0,1,1,3,1,"Instagram, Telegram",0,0,Hanging out with friends
+21,0,2,2,1,2,0,1,1,3,1,1,1,1,1,Instagram,1,1,All of the above options
+21,0,2,1,1,2,0,0,1,4,0,0,0,4,1,"Instagram, Telegram",1,1,Reading
+21,0,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+23,0,2,3,1,3,1,0,0,4,0,1,0,2,1,Instagram,1,0,Exercising
+21,0,2,3,1,3,0,0,1,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,3,1,3,1,1,1,4,1,0,1,3,1,Instagram,1,0,All of the above options
+22,1,2,3,1,3,1,1,1,2,1,1,1,4,1,"Instagram, Telegram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,1,2,3,1,3,1,1,1,1,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+22,0,2,3,1,3,1,1,1,3,0,0,0,3,1,"Instagram, Telegram",0,0,All of the above options
+21,0,2,3,1,3,0,0,1,4,0,0,0,3,1,Instagram,1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,3,1,3,1,0,0,5,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+21,0,2,3,1,3,1,1,1,3,1,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,2,1,1,3,0,0,1,3,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+27,1,2,3,1,3,1,1,1,4,0,0,1,4,1,"Instagram, Telegram",1,0,Hanging out with friends
+25,1,2,3,1,3,1,0,1,3,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+21,1,2,2,1,3,1,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+22,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+21,0,2,2,1,1,1,0,1,3,0,0,0,1,1,Instagram,1,0,All of the above options
+23,1,2,2,1,2,1,0,1,4,0,1,0,2,1,Instagram,1,1,Exercising
+31,1,2,3,0,3,1,1,1,3,0,0,1,3,1,"Facebook, Telegram",1,1,Hanging out with friends
+51,1,2,2,0,2,1,1,1,4,0,0,1,3,1,Facebook,1,0,Hanging out with friends
+21,1,2,3,1,2,0,0,0,2,0,1,1,2,1,"Facebook, Instagram",1,1,All of the above options
+38,1,3,2,1,2,1,1,1,2,1,1,0,2,1,"Facebook, Instagram",1,0,All of the above options
+28,1,2,2,1,2,1,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+20,0,2,2,1,3,0,1,1,3,0,0,0,3,1,Instagram,0,1,All of the above options
+32,1,2,3,1,3,1,0,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+29,0,2,3,1,3,0,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+30,1,2,2,1,2,0,1,1,4,0,1,1,4,1,Facebook,1,1,All of the above options
+28,1,3,3,1,3,1,0,1,5,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+32,0,2,1,1,1,1,1,1,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+22,1,2,2,1,3,0,0,0,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+73,1,4,0,0,2,0,0,0,5,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+22,0,2,0,1,2,0,0,1,4,0,1,1,4,1,Instagram,1,0,Exercising
+21,1,2,2,1,3,1,1,1,5,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Reading
+21,0,0,1,1,3,0,0,0,4,0,1,1,3,1,Telegram,1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,2,2,0,2,0,0,1,3,1,1,1,2,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,2,2,1,2,1,0,1,3,1,1,1,4,1,"Instagram, Telegram",1,1,Hanging out with friends
+23,1,2,1,1,2,0,1,0,4,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+33,0,2,1,1,1,0,0,1,5,0,1,0,1,1,"Facebook, Instagram",1,1,Hanging out with friends
+20,1,2,1,1,2,0,0,0,4,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+50,1,2,2,1,2,1,0,1,3,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+21,1,2,2,1,2,1,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,0,2,2,1,2,1,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+22,1,2,2,1,3,0,0,1,3,1,1,1,4,1,Instagram,1,1,All of the above options
+48,0,2,1,1,2,1,1,1,3,1,1,1,2,1,"Instagram, Telegram",1,1,All of the above options
+35,1,1,0,1,2,0,0,0,5,0,0,1,3,1,"Facebook, Instagram, Telegram",1,0,Hanging out with friends
+27,0,1,0,1,3,0,1,1,3,1,1,1,4,1,Snapchat,1,1,All of the above options
+47,1,3,3,1,3,1,0,0,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,0,4,2,1,2,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+24,1,2,2,1,2,0,1,0,5,0,0,1,1,1,"Facebook, Instagram, Telegram",1,1,Exercising
+41,1,3,2,1,2,0,0,1,5,0,0,1,2,1,Facebook,0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,0,3,1,1,3,0,0,0,5,0,0,0,3,1,Telegram,0,0,All of the above options
+27,1,2,3,1,3,1,1,1,3,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+47,0,1,1,1,0,0,1,1,3,0,1,0,3,1,Instagram,1,0,All of the above options
+44,0,1,0,0,1,0,0,0,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+30,1,1,1,1,3,0,1,1,5,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+26,1,2,3,1,3,1,1,1,4,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+50,0,1,2,0,2,0,0,0,5,0,0,0,4,1,Facebook,1,0,Hanging out with friends
+22,1,2,3,1,3,1,1,1,3,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+25,0,2,1,1,1,0,0,1,4,1,0,1,3,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+64,1,2,1,1,1,1,1,1,4,0,1,1,4,1,Facebook,1,1,All of the above options
+24,0,2,3,1,3,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+45,0,4,3,1,3,1,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+48,0,3,3,0,3,1,0,1,5,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+30,0,1,1,1,1,0,0,1,2,0,1,1,3,1,"Instagram, Telegram",1,1,Reading
+38,0,3,1,1,2,0,0,0,4,0,0,0,1,1,"Instagram, Telegram",1,1,Reading
+32,1,2,1,0,0,1,1,1,3,1,1,1,3,1,Instagram,1,1,Exercising
+29,1,2,1,1,0,0,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+28,1,2,2,0,2,0,0,1,5,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+32,1,3,3,1,3,0,1,0,4,0,0,0,1,1,Instagram,1,1,All of the above options
+52,0,1,1,0,3,0,1,0,5,0,0,1,4,1,"Instagram, Telegram",1,1,All of the above options
+47,0,2,1,1,1,0,0,1,3,0,0,1,3,1,Facebook,1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+31,0,2,1,1,1,0,0,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+40,1,4,2,1,2,0,1,1,3,1,1,1,1,1,Facebook,1,0,Reading
+26,0,2,0,0,0,0,0,1,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+59,1,1,1,1,1,0,0,1,3,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+30,1,2,3,1,3,1,1,1,4,0,1,1,3,1,"Facebook, Telegram",1,0,Reading
+39,1,2,2,1,2,1,0,1,3,1,1,1,3,1,"Facebook, Instagram, Telegram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,0,3,1,2,0,1,1,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+19,1,2,3,1,3,1,0,1,4,0,1,1,3,1,Telegram,1,0,Hanging out with friends
+18,0,1,2,1,2,0,0,1,4,0,0,1,3,1,Instagram,1,1,All of the above options
+20,0,0,1,1,2,0,0,1,3,0,0,0,1,1,Telegram,1,1,All of the above options
+27,1,0,2,0,2,0,0,0,4,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+21,0,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+20,0,1,1,1,1,0,0,0,3,0,0,1,3,1,Telegram,0,1,All of the above options
+24,1,0,2,1,2,1,0,1,3,1,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+19,0,2,3,1,3,1,0,0,4,0,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+18,1,0,3,1,3,1,0,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,4,3,1,3,1,0,0,2,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+19,0,1,3,1,3,1,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+18,0,0,3,1,3,1,0,1,2,1,1,1,2,1,Instagram,1,0,All of the above options
+19,0,2,1,1,1,0,1,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+20,0,0,2,1,2,0,0,1,4,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,0,0,0,0,0,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+19,0,2,3,1,0,1,1,1,4,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+22,0,2,3,1,2,1,0,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,SleepingوReading
+20,0,1,2,1,3,1,1,1,4,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+22,1,1,3,1,3,1,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+22,1,2,3,1,2,0,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+23,0,1,0,1,1,0,1,1,3,1,1,1,1,1,Instagram,1,1,Hanging out with friends
+18,0,1,3,1,3,1,1,1,3,1,1,1,5,1,Telegram,1,0,Exercising
+20,1,1,2,1,2,0,0,1,5,0,0,0,3,1,Instagram,1,1,Reading
+23,0,0,1,1,1,0,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+24,1,2,2,1,2,1,0,0,4,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+19,0,1,3,1,3,0,0,0,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Reading
+18,1,1,2,1,0,0,1,1,3,0,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+23,0,0,1,1,1,0,0,1,3,1,1,1,3,1,Telegram,1,0,Exercising
+19,1,0,1,1,1,0,0,1,3,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+23,0,2,3,0,3,1,1,1,2,0,1,1,5,1,"Facebook, Instagram, Telegram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,0,1,1,0,0,1,1,5,0,0,1,5,1,Telegram,1,1,Exercising
+20,1,0,3,1,3,0,0,0,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+19,1,1,3,1,3,1,0,1,4,0,0,1,1,1,Instagram,1,1,Hanging out with friends
+24,1,1,3,1,3,1,1,1,2,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+22,1,1,1,0,1,0,0,1,3,1,0,1,2,1,Telegram,1,1,Hanging out with friends
+22,1,2,3,1,3,0,0,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Detox app
+23,0,0,3,1,3,1,1,1,2,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+20,1,2,1,1,1,1,0,1,5,1,1,1,5,1,"Instagram, Telegram",1,1,All of the above options
+18,0,1,3,1,3,1,0,1,5,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,1,1,0,1,0,0,1,1,5,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+19,0,0,0,1,0,1,1,1,4,0,1,1,5,1,"Instagram, Telegram",1,1,All of the above options
+20,0,0,1,0,1,0,0,1,5,0,0,1,3,1,Facebook,1,1,Reading
+20,0,2,3,1,3,0,0,1,4,0,0,0,4,1,Telegram,1,1,Hanging out with friends
+19,1,0,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+21,1,2,3,1,3,1,0,1,3,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+35,1,2,1,1,3,1,1,1,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+20,0,1,3,1,3,0,0,0,4,0,1,0,3,1,Telegram,1,1,None
+19,0,0,3,1,3,1,0,1,1,1,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Reading
+19,0,0,0,1,0,0,0,1,5,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,2,1,1,1,0,1,1,3,1,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+47,1,2,2,1,2,0,0,0,5,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+19,0,0,0,0,0,1,1,0,4,1,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+29,0,2,1,1,0,0,0,0,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+18,0,0,3,1,0,0,0,0,3,1,0,1,3,1,Instagram,1,0,Exercising
+24,0,0,3,1,3,1,0,0,3,0,1,0,3,1,Telegram,0,0,Reading
+20,1,0,2,1,2,0,0,1,3,0,1,0,2,1,TikTok   ,1,0,Exercising
+18,0,0,2,1,2,0,0,1,3,0,0,0,1,1,Telegram,1,1,Hanging out with friends
+20,1,2,2,1,2,1,1,1,3,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+22,1,2,0,0,0,0,0,1,5,0,0,1,1,1,Telegram,1,1,All of the above options
+19,0,1,1,1,0,0,0,1,4,0,0,0,5,1,Telegram,1,1,Reading
+20,0,1,2,1,3,0,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,2,0,1,1,0,0,1,3,1,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+40,0,4,3,1,3,1,0,1,5,1,1,1,4,1,Facebook,1,1,All of the above options
+35,0,2,3,1,3,0,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,0,3,1,3,1,0,1,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,0,1,1,0,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,1,1,1,2,0,0,0,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,1,2,3,1,3,0,0,0,4,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+25,1,2,3,0,2,1,1,1,3,0,1,1,3,1,Telegram,0,0,Hanging out with friends
+21,1,0,2,1,3,0,0,0,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+19,1,0,1,1,1,0,0,0,4,1,0,1,3,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,2,3,1,3,1,1,1,3,1,1,1,5,1,"Telegram, Snapchat",1,1,Hanging out with friends
+18,0,0,2,1,2,0,0,1,5,0,0,1,1,1,Instagram,1,1,Exercising
+21,1,2,2,0,2,0,0,1,4,0,1,1,5,1,Instagram,1,1,All of the above options
+18,0,0,3,1,3,1,0,0,4,0,0,0,2,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,2,3,1,3,1,1,1,1,0,1,0,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+27,0,2,3,1,3,0,0,1,5,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,1,0,1,1,2,0,0,1,4,1,1,0,3,1,"Facebook, Telegram",1,1,Reading
+18,0,0,3,1,3,1,0,1,3,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+27,0,2,1,1,2,0,1,0,4,0,0,1,2,1,"Facebook, Instagram, Telegram",1,1,Reading
+22,0,0,1,1,2,0,0,1,5,0,0,0,1,1,Telegram,1,0,All of the above options
+21,0,1,1,1,1,0,0,1,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+20,0,0,2,1,3,1,0,1,3,1,1,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+20,1,2,2,1,2,1,1,1,3,1,1,1,3,1,"Facebook, Instagram, Telegram",1,1,Exercising
+20,1,0,3,1,3,1,0,1,2,1,1,1,2,1,"Facebook, Telegram",1,0,Exercising
+18,1,0,2,1,3,1,1,1,2,1,1,1,4,1,Instagram,1,0,Reading
+20,1,2,2,1,1,0,1,1,3,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,0,0,1,0,0,0,0,5,0,0,0,1,1,Telegram,0,1,All of the above options
+18,1,1,2,1,2,1,1,1,3,1,1,1,3,1,Instagram,1,1,All of the above options
+18,1,2,3,1,3,1,1,1,2,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+20,1,1,2,1,2,1,1,1,2,0,1,0,3,1,"Instagram, Telegram",1,1,All of the above options
+18,0,1,3,1,3,1,0,1,3,1,1,1,5,1,"Instagram, Telegram",1,0,Setting a time limit for each application
+18,0,1,2,1,3,0,0,1,3,0,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,0,2,0,0,0,5,0,0,0,1,1,Facebook,0,0,All of the above options
+31,1,2,2,0,2,1,1,0,3,1,1,1,4,1,"Facebook, Telegram",0,0,Reading
+19,0,0,2,1,2,0,1,1,2,0,0,1,3,1,Telegram,1,0,All of the above options
+19,1,0,3,1,3,1,1,1,3,0,1,1,5,1,"Facebook, Instagram, Telegram",0,1,All of the above options
+33,1,3,1,1,2,1,0,1,4,0,1,1,3,1,Facebook,0,1,All of the above options
+21,0,0,2,1,2,1,1,0,4,0,1,0,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+23,1,2,3,1,3,1,1,1,4,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,0,1,1,3,0,0,1,3,1,1,1,4,1,Instagram,1,1,All of the above options
+48,1,2,1,0,2,0,0,0,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,0,2,1,1,1,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+18,1,0,0,1,1,0,0,1,4,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+24,1,0,2,1,2,1,1,1,1,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+20,0,0,0,1,1,0,0,0,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+54,0,4,2,1,2,0,0,1,4,0,0,1,1,1,Facebook,1,0,All of the above options
+18,0,0,3,1,3,1,0,1,3,1,1,1,2,1,"Instagram, Telegram",1,1,Exercising
+21,1,0,1,0,0,0,0,1,4,0,0,0,3,1,Telegram,1,1,All of the above options
+24,0,2,1,0,1,0,0,1,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Setting a time limit for each application
+22,1,2,0,1,0,1,0,1,5,0,1,1,5,1,"Facebook, Instagram",1,1,Exercising
+20,1,2,2,0,1,0,0,1,4,0,1,1,5,1,"Instagram, Telegram",1,1,Exercising
+22,1,1,2,1,0,0,1,1,3,0,0,0,1,1,Instagram,0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,1,3,1,3,0,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+21,1,1,1,1,1,0,1,0,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+23,0,1,3,1,3,0,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,1,1,1,1,0,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,0,0,1,1,0,0,0,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading 
+19,0,1,0,0,1,0,0,1,4,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,0,2,0,2,0,1,1,3,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+45,0,1,0,0,0,0,0,0,1,1,0,1,2,1,"Facebook, Instagram",0,1,All of the above options
+21,0,2,1,1,2,0,0,0,4,0,0,1,2,1,Telegram,1,1,Reading
+22,1,0,2,1,2,1,1,1,4,0,0,1,4,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+20,0,1,1,1,1,0,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,0,1,3,1,3,1,1,1,2,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+24,1,0,3,1,0,1,0,1,3,1,1,1,2,1,Telegram,0,0,Reading
+22,1,1,3,1,3,1,1,1,3,1,1,1,3,1,"Instagram, Telegram, Snapchat",1,0,Sleeping
+18,0,1,2,1,2,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+34,0,2,2,1,2,0,1,0,3,0,0,1,3,1,"Facebook, Instagram",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,2,0,1,0,0,0,1,4,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+24,0,2,3,1,3,1,1,1,3,0,1,1,3,1,Instagram,1,0,All of the above options
+19,0,2,3,1,3,0,0,1,3,0,1,0,1,1,Snapchat,0,0,Hanging out with friends
+22,1,0,2,1,2,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+19,0,0,2,1,2,0,0,1,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,None
+24,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,0,0,0,0,0,0,0,3,0,1,1,2,1,Instagram,1,0,All of the above options
+23,0,2,2,1,2,0,0,0,3,0,0,0,3,1,Telegram,1,0,Hanging out with friends
+34,0,2,3,1,3,0,0,0,5,0,0,1,2,1,"Instagram, Telegram",1,1,Hanging out with friends
+22,1,0,2,1,0,0,1,1,3,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+25,1,2,3,1,1,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+18,0,0,1,1,1,0,0,0,4,0,0,0,1,1,Telegram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,1,1,1,1,0,1,1,3,1,1,1,1,1,Instagram,1,0,Hanging out with friends
+20,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,Reading
+45,1,2,1,0,0,0,0,1,4,1,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+20,1,0,3,1,3,1,0,0,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,1,3,1,3,0,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+42,1,2,1,0,0,0,1,1,5,1,1,0,5,1,Facebook,0,1,Exercising
+22,1,2,2,1,1,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Reading
+19,0,0,1,1,0,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+50,1,2,1,1,1,0,0,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+21,0,2,3,1,3,1,0,0,3,0,1,0,1,1,Instagram,1,0,Exercising
+22,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+21,0,2,2,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+22,0,2,2,1,2,1,1,1,4,1,0,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+18,1,2,2,1,2,0,0,1,4,0,1,0,3,1,"Facebook, Instagram, Telegram",1,1,Hanging out with friends
+18,0,2,3,1,2,1,0,0,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+23,1,2,1,1,1,0,0,1,4,0,1,1,2,1,"Facebook, Instagram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+41,0,3,1,1,2,0,0,1,4,0,1,0,2,1,"Facebook, Instagram, Telegram",1,0,All of the above options
+18,1,2,2,1,3,1,0,1,2,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+18,0,0,2,1,2,0,1,1,3,0,1,1,2,1,"Instagram, Telegram, Snapchat",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,2,1,1,1,0,1,1,4,0,0,0,4,1,"Instagram, Telegram",1,1,Hanging out with friends
+18,1,0,2,1,2,1,1,1,3,0,1,0,1,1,"Facebook, Instagram, Telegram",1,0,All of the above options
+30,1,2,2,1,2,0,0,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,1,2,2,1,3,0,0,1,3,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+19,0,2,1,1,1,0,1,1,3,1,1,1,5,1,Telegram,0,1,Reading
+20,0,2,1,1,1,0,0,0,4,0,0,0,2,1,"Instagram, Telegram",0,1,All of the above options
+19,1,0,2,0,3,0,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+19,0,2,1,1,1,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+18,1,2,3,1,3,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,2,3,1,3,1,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,1,3,1,0,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+38,1,4,2,1,2,1,0,1,3,1,1,1,4,1,Facebook,0,0,Reading
+19,0,0,2,1,3,0,0,1,3,1,1,1,4,1,Telegram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,1,2,2,1,2,1,0,1,3,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+32,1,2,1,1,2,0,0,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,2,3,1,3,1,1,1,2,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+18,1,0,0,0,0,0,1,1,3,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+21,0,1,2,1,2,1,0,1,4,0,1,1,3,1,"Instagram, Telegram",1,1,Sleeping
+26,0,2,2,1,2,0,0,1,4,0,1,1,3,1,"Instagram, Telegram",1,0,Reading
+18,0,2,1,1,1,1,0,1,3,1,1,1,4,1,"Instagram, Telegram",1,1,Sleeping
+20,0,2,3,1,3,1,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+33,0,2,1,1,1,0,1,0,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+21,0,2,2,1,2,0,0,1,3,1,1,1,5,1,Instagram,1,1,Reading
+19,0,0,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+36,0,2,3,1,3,0,1,1,3,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,All of the above options
+18,0,2,3,1,2,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+30,0,2,1,1,1,0,1,1,3,1,0,1,2,1,Instagram,1,0,All of the above options
+18,1,2,1,1,1,0,0,0,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+20,1,2,2,0,2,1,1,1,5,1,1,0,3,1,Instagram,1,1,Exercising
+32,0,2,2,1,2,0,0,1,3,1,1,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+20,1,2,0,1,3,0,0,0,4,0,1,0,1,1,Telegram,1,1,All of the above options
+32,0,2,3,1,2,0,0,0,4,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+25,1,2,3,1,3,1,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+42,1,3,3,1,3,1,1,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+24,1,2,3,1,3,1,1,1,1,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+18,1,2,2,1,2,1,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+23,0,2,2,1,2,1,0,0,4,0,0,0,1,1,Instagram,1,1,Hanging out with friends
+18,1,2,2,1,2,1,1,0,4,0,0,1,1,1,"Facebook, Instagram",0,1,Exercising
+22,1,2,2,0,2,0,1,1,5,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+25,0,2,2,1,3,0,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+21,0,2,3,0,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+23,0,2,3,1,2,1,1,1,3,1,1,1,3,1,"Instagram, Telegram",1,0,All of the above options
+22,0,2,3,1,3,1,1,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+21,0,2,3,1,3,1,0,1,5,0,0,1,3,1,Instagram,1,1,Reading
+20,1,2,3,1,3,0,1,1,3,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+22,1,2,3,1,3,1,1,1,3,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,All of the above options
+20,1,2,3,1,2,0,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+20,1,2,3,1,2,1,1,1,3,0,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+20,1,2,1,1,3,0,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Sleeping
+21,0,2,3,1,3,1,0,0,4,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Sleeping
+20,1,2,1,1,3,0,0,1,2,0,1,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Sleeping
+20,1,0,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+21,1,2,3,1,3,1,0,0,5,0,1,1,3,1,Instagram,1,1,Reading
+24,0,2,2,1,3,0,0,1,3,1,1,0,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Sleeping
+20,0,2,2,1,2,1,1,1,4,0,0,1,3,1,Telegram,1,1,All of the above options
+20,0,2,3,1,3,1,1,1,4,0,1,1,5,1,Telegram,1,1,All of the above options
+21,0,2,3,1,3,1,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,2,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+20,0,2,3,1,3,1,0,0,4,0,0,1,2,1,"Instagram, Telegram",1,0,All of the above options
+20,0,2,3,1,3,1,1,1,3,0,0,1,3,1,Instagram,1,0,All of the above options
+20,0,2,1,1,1,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+20,1,2,3,1,3,1,0,1,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+24,1,2,3,1,3,1,0,0,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+22,1,2,2,0,2,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+22,0,2,2,1,2,1,0,1,3,0,0,1,2,1,"Instagram, Telegram",0,1,Hanging out with friends
+28,0,2,1,1,1,1,1,1,1,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,3,1,3,1,0,1,4,1,1,0,3,1,"Telegram, Snapchat",1,1,Reading
+20,1,2,3,1,3,0,1,1,3,1,1,0,3,1,"Instagram, Telegram",1,0,Hanging out with friends
+20,0,2,3,0,3,1,0,0,4,0,0,1,4,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,0,3,1,3,1,1,1,4,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+20,1,2,2,1,3,1,1,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,0,1,0,3,0,0,1,4,1,1,1,2,1,Telegram,1,1,Exercising
+30,1,3,2,1,2,1,1,1,5,0,0,1,3,1,"Facebook, Instagram, Telegram",0,1,Stady my homework 
+20,0,2,2,1,2,0,0,1,4,0,0,1,4,1,YouTube,1,1,Sleeping
+18,0,2,2,1,3,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,0,3,1,3,1,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+18,0,2,3,1,3,0,0,0,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+18,0,2,2,1,2,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,2,3,1,1,1,1,1,3,1,1,1,3,1,Telegram,0,1,Reading
+19,0,2,3,1,3,1,1,1,4,1,1,1,4,1,"Instagram, YouTube, Telegram",0,1,All of the above options
+21,0,2,3,1,3,0,1,1,5,0,1,1,2,1,"Instagram, YouTube",1,1,Exercising
+18,1,0,3,1,3,0,0,1,4,0,1,0,1,1,"Instagram, YouTube",0,0,All of the above options
+30,1,4,3,1,3,1,0,0,5,1,1,0,4,1,Facebook,1,0,Hanging out with friends
+18,0,0,3,1,2,0,0,1,5,0,0,0,2,1,Instagram,1,0,Hanging out with friends
+19,1,2,2,1,2,1,1,1,4,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+21,1,2,3,1,3,1,1,1,4,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,All of the above options
+22,0,2,1,0,0,0,1,1,3,1,1,1,4,1,"Instagram, YouTube",1,1,Sleeping
+21,1,2,1,1,3,1,0,1,3,0,1,1,4,1,"Facebook, Instagram, Telegram",1,1,Sleeping
+20,0,2,3,1,3,1,0,1,4,1,1,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+20,0,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+20,1,2,3,1,3,0,0,1,4,0,1,0,1,1,"Instagram, YouTube, Telegram",1,0,Reading
+21,1,2,2,0,0,1,1,1,4,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+20,1,2,2,1,1,1,0,0,4,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+42,1,3,3,1,3,1,1,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+24,1,2,3,1,3,1,1,1,1,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+18,1,2,2,1,2,1,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+23,0,2,2,1,2,1,0,0,4,0,0,0,1,1,Instagram,1,1,Hanging out with friends
+18,1,2,2,1,2,1,1,0,4,0,0,1,1,1,"Facebook, Instagram",0,1,Exercising
+22,1,2,2,0,2,0,1,1,5,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+25,0,2,2,1,3,0,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+21,0,2,3,0,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+23,0,2,3,1,2,1,1,1,3,1,1,1,3,1,"Instagram, Telegram",1,0,All of the above options
+22,0,2,3,1,3,1,1,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+20,0,2,3,1,3,1,0,1,4,1,1,1,3,1,Telegram,1,1,Sleeping
+32,1,0,3,1,3,1,0,1,4,1,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+24,1,2,1,1,3,0,0,1,3,1,1,1,5,1,"Instagram, YouTube, Telegram",1,1,Sleeping
+20,0,2,1,1,2,0,1,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+21,1,2,3,1,3,1,0,1,4,0,1,1,5,1,"Instagram, YouTube, Telegram",0,1,All of the above options
+21,0,2,3,1,3,1,0,1,3,1,1,1,2,1,"Instagram, Telegram",1,1,Hanging out with friends
+20,0,2,2,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,1,All of the above options
+21,1,2,1,1,3,1,1,0,5,0,1,1,3,1,"Instagram, YouTube, Telegram",1,1,All of the above options
+22,1,2,3,1,3,1,0,1,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+21,0,2,3,1,3,1,0,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+22,1,2,3,1,3,0,0,1,3,0,0,1,3,1,Instagram,1,1,Sleeping
+22,1,2,2,1,2,1,1,1,2,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+22,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+20,0,2,3,1,3,1,1,1,3,1,0,1,3,1,Instagram,0,1,Exercising
+20,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"Facebook, Instagram, Telegram",1,1,Engaging in any physical activity that distracts from the phone
+42,0,4,2,0,3,0,1,1,3,1,1,0,3,1,"Facebook, YouTube, Telegram",0,1,Exercising
+44,1,3,2,1,2,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Engaging in any physical activity that distracts from the phone
+31,0,2,3,1,3,0,0,0,5,0,0,0,2,1,"Facebook, Instagram, Telegram",0,1,Hanging out with friends
+19,1,0,0,0,1,1,0,0,4,0,1,1,3,1,Instagram,1,0,Hanging out with friends
+24,1,1,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+43,1,4,2,1,1,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+20,0,2,3,1,3,1,0,1,4,1,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+22,1,1,3,1,2,1,1,1,2,1,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+20,0,1,3,1,3,1,1,1,3,1,1,1,5,1,"Instagram, Telegram",1,0,Setting a time limit for each application
+18,0,1,3,1,3,0,1,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,0,2,0,1,1,5,0,0,0,1,1,Facebook,0,0,All of the above options
+31,1,2,3,0,2,1,1,0,3,1,1,1,4,1,"Facebook, Telegram",0,0,Reading
+19,0,2,3,1,2,0,1,1,2,0,0,1,3,1,Telegram,1,0,All of the above options
+19,1,2,3,1,3,1,1,1,3,0,1,1,5,1,"Facebook, Instagram, Telegram",0,1,All of the above options
+33,1,3,1,1,2,1,0,1,4,0,1,1,3,1,Facebook,0,1,All of the above options
+21,0,2,3,1,2,1,1,0,4,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+23,1,2,3,1,3,1,1,1,4,0,0,0,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,2,1,1,3,0,0,1,3,1,1,1,4,1,Instagram,1,1,All of the above options
+33,1,2,1,0,2,0,1,0,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,0,2,1,1,1,0,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+18,1,2,0,1,1,0,1,1,4,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+24,1,2,3,1,2,1,1,1,1,1,1,1,3,1,"Facebook, Instagram",0,0,Exercising
+20,0,2,0,1,1,0,0,0,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+54,0,4,3,1,2,0,0,1,4,0,0,1,1,1,Facebook,1,0,All of the above options
+18,0,2,3,1,3,1,0,1,3,1,1,1,2,1,"Instagram, Telegram",1,1,Exercising
+21,1,2,1,0,0,0,1,1,4,0,0,0,3,1,Telegram,1,1,All of the above options
+24,0,2,1,0,1,0,1,1,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+22,1,2,0,1,0,1,1,1,5,0,1,1,5,1,"Facebook, Instagram",1,1,Exercising
+29,1,2,3,0,1,0,0,1,4,0,1,1,5,1,"Instagram, Telegram",1,1,Exercising
+22,1,1,3,1,0,0,1,1,3,0,0,0,1,1,Instagram,0,0,Sleeping
+23,0,1,3,1,3,0,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+21,1,1,1,1,1,0,1,0,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+23,0,1,3,1,3,0,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,1,1,1,1,0,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,2,0,1,1,0,0,0,5,0,1,0,1,1,Telegram,1,0,Reading 
+19,0,1,0,0,1,0,0,1,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,0,2,0,1,1,3,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+45,0,1,0,0,0,0,0,0,1,1,1,1,2,1,"Facebook, Instagram",0,1,All of the above options
+21,0,2,1,1,2,0,0,0,4,0,1,1,2,1,Telegram,1,1,Reading
+22,1,2,3,1,2,1,1,1,4,0,1,1,4,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+20,0,1,1,1,1,0,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,0,1,3,1,3,1,1,1,2,1,1,1,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+24,1,2,3,1,0,1,0,1,3,1,1,1,2,1,Telegram,0,0,Reading
+22,1,1,3,0,3,1,1,1,3,1,1,1,3,1,"Instagram, Telegram, Snapchat",1,0,Sleeping
+18,0,1,3,1,2,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+34,0,2,3,1,2,0,1,0,3,0,0,1,3,1,"Facebook, Instagram",0,1,Sleeping
+20,0,2,0,1,0,0,0,1,4,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+24,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+19,0,2,3,1,3,0,0,1,3,0,1,0,1,1,Snapchat,0,0,Hanging out with friends
+22,1,2,3,1,2,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+19,0,2,3,1,2,0,0,1,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,None
+24,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,2,0,0,0,0,0,0,3,0,1,1,2,1,Instagram,1,0,All of the above options
+23,0,2,3,1,2,0,0,0,3,0,0,0,3,1,Telegram,1,0,Hanging out with friends
+34,0,2,3,1,3,0,0,0,5,0,0,1,2,1,"Instagram, Telegram",1,1,Hanging out with friends
+22,1,2,3,1,0,0,1,1,3,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+25,1,2,3,1,1,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+18,0,2,1,1,1,0,0,0,4,0,0,0,1,1,Telegram,1,1,Sleeping
+20,0,1,1,1,1,0,1,1,3,1,1,1,1,1,Instagram,1,0,Hanging out with friends
+20,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,Reading
+45,1,2,1,0,0,0,0,1,4,1,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+20,1,2,3,1,3,1,0,0,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,1,3,1,3,0,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+42,1,2,1,0,0,0,1,1,5,1,1,0,5,1,Facebook,0,1,Exercising
+22,1,2,3,1,1,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+19,0,2,1,1,0,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+50,1,2,1,1,1,0,0,1,3,0,1,1,4,1,Facebook,0,1,Hanging out with friends
+21,0,2,3,1,3,1,0,0,3,0,1,0,1,1,Instagram,1,1,Exercising
+22,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+21,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+22,0,2,3,1,2,1,1,1,4,1,0,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+18,1,2,3,1,2,0,0,1,4,0,1,0,3,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+37,1,4,2,0,2,1,1,1,5,0,1,1,1,1,Facebook,1,1,Hanging out with friends
+20,1,2,1,1,3,1,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,0,2,2,1,2,0,1,1,4,0,0,0,4,1,Telegram,1,1,Hanging out with friends
+21,1,2,2,1,2,0,0,1,4,1,0,1,4,1,"Instagram, Telegram",1,1,Exercising
+23,0,1,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+51,1,4,3,1,3,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+43,1,4,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,0,All of the above options
+36,0,4,3,1,0,0,1,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+50,0,4,1,1,1,1,1,0,4,1,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+54,0,1,2,0,2,1,0,0,4,1,0,1,4,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+39,0,4,3,0,0,0,0,1,5,1,1,1,5,1,Telegram,1,0,Reading
+56,1,2,3,1,3,1,1,0,4,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+50,0,4,2,1,2,1,1,0,5,1,1,0,4,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+37,1,2,1,1,1,0,1,1,4,1,0,1,2,1,Facebook,1,1,All of the above options
+25,0,1,1,1,1,1,1,1,4,0,0,1,3,1,"Facebook, Instagram, Telegram, Snapchat",1,1,All of the above options
+19,0,2,3,1,3,1,0,1,3,1,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+19,0,2,3,1,3,1,1,1,3,1,1,1,5,1,"Instagram, Telegram",1,1,Hanging out with friends
+19,0,2,3,1,3,1,0,0,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+19,1,2,2,1,3,1,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+19,0,2,3,1,1,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+21,0,2,1,1,2,0,0,0,3,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Sleeping
+19,0,2,3,1,3,1,1,1,3,1,1,1,3,1,"Instagram,TikTok, Facebook, Telegram",1,0,Sleeping
+20,1,2,2,1,2,0,0,1,5,0,0,0,2,1,Instagram,1,1,Exercising
+44,0,4,3,1,3,0,1,1,2,1,1,1,1,1,"Snapchat,TikTok, Facebook, Telegram",1,1,Sleeping
+19,1,2,3,1,3,0,0,1,4,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Sleeping
+19,0,2,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,0,Reading
+20,0,2,1,1,2,1,1,1,3,0,1,1,2,1,"Instagram, Telegram",1,1,All of the above options
+20,0,2,2,1,2,1,0,1,3,1,1,1,1,1,Telegram,1,1,All of the above options
+18,0,2,3,1,2,0,0,0,3,1,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+22,0,2,3,1,3,1,0,1,3,1,1,1,5,1,"Instagram, Telegram",0,1,Hanging out with friends
+18,1,2,1,1,3,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+20,0,2,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,1,Reading
+13,0,2,1,1,1,1,1,0,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+20,1,2,3,1,2,1,1,0,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,1,1,3,1,2,1,1,1,2,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+20,0,1,3,1,3,1,1,1,3,1,1,1,5,1,"Instagram, Telegram",1,0,Setting a time limit for each application
+18,0,1,3,1,3,0,1,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,0,2,0,1,1,5,0,0,0,1,1,Facebook,0,0,All of the above options
+31,1,2,3,0,2,1,1,0,3,1,1,1,4,1,"Facebook, Telegram",0,0,Reading
+19,0,2,3,1,2,0,1,1,2,0,0,1,3,1,Telegram,1,0,All of the above options
+19,1,2,3,1,3,1,1,1,3,0,1,1,5,1,"Facebook, Instagram, Telegram",0,1,All of the above options
+33,1,3,1,1,2,1,0,1,4,0,1,1,3,1,Facebook,0,1,All of the above options
+21,0,2,3,1,2,1,1,0,4,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+23,1,2,3,1,3,1,1,1,4,0,0,0,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,2,1,1,3,0,0,1,3,1,1,1,4,1,Instagram,1,1,All of the above options
+33,1,2,1,0,2,0,1,0,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,0,2,1,1,1,0,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+18,1,2,0,1,1,0,1,1,4,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+24,1,2,3,1,2,1,1,1,1,1,1,1,3,1,"Facebook, Instagram",0,0,Exercising
+20,0,2,0,1,1,0,0,0,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+54,0,4,3,1,2,0,0,1,4,0,0,1,1,1,Facebook,1,0,All of the above options
+18,0,2,3,1,3,1,0,1,3,1,1,1,2,1,"Instagram, Telegram",1,1,Exercising
+21,1,2,1,0,0,0,1,1,4,0,0,0,3,1,Telegram,1,1,All of the above options
+24,0,2,1,0,1,0,1,1,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+22,1,2,0,1,0,1,1,1,5,0,1,1,5,1,"Facebook, Instagram",1,1,Exercising
+29,1,2,3,0,1,0,0,1,4,0,1,1,5,1,"Instagram, Telegram",1,1,Exercising
+22,1,1,3,1,0,0,1,1,3,0,0,0,1,1,Instagram,0,0,Sleeping
+23,0,1,3,1,3,0,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+21,1,1,1,1,1,0,1,0,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+23,0,1,3,1,3,0,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,1,1,1,1,0,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,2,0,1,1,0,0,0,5,0,1,0,1,1,Telegram,1,0,Reading 
+19,0,1,0,0,1,0,0,1,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,0,2,0,1,1,3,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+45,0,1,0,0,0,0,0,0,1,1,1,1,2,1,"Facebook, Instagram",0,1,All of the above options
+21,0,2,1,1,2,0,0,0,4,0,1,1,2,1,Telegram,1,1,Reading
+22,1,2,3,1,2,1,1,1,4,0,1,1,4,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+20,0,1,1,1,1,0,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,0,1,3,1,3,1,1,1,2,1,1,1,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+24,1,2,3,1,0,1,0,1,3,1,1,1,2,1,Telegram,0,0,Reading
+22,1,1,3,0,3,1,1,1,3,1,1,1,3,1,"Instagram, Telegram, Snapchat",1,0,Sleeping
+18,0,1,3,1,2,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+34,0,2,3,1,2,0,1,0,3,0,0,1,3,1,"Facebook, Instagram",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,2,0,1,0,0,0,1,4,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+24,0,2,3,1,3,1,1,1,3,0,1,1,3,1,Instagram,1,0,All of the above options
+19,0,2,3,1,3,0,0,1,3,0,1,0,1,1,Snapchat,0,0,Hanging out with friends
+22,1,2,3,1,2,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+19,0,2,3,1,2,0,0,1,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,None
+24,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,2,0,0,0,0,0,0,3,0,1,1,2,1,Instagram,1,0,All of the above options
+23,0,2,3,1,2,0,0,0,3,0,0,0,3,1,Telegram,1,0,Hanging out with friends
+34,0,2,3,1,3,0,0,0,5,0,0,1,2,1,"Instagram, Telegram",1,1,Hanging out with friends
+22,1,2,3,1,0,0,1,1,3,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+25,1,2,3,1,1,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+18,0,2,1,1,1,0,0,0,4,0,0,0,1,1,Telegram,1,1,Sleeping
+20,0,1,1,1,1,0,1,1,3,1,1,1,1,1,Instagram,1,0,Hanging out with friends
+20,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,Reading
+45,1,2,1,0,0,0,0,1,4,1,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+20,1,2,3,1,3,1,0,0,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,1,3,1,3,0,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+42,1,2,1,0,0,0,1,1,5,1,1,0,5,1,Facebook,0,1,Exercising
+22,1,2,3,1,1,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+19,0,2,1,1,0,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+50,1,2,1,1,1,0,0,1,3,0,1,1,4,1,Facebook,0,1,Hanging out with friends
+21,0,2,3,1,3,1,0,0,3,0,1,0,1,1,Instagram,1,1,Exercising
+22,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+21,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+22,0,2,3,1,2,1,1,1,4,1,0,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+18,1,2,3,1,2,0,0,1,4,0,1,0,3,1,"Facebook, Instagram, Telegram",1,1,Reading
+22,1,1,3,1,2,1,1,1,2,1,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+22,0,1,3,1,3,1,1,1,3,1,1,1,5,1,"Instagram, Telegram",1,0,Setting a time limit for each application
+26,0,1,3,1,3,0,1,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,0,2,0,1,1,5,0,0,0,1,1,Facebook,0,0,All of the above options
+31,1,2,3,0,2,1,1,0,3,1,1,1,4,1,"Facebook, Telegram",0,0,Reading
+19,0,2,3,1,2,0,1,1,2,0,0,1,3,1,Telegram,1,0,All of the above options
+34,1,2,3,1,3,1,1,1,3,0,1,1,5,1,"Facebook, Instagram, Telegram",0,1,All of the above options
+33,1,3,1,1,2,1,0,1,4,0,1,1,3,1,Facebook,0,1,All of the above options
+21,0,2,3,1,2,1,1,0,4,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+23,1,2,3,1,3,1,1,1,4,0,0,0,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,2,1,1,3,0,0,1,3,1,1,1,4,1,Instagram,1,1,All of the above options
+33,1,2,1,0,2,0,1,0,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,0,2,1,1,1,0,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+18,1,2,0,1,1,0,1,1,4,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+24,1,2,3,1,2,1,1,1,1,1,1,1,3,1,"Facebook, Instagram",0,0,Exercising
+20,0,2,0,1,1,0,0,0,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+40,0,4,3,1,2,0,0,1,4,0,0,1,1,1,Facebook,1,0,All of the above options
+18,0,2,3,1,3,1,0,1,3,1,1,1,2,1,"Instagram, Telegram",1,1,Exercising
+21,1,2,1,0,0,0,1,1,4,0,0,0,3,1,Telegram,1,1,All of the above options
+24,0,2,1,0,1,0,1,1,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+22,1,2,0,1,0,1,1,1,5,0,1,1,5,1,"Facebook, Instagram",1,1,Exercising
+29,1,2,3,0,1,0,0,1,4,0,1,1,5,1,"Instagram, Telegram",1,1,Exercising
+22,1,1,3,1,0,0,1,1,3,0,0,0,1,1,Instagram,0,0,Sleeping
+23,0,1,3,1,3,0,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+21,1,1,1,1,1,0,1,0,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+23,0,1,3,1,3,0,1,1,3,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,1,1,1,1,0,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,2,0,1,1,0,0,0,5,0,1,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading 
+19,0,1,0,0,1,0,0,1,4,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+19,1,2,3,0,2,0,1,1,3,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+45,0,1,0,0,0,0,0,0,1,1,1,1,2,1,"Facebook, Instagram",0,1,All of the above options
+21,0,2,1,1,2,0,0,0,4,0,1,1,2,1,Telegram,1,1,Reading
+22,0,2,3,1,2,1,1,1,4,0,1,1,4,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+20,0,1,1,1,1,0,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,0,1,3,1,3,1,1,1,2,1,1,1,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+24,1,2,3,1,0,1,0,1,3,1,1,1,2,1,Telegram,0,0,Reading
+22,1,1,3,0,3,1,1,1,3,1,1,1,3,1,"Instagram, Telegram, Snapchat",1,0,Sleeping
+18,0,1,3,1,2,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+34,0,2,3,1,2,0,1,0,3,0,0,1,3,1,"Facebook, Instagram",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,2,0,1,0,0,0,1,4,0,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+24,0,2,3,1,3,1,1,1,3,0,1,1,3,1,Instagram,1,0,All of the above options
+19,0,2,3,1,3,0,0,1,3,0,1,0,1,1,Snapchat,0,0,Hanging out with friends
+22,1,2,3,1,2,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+19,0,2,3,1,2,0,0,1,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,None
+24,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+22,0,2,0,0,0,0,0,0,3,0,1,1,2,1,Instagram,1,0,All of the above options
+23,0,2,3,1,2,0,0,0,3,0,0,0,3,1,Telegram,1,0,Hanging out with friends
+34,0,2,3,1,3,0,0,0,5,0,0,1,2,1,"Instagram, Telegram",1,1,Hanging out with friends
+22,1,2,3,1,0,0,1,1,3,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+25,1,2,3,1,1,1,0,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+18,0,2,1,1,1,0,0,0,4,0,0,0,1,1,Telegram,1,1,Sleeping
+20,0,1,1,1,1,0,1,1,3,1,1,1,1,1,Instagram,1,0,Hanging out with friends
+20,1,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,Reading
+45,1,2,1,0,0,0,0,1,4,1,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Exercising
+20,1,2,3,1,3,1,0,0,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+18,0,1,3,1,3,0,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+42,1,2,1,0,0,0,1,1,5,1,1,0,5,1,Facebook,0,1,Exercising
+22,1,2,3,1,1,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+19,0,2,1,1,0,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+50,0,2,1,1,1,0,0,1,3,0,1,1,4,1,Facebook,0,1,Hanging out with friends
+21,0,2,3,1,3,1,0,0,3,0,1,0,1,1,Instagram,1,1,Exercising
+22,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+21,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+22,0,2,3,1,2,1,1,1,4,1,0,1,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+18,1,2,3,1,2,0,0,1,4,0,1,0,3,1,"Facebook, Instagram, Telegram",1,1,Sleeping
+20,0,1,2,0,2,0,1,1,4,1,1,1,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Spending time with family
+18,0,1,1,0,1,0,0,1,4,0,0,0,1,0,Instagram,1,1,Reading
+20,0,1,3,1,3,1,0,1,5,0,0,1,5,1,Instagram,0,1,Exercising
+20,0,2,2,1,2,0,0,0,3,0,1,1,1,0,Instagram,0,1,Spending time with family
+20,0,1,2,1,2,0,1,1,5,0,1,0,1,1,TikTok,1,1,Exercising
+20,0,1,3,1,3,1,0,1,3,0,1,0,3,0,Instagram,1,1,Spending time with family
+40,1,4,2,0,0,1,0,1,5,0,1,0,1,1,Facebook,0,0,Reading
+19,0,0,1,0,1,0,1,1,2,0,1,0,1,0,Youtube,0,1,Exercising
+20,0,2,3,1,3,1,0,0,4,0,0,0,2,0,Instagram,0,1,Spending time with family
+21,0,1,3,1,3,0,0,1,3,1,1,1,3,1,Instagram,1,1,Reading
+38,0,3,2,1,1,1,0,0,3,0,1,0,1,1,Facebook,1,0,Exercising
+23,1,2,3,1,3,1,0,1,3,1,1,0,1,0,Instagram,1,1,Spending time with family
+33,1,3,1,0,2,1,1,1,4,1,0,1,3,1,Facebook,0,1,Reading
+19,0,2,3,1,3,1,1,1,4,1,1,1,1,1,Instagram,1,0,Exercising
+12,1,4,3,1,3,0,0,0,5,0,1,0,1,0,Instagram,0,0,Spending time with family
+40,0,2,2,0,2,1,1,1,3,1,1,1,4,1,TikTok,0,0,Reading
+19,0,1,2,0,2,1,0,1,3,0,1,1,3,0,Instagram,1,1,Exercising
+20,1,2,2,1,3,0,0,0,3,0,0,0,3,0,Instagram,1,0,Spending time with family
+20,0,2,3,0,3,1,1,1,5,0,0,1,3,0,Instagram,1,1,Reading
+26,0,2,3,1,3,1,1,1,3,1,1,1,3,1,Telegram ,1,1,Exercising
+20,0,2,1,1,1,1,0,0,4,1,1,1,3,0,Instagram,1,1,Spending time with family
+20,1,2,1,1,1,1,0,1,4,0,0,1,2,1,Instagram,1,1,Exercising
+20,1,1,1,1,3,1,0,1,4,0,1,0,3,0,Instagram,1,0,Spending time with family
+19,0,2,2,0,2,0,0,1,4,0,0,0,2,0,Instagram,1,0,Reading
+19,0,0,2,1,1,0,1,1,4,0,1,1,3,0,Instagram,0,0,Exercising
+40,1,3,2,0,2,0,1,1,4,0,1,1,3,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Spending time with family
+23,1,0,1,1,3,0,0,0,4,0,0,0,1,0,"Telegram,Instagram,YouTube,Snapchat,XTikTok, Facebook",1,0,Reading
+27,0,2,2,0,2,1,0,0,4,0,1,1,2,0,Instagram,1,0,Exercising
+28,1,2,3,1,3,1,1,1,2,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Spending time with family
+35,1,2,1,0,1,0,0,1,4,1,0,0,3,1,Facebook,1,1,Reading
+25,1,2,3,1,3,1,1,0,1,1,1,1,5,1,Instagram,0,0,Exercising
+48,0,2,3,0,0,1,1,1,3,1,1,1,3,1,Instagram,1,1,Spending time with family
+19,0,2,2,1,2,0,0,0,4,0,1,0,1,1,Instagram,0,0,Reading
+19,1,2,0,0,3,0,0,1,4,1,0,1,3,1,Instagram,1,1,Exercising
+21,0,1,3,1,3,1,0,1,1,1,1,1,1,0,Instagram,1,1,Spending time with family
+20,1,1,3,1,3,1,0,1,3,1,1,1,3,0,TikTok,0,0,Reading
+20,0,1,1,0,3,1,0,1,4,1,1,0,2,0,Instagram,1,0,Exercising
+20,0,2,1,1,0,0,0,1,5,0,1,0,1,0,Instagram,1,0,Spending time with family
+21,1,1,3,0,3,1,0,1,4,0,1,0,1,0,Instagram,0,0,Exercising
+28,1,3,2,0,3,1,1,1,3,0,1,1,3,1,Facebook,1,1,Spending time with family
+21,1,2,1,1,0,0,1,1,4,1,0,0,1,0,Instagram,0,1,Reading
+32,1,3,1,0,2,0,0,1,2,1,1,1,2,1,Facebook,0,0,Exercising
+35,1,3,2,1,1,1,1,1,3,0,1,1,3,1,Facebook,1,1,Spending time with family
+31,1,3,3,1,3,1,1,1,3,1,0,1,4,1,TikTok,0,0,Reading
+26,1,2,3,1,3,1,1,1,3,1,1,1,5,1,TikTok,0,1,Exercising
+42,0,3,2,1,3,1,1,1,3,0,0,1,3,1,Facebook,1,0,Spending time with family
+30,0,3,3,1,3,1,1,1,3,1,1,1,3,1,Instagram,1,1,Reading
+32,0,3,2,1,2,1,0,1,3,1,1,0,1,0,Instagram,1,0,Exercising
+23,1,2,2,0,1,1,1,1,3,0,0,1,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Spending time with family
+18,0,0,3,1,3,1,1,1,3,0,1,1,5,1,Instagram,0,1,Reading
+29,1,3,1,0,2,1,1,1,4,0,1,1,4,1,Facebook,0,1,Exercising
+28,0,3,1,0,3,1,0,1,4,0,0,0,3,1,Instagram,1,1,Spending time with family
+29,1,3,3,0,3,0,1,1,5,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+24,1,0,2,0,1,0,0,0,3,0,1,1,3,0,Facebook,1,0,Exercising
+40,1,3,1,0,2,0,0,1,4,1,1,1,2,1,Facebook,0,0,Spending time with family
+20,1,1,3,0,3,1,0,1,3,0,1,1,1,1,Instagram,1,0,Exercising
+44,1,3,0,0,0,0,0,1,5,0,1,0,1,0,TikTok,0,0,Spending time with family
+48,1,3,3,1,3,1,1,1,4,0,1,1,2,0,Facebook,1,0,Reading
+30,1,2,1,1,1,0,0,0,4,1,1,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+29,1,2,1,0,1,1,1,1,4,1,1,1,3,1,Instagram,1,1,Spending time with family
+44,1,3,1,0,2,0,1,1,5,0,0,0,3,1,Facebook,1,1,Reading
+29,0,2,3,1,3,1,1,1,3,1,1,1,5,1,Instagram,1,1,Exercising
+27,0,3,3,1,3,1,0,0,4,0,1,0,3,0,Instagram,0,0,Spending time with family
+19,0,1,3,1,3,1,1,1,5,0,1,0,1,0,TikTok,1,0,Reading
+21,1,2,3,1,3,0,1,1,5,0,1,0,1,0,Instagram,0,0,Exercising
+44,0,2,1,1,2,1,1,1,4,0,1,1,3,1,Facebook,1,1,Spending time with family
+31,1,2,2,0,3,0,0,0,4,0,1,0,5,1,Instagram,1,0,Reading
+19,0,1,2,1,2,1,0,1,3,1,1,0,2,0,Instagram,0,0,Exercising
+55,1,2,2,0,2,0,0,1,5,0,0,0,1,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Spending time with family
+21,1,1,3,1,3,1,1,1,1,1,1,1,5,1,TikTok,0,0,Reading
+54,1,2,1,0,1,1,0,1,4,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+27,1,2,3,1,3,1,1,1,3,0,1,1,5,1,Instagram,0,0,Spending time with family
+30,0,3,3,1,3,1,0,0,4,0,1,1,1,0,Instagram,0,1,Exercising
+45,1,3,1,1,1,1,0,1,2,1,0,1,2,1,Facebook,0,1,Spending time with family
+34,0,3,1,1,3,0,0,0,4,1,0,0,2,0,Facebook,0,1,Reading
+27,0,3,3,0,3,1,0,1,5,0,1,0,3,0,Facebook,1,0,Exercising
+35,0,4,3,1,2,0,1,0,4,0,0,1,2,1,Facebook,1,0,Spending time with family
+27,0,3,3,1,3,0,0,0,4,1,1,0,3,0,Instagram,1,1,Reading
+44,0,2,3,0,3,0,0,0,4,0,0,1,2,0,Googel,1,1,Exercising
+58,1,2,3,0,2,1,1,1,4,1,0,1,4,1,Facebook,1,1,Spending time with family
+34,0,3,3,0,3,1,0,1,4,0,1,1,2,0,Instagram,1,0,Reading
+36,0,3,1,0,2,0,0,1,3,1,0,0,3,0,Facebook,0,0,Exercising
+54,0,3,0,0,0,0,0,1,4,0,1,0,4,0,TikTok,0,0,Spending time with family
+36,1,3,3,1,3,1,1,1,3,1,1,1,4,1,TikTok,1,1,Reading
+51,1,2,2,0,2,0,0,1,4,0,0,0,4,0,Facebook,0,0,Exercising
+33,1,3,1,1,2,0,0,0,4,0,0,0,2,0,YouTube والGoogel,0,0,Spending time with family
+32,0,3,3,1,3,0,1,1,4,0,1,1,3,1,Instagram,1,1,Reading
+18,1,2,3,0,3,1,0,1,4,0,0,1,3,0,TikTok,1,0,Exercising
+19,0,2,3,0,3,1,0,1,4,1,1,1,5,1,Instagram,1,0,Spending time with family
+18,1,0,1,1,1,0,0,0,5,1,0,1,1,0,Instagram,0,0,Exercising
+42,1,4,1,0,3,1,1,1,5,0,1,1,5,1,"Telegram,Instagram,YouTube,Snapchat,XTikTok, Facebook",0,0,Spending time with family
+37,0,3,3,1,3,1,1,1,5,0,0,1,5,1,Instagram,0,0,Reading
+39,0,2,3,1,3,1,0,0,3,0,1,1,4,1,YouTube,0,0,Exercising
+50,1,2,0,0,0,0,1,1,3,1,1,1,4,1,WhatsApp,1,0,Spending time with family
+35,1,3,3,0,2,1,1,1,4,0,0,1,3,1,Facebook,1,1,Reading
+27,0,3,3,0,3,1,0,1,3,1,1,0,4,1,Instagram,1,0,Exercising
+45,0,3,2,1,1,0,0,1,5,0,1,1,3,1,Facebook,1,1,Spending time with family
+25,0,2,0,1,2,0,0,0,5,0,1,0,2,0,TikTok,0,1,Reading
+18,0,2,3,1,3,1,1,1,2,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+41,1,3,2,0,2,0,1,0,3,1,1,كليهما,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Sleeping
+31,1,3,3,1,2,1,0,1,4,1,1,0,1,1,Facebook,1,0,All of the above options
+18,0,2,2,1,2,0,1,0,3,0,1,كليهما,4,1,Instagram و Telegram,0,1,All of the above options
+51,0,3,1,1,1,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+23,0,1,3,1,3,0,0,1,3,0,0,0,3,1,Telegram,1,1,Exercising
+22,0,2,2,1,3,0,0,1,3,1,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+33,0,2,2,1,3,0,0,1,4,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+37,1,3,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+35,1,3,1,0,3,0,0,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Sleeping
+29,1,2,3,1,3,1,0,0,4,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+54,1,2,2,1,3,0,1,1,4,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+34,0,3,3,1,3,1,0,1,3,1,1,1,4,1,"Instagram, Telegram",1,1,Sleeping
+35,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+38,1,4,2,1,2,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+42,1,4,2,1,3,0,0,0,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+35,1,4,2,1,3,1,1,1,4,1,1,1,3,1,"Facebook, Instagram",1,1,All of the above options
+33,1,4,1,1,3,1,1,1,5,0,1,1,3,1,"Facebook, Telegram",1,1,All of the above options
+45,0,3,2,1,3,1,1,1,4,1,1,1,4,1,"Facebook, Telegram",1,0,Reading
+32,0,2,2,1,3,0,0,1,5,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+30,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+12,1,0,1,0,1,0,0,0,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+39,1,3,0,1,3,0,1,1,3,1,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,0,3,1,3,1,1,1,3,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Sleeping
+56,0,2,1,1,1,0,0,1,3,1,1,1,2,1,"Facebook, Instagram",1,0,All of the above options
+17,0,2,0,1,0,0,0,0,5,0,0,0,1,1,"Instagram, Telegram",1,1,Sleeping
+30,0,3,3,1,3,1,1,1,3,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+18,0,2,3,1,3,1,0,0,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+33,1,2,0,1,3,0,1,1,4,0,0,1,3,1,Facebook,1,1,Hanging out with friends
+30,1,3,2,1,2,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+48,0,2,1,0,1,1,1,1,3,1,0,1,2,1,Instagram,1,1,All of the above options
+52,0,2,1,0,2,0,0,1,5,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+37,0,3,3,1,2,1,1,1,4,1,1,1,4,1,Facebook,1,1,Sleeping
+46,0,2,2,1,3,1,0,1,3,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,All of the above options
+53,1,2,2,1,2,0,1,1,5,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+26,0,0,0,1,2,1,0,1,3,0,1,1,4,1,Instagram,1,1,All of the above options
+29,0,3,2,0,2,0,1,0,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+20,0,0,2,1,3,0,1,1,4,1,1,1,1,1,Instagram,1,1,Sleeping
+36,0,3,1,1,3,0,0,0,5,0,0,0,4,1,Facebook,1,1,Sleeping
+37,0,3,2,1,3,0,0,1,4,1,0,1,1,1,"Facebook, Instagram, Telegram",0,0,All of the above options
+30,1,3,2,1,3,0,0,1,5,0,0,0,1,1,"Facebook, Telegram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+43,0,3,0,1,2,0,1,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+51,1,4,1,1,1,1,0,1,5,0,0,1,1,1,Facebook,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,2,2,1,2,1,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,1,2,2,1,1,0,1,1,3,1,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Spending time with family
+17,0,0,2,1,2,0,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+19,0,2,2,1,2,1,1,1,4,1,1,1,3,1,Telegram,1,1,All of the above options
+34,0,2,0,1,1,0,0,0,5,0,0,1,1,1,Instagram,1,0,All of the above options
+19,1,2,3,1,3,0,0,1,5,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+43,0,3,0,1,3,0,0,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+46,1,4,1,0,3,0,0,0,5,0,1,0,1,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+18,0,0,1,1,2,0,0,1,4,0,0,0,2,1,Telegram,1,0,All of the above options
+31,0,4,1,1,1,0,0,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+29,0,2,1,0,1,0,0,0,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+43,1,4,2,0,3,1,1,1,3,1,1,1,4,1,Telegram,1,1,Sleeping
+18,0,2,2,1,2,1,0,1,3,1,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+30,1,3,1,1,1,1,0,0,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+64,1,3,1,1,1,0,1,1,3,0,1,1,3,1,"Facebook, Telegram",1,0,All of the above options
+39,0,3,2,1,3,1,1,1,5,1,0,1,3,1,"Facebook, Telegram",1,1,Exercising
+38,1,2,1,1,3,1,1,1,3,0,0,1,3,1,"Facebook, Instagram, Telegram",0,0,Exercising
+33,0,2,2,1,2,1,1,1,4,1,1,1,4,1,"Facebook, Instagram, Telegram",1,1,Hanging out with friends
+54,1,4,2,1,3,1,1,1,4,1,1,1,5,1,"Facebook, Instagram, Telegram",1,1,Reading
+37,0,3,0,0,1,0,1,1,3,1,0,0,3,1,Facebook,1,1,Hanging out with friends
+18,0,2,3,1,3,0,1,1,3,1,1,1,4,1,Instagram,0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+28,0,2,3,1,3,0,0,1,3,0,0,1,3,1,"Instagram, Telegram,TikTok, Facebook, Telegram",1,0,All of the above options
+58,0,3,1,1,1,0,1,0,5,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+36,0,2,2,1,3,0,0,1,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+33,1,3,3,1,3,1,1,1,5,0,1,1,4,1,Facebook,0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+25,0,2,3,1,3,1,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+34,1,4,2,1,2,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+50,0,3,3,1,3,1,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+38,1,3,1,0,3,0,0,0,4,0,0,0,3,1,Telegram,1,1,Hanging out with friends
+45,0,3,1,1,1,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,3,1,3,1,0,1,3,0,1,1,2,1,Telegram,1,1,All of the above options
+38,1,3,2,1,2,0,1,1,3,1,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+45,0,1,1,0,3,0,1,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+40,0,4,1,1,3,0,1,1,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+25,0,2,2,1,2,0,0,0,5,0,0,0,2,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+35,1,3,2,1,2,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,2,3,1,3,1,0,1,3,1,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+35,1,3,1,1,1,1,0,1,4,1,0,1,3,1,"Facebook, Telegram",0,0,Exercising
+45,0,3,1,0,0,0,1,0,5,0,0,0,5,1,Facebook,0,0,All of the above options
+35,0,2,1,1,1,0,1,1,3,1,1,1,3,1,"Facebook, Telegram",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+39,0,3,1,1,1,0,0,0,5,0,0,0,1,1,"Facebook, Telegram",0,1,Exercising
+18,1,2,1,1,2,0,1,1,3,0,1,0,2,1,"Instagram, Telegram",1,1,All of the above options
+18,0,2,3,1,3,1,1,1,1,0,1,1,4,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,0,4,3,1,3,0,0,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+32,0,3,1,0,2,0,0,0,3,0,0,1,4,1,"Facebook, Instagram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+28,0,3,0,1,1,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+52,1,3,3,0,3,0,0,0,4,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+50,0,3,2,1,3,0,0,0,5,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+46,0,3,1,1,2,0,0,1,4,0,0,1,4,1,Facebook,0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+45,0,3,3,1,3,0,1,1,4,0,0,1,3,1,"Facebook, Telegram",1,1,All of the above options
+43,1,3,1,1,1,0,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+33,1,3,1,1,3,1,1,1,4,0,1,1,3,1,"Telegram,Instagram,YouTube,Snapchat,XTikTok, Facebook",1,1,All of the above options
+52,1,4,2,1,3,1,1,1,4,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+43,1,3,3,0,3,1,1,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+34,1,3,2,1,3,1,1,1,4,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+57,1,3,0,1,2,1,1,1,4,0,0,1,3,1,Telegram,0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+52,0,1,1,1,2,0,1,0,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+22,0,2,1,1,2,0,1,1,4,0,0,1,2,1,Instagram,1,1,Reading
+27,0,2,2,1,2,0,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+32,0,2,3,1,3,1,0,1,4,1,1,1,3,1,Instagram,1,0,All of the above options
+29,0,1,1,0,1,0,0,0,4,0,0,0,1,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,2,0,0,3,0,0,1,3,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+25,0,2,2,0,0,0,1,1,4,1,1,1,2,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+27,1,2,3,1,3,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+28,0,1,3,1,3,1,1,0,3,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+30,1,2,0,1,2,0,0,0,4,1,1,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+21,0,2,3,1,3,1,1,1,3,0,1,1,3,1,Telegram,1,0,Hanging out with friends
+27,1,1,2,1,2,0,0,0,4,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+22,0,2,2,1,2,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+19,1,2,3,0,3,1,1,1,3,1,1,1,3,1,"Facebook, Instagram, Telegram",1,0,All of the above options
+50,0,3,3,1,3,0,1,1,4,0,0,1,2,1,"Facebook, Telegram",1,1,Exercising
+35,1,3,3,1,3,0,0,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+25,0,3,3,1,3,1,1,1,3,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+18,0,2,2,0,2,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,3,1,1,1,1,1,1,3,1,1,1,3,1,"Instagram, Telegram",0,1,Exercising
+24,1,2,2,1,2,0,0,0,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+32,1,3,1,1,1,0,1,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+49,0,4,1,0,1,0,0,0,3,0,1,1,3,1,Facebook,1,0,Reading
+26,0,1,1,1,1,0,0,0,3,0,0,0,1,1,"Facebook, Telegram",0,0,Hanging out with friends
+52,1,3,1,1,1,1,1,1,3,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+18,0,2,3,1,3,0,1,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+50,0,3,0,1,2,0,1,1,3,1,1,1,3,1,Instagram,1,1,All of the above options
+50,1,3,2,0,3,1,1,1,3,1,1,1,3,1,Facebook,1,1,Hanging out with friends
+27,0,2,0,1,2,0,0,1,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+35,1,4,2,0,3,0,1,1,5,0,1,1,3,1,"Facebook, Telegram",0,1,All of the above options
+50,0,3,1,1,3,0,1,1,5,0,1,1,3,1,"Instagram, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+35,0,4,1,1,3,0,0,0,4,0,1,1,2,1,Telegram,1,1,Hanging out with friends
+30,1,2,3,1,3,0,0,1,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+19,0,0,3,1,3,1,1,1,3,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+20,0,2,2,1,2,1,1,1,3,1,1,1,4,1,Instagram,1,1,All of the above options
+21,0,2,2,1,2,0,0,1,3,0,0,0,3,1,"Instagram, Telegram",1,0,Hanging out with friends
+43,0,4,3,1,2,0,0,1,4,1,1,1,3,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+49,0,2,1,1,3,1,1,1,5,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+27,0,1,0,1,2,0,1,1,4,1,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+23,0,2,3,1,3,1,1,1,3,1,1,1,4,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+20,0,1,2,0,2,0,1,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+40,0,3,3,0,3,0,0,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Reading
+20,0,2,3,1,3,1,1,1,4,0,0,0,3,1,"Instagram, Telegram",1,1,Hanging out with friends
+58,0,4,2,0,3,1,1,0,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Hanging out with friends
+25,1,3,3,1,3,1,1,1,2,1,1,1,5,1,"Facebook, Telegram,TikTok, Facebook, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+17,1,0,3,1,3,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+29,0,2,2,1,2,1,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+31,0,3,3,1,3,1,1,1,4,0,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+18,0,2,3,1,3,0,1,1,3,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+17,1,0,1,1,2,0,1,1,4,0,1,1,4,1,Telegram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+32,0,2,1,1,1,0,1,1,4,0,0,1,1,1,"Instagram, Telegram",1,1,Reading
+25,0,2,1,1,1,1,1,1,1,1,1,1,1,1,"Instagram, Telegram",1,0,All of the above options
+32,1,0,1,0,1,0,0,1,5,0,0,0,3,1,Facebook,0,1,Reading
+35,0,2,0,0,0,0,0,0,4,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+28,0,3,3,0,2,1,0,1,4,0,0,1,2,1,"Instagram, Telegram",1,1,Reading
+48,0,1,0,1,1,0,0,1,5,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+45,1,2,0,1,0,0,0,0,5,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,All of the above options
+37,1,2,3,1,3,1,1,1,4,1,0,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+27,0,2,1,1,1,0,0,1,4,0,0,0,1,1,Instagram,1,1,Hanging out with friends
+32,1,2,1,1,1,0,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+45,0,2,1,1,1,0,0,0,5,0,0,0,1,1,Telegram,1,1,All of the above options
+20,0,0,3,1,2,0,1,1,3,0,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+49,0,2,1,1,1,1,1,1,4,1,1,1,3,1,"Facebook, Telegram",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+25,0,1,3,1,2,1,1,1,4,1,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+27,0,3,1,1,2,0,1,1,3,0,0,1,3,1,"Instagram, Telegram",1,1,All of the above options
+34,1,2,0,1,0,0,1,1,4,1,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+48,0,1,1,1,1,0,1,1,4,1,0,1,4,1,Instagram,1,1,Reading
+39,1,4,0,0,1,1,0,1,3,0,0,0,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+20,0,0,3,1,3,0,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+35,0,2,3,1,3,1,1,1,4,0,1,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+32,0,2,3,1,3,0,1,0,5,1,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+25,0,2,3,1,3,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+25,1,1,2,0,3,0,1,1,3,0,1,1,3,1,"Facebook, Instagram, Telegram",1,0,Hanging out with friends
+31,0,2,2,1,3,0,1,1,3,1,1,1,2,1,Instagram,1,1,Reading
+20,0,2,2,1,2,1,1,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,0,0,3,1,3,1,1,1,4,0,0,1,4,1,Telegram,1,0,Exercising
+51,0,3,0,0,1,0,1,1,4,0,1,1,4,1,Telegram,1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+24,0,2,3,1,3,1,0,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+37,1,4,2,0,2,1,1,1,5,0,1,1,1,1,Facebook,1,1,Hanging out with friends
+20,1,2,1,1,3,1,0,1,3,0,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+20,0,2,2,1,2,0,0,1,4,0,0,0,4,1,Telegram,1,1,Hanging out with friends
+21,0,2,2,1,2,0,0,1,4,1,0,1,4,1,"Instagram, Telegram",1,1,Exercising
+23,0,1,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+20,1,0,3,1,3,1,0,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+19,1,0,3,1,3,1,1,1,3,0,1,1,3,1,Instagram,1,0,All of the above options
+21,0,0,3,1,0,0,0,1,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+21,1,0,1,1,1,1,0,0,4,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+54,0,1,2,0,2,1,0,0,4,1,0,1,4,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+24,0,0,0,0,0,0,0,1,5,1,1,1,5,1,Telegram,1,0,Reading
+56,1,2,3,1,3,1,0,0,4,0,0,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+19,1,0,2,1,2,0,0,0,5,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+37,1,2,1,1,1,0,1,1,4,0,0,0,2,1,Facebook,1,1,All of the above options
+19,0,1,2,1,2,1,0,1,3,1,1,0,2,0,Instagram,0,0,Exercising
+55,0,2,2,0,2,0,0,1,5,0,0,0,1,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Spending time with family
+21,1,1,3,1,3,1,1,1,1,1,1,1,5,1,TikTok,0,0,Reading
+54,1,3,3,1,3,1,0,1,4,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+27,1,2,3,1,3,1,1,1,3,0,1,1,5,1,Instagram,0,0,Spending time with family
+30,0,3,3,1,3,1,0,0,4,0,1,1,1,0,Instagram,0,1,Exercising
+45,1,3,1,1,1,1,0,1,2,1,0,1,2,1,Facebook,0,1,Spending time with family
+34,0,3,1,1,3,0,0,0,4,1,0,0,2,0,Facebook,0,1,Reading
+27,0,3,3,0,3,1,0,1,5,0,1,0,3,0,Facebook,1,0,Exercising
+35,0,4,3,1,2,0,1,0,4,0,0,1,2,1,Facebook,1,0,Spending time with family
+27,0,3,3,1,3,0,0,0,4,1,1,0,3,0,Instagram,1,1,Reading
+44,0,2,3,0,3,0,0,0,4,0,0,1,2,0,Googel,1,1,Exercising
+58,1,2,3,0,2,1,1,1,4,1,0,1,4,1,Facebook,1,1,Spending time with family
+34,0,3,3,0,3,1,0,1,4,0,1,1,2,0,Instagram,1,0,Reading
+36,0,3,1,0,2,0,0,1,3,1,0,0,3,0,Facebook,0,0,Exercising
+54,0,3,0,0,0,0,0,1,4,0,1,0,4,0,TikTok,0,0,Spending time with family
+36,1,3,3,1,3,1,1,1,3,1,1,1,4,1,TikTok,1,1,Reading
+51,1,2,2,0,2,0,0,1,4,0,0,0,4,0,Facebook,0,0,Exercising
+33,1,3,1,1,2,0,0,0,4,0,0,0,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Spending time with family
+32,0,3,3,1,3,0,1,1,4,0,1,1,3,1,Instagram,1,1,Reading
+18,1,2,3,0,3,1,0,1,4,0,0,1,3,0,TikTok,1,0,Exercising
+19,0,2,3,0,3,1,0,1,4,1,1,1,5,1,Instagram,1,0,Spending time with family
+18,1,0,1,1,1,0,0,0,5,1,0,1,1,0,Instagram,0,0,Exercising
+42,1,4,1,0,3,1,1,1,5,0,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Spending time with family
+37,0,3,3,1,3,1,1,1,5,0,0,1,5,1,Instagram,0,0,Reading
+39,0,2,3,1,3,1,0,0,3,0,1,1,4,1,YouTube,0,0,Exercising
+50,1,2,0,0,0,0,1,1,3,1,1,1,4,1,WhatsApp,1,0,Spending time with family
+35,1,3,3,0,2,1,1,1,4,0,0,1,3,1,Facebook,1,1,Reading
+27,0,3,3,0,3,1,0,1,3,1,1,0,4,1,Instagram,1,0,Exercising
+45,0,3,2,1,1,0,0,1,5,0,1,1,3,1,Facebook,1,1,Spending time with family
+25,0,2,0,1,2,0,0,0,5,0,1,0,2,0,TikTok,0,1,Reading
+18,0,2,3,1,3,1,1,1,2,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+41,1,3,2,0,2,0,1,0,3,1,1,كليهما,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Sleeping
+31,1,3,3,1,2,1,0,1,4,1,1,0,1,1,Facebook,1,0,All of the above options
+18,0,2,2,1,2,0,1,0,3,0,1,كليهما,4,1,Instagram و Telegram,0,1,All of the above options
+51,0,3,1,1,1,0,0,1,3,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+23,0,1,3,1,3,0,0,1,3,0,0,0,3,1,Telegram,1,1,Exercising
+22,0,2,2,1,3,0,0,1,3,1,1,1,3,1,"Instagram, Telegram",1,1,All of the above options
+33,0,2,2,1,3,0,0,1,4,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+37,1,3,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+35,1,3,1,0,3,0,0,1,5,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Sleeping
+29,1,2,3,1,3,1,0,0,4,0,1,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+54,1,2,2,1,3,0,1,1,4,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+34,0,3,3,1,3,1,0,1,3,1,1,1,4,1,"Instagram, Telegram",1,1,Sleeping
+35,0,2,3,1,3,1,1,1,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+38,1,4,2,1,2,1,1,1,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+42,1,4,2,1,3,0,0,0,4,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,All of the above options
+35,1,4,2,1,3,1,1,1,4,1,1,1,3,1,"Facebook, Instagram",1,1,All of the above options
+33,1,4,1,1,3,1,1,1,5,0,1,1,3,1,"Facebook, Telegram",1,1,All of the above options
+45,0,3,2,1,3,1,1,1,4,1,1,1,4,1,"Facebook, Telegram",1,0,Reading
+32,0,2,2,1,3,0,0,1,5,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,Exercising
+30,1,2,3,1,3,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Hanging out with friends
+12,1,0,1,0,1,0,0,0,5,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+39,1,3,0,1,3,0,1,1,3,1,0,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+19,0,0,3,1,3,1,1,1,3,0,0,0,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Sleeping
+56,0,2,1,1,1,0,0,1,3,1,1,1,2,1,"Facebook, Instagram",1,0,All of the above options
+17,0,2,0,1,0,0,0,0,5,0,0,0,1,1,"Instagram, Telegram",1,1,Sleeping
+30,0,3,3,1,3,1,1,1,3,1,1,1,5,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Hanging out with friends
+18,0,2,3,1,3,1,0,0,3,0,1,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,All of the above options
+33,1,2,0,1,3,0,1,1,4,0,0,1,3,1,Facebook,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+30,1,3,2,1,2,1,1,1,3,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+48,0,2,1,0,1,1,1,1,3,1,0,1,2,1,Instagram,1,1,All of the above options
+52,0,2,1,0,2,0,0,1,5,0,0,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+37,0,3,3,1,2,1,1,1,4,1,1,1,4,1,Facebook,1,1,Sleeping
+46,0,2,2,1,3,1,0,1,3,0,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+53,1,2,2,1,2,0,1,1,5,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+26,0,0,0,1,2,1,0,1,3,0,1,1,4,1,Instagram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+29,0,3,2,0,2,0,1,0,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+20,0,0,2,1,3,0,1,1,4,1,1,1,1,1,Instagram,1,1,Sleeping
+36,0,3,1,1,3,0,0,0,5,0,0,0,4,1,Facebook,1,1,Sleeping
+37,0,3,2,1,3,0,0,1,4,1,0,1,1,1,"Facebook, Instagram, Telegram",0,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+30,1,3,2,1,3,0,0,1,5,0,0,0,1,1,"Facebook, Telegram",1,0,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+43,0,3,0,1,2,0,1,1,4,1,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Reading
+51,1,4,1,1,1,1,0,1,5,0,0,1,1,1,Facebook,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+18,0,2,2,1,2,1,1,1,4,1,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+24,1,2,2,1,1,0,1,1,3,1,0,1,4,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Spending time with family
+17,0,0,2,1,2,0,0,0,4,0,0,0,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Sleeping
+19,0,2,2,1,2,1,1,1,4,1,1,1,3,1,Telegram,1,1,"Being occupied with housework, relaxation, and attending to personal matters such as health, reading the Quran, visiting family, or receiving guests"
+34,0,2,0,1,1,0,0,0,5,0,0,1,1,1,Instagram,1,0,All of the above options
+19,1,2,3,1,3,0,0,1,5,0,1,1,1,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+43,0,3,0,1,3,0,0,1,3,0,0,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+46,1,4,1,0,3,0,0,0,5,0,1,0,1,1,"Facebook, Instagram, Telegram",1,1,All of the above options
+18,0,0,1,1,2,0,0,1,4,0,0,0,2,1,Telegram,1,0,All of the above options
+31,0,4,1,1,1,0,0,1,5,0,0,0,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,0,Sleeping
+29,0,2,1,0,1,0,0,0,4,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Hanging out with friends
+43,1,4,2,0,3,1,1,1,3,1,1,1,4,1,Telegram,1,1,Sleeping
+18,0,2,2,1,2,1,0,1,3,1,1,0,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+30,1,3,1,1,1,1,0,0,3,0,1,1,3,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",0,1,All of the above options
+64,1,3,1,1,1,0,1,1,3,0,1,1,3,1,"Facebook, Telegram",1,0,All of the above options
+39,0,3,2,1,3,1,1,1,5,1,0,1,3,1,"Facebook, Telegram",1,1,Exercising
+38,1,2,1,1,3,1,1,1,3,0,0,1,3,1,"Facebook, Instagram, Telegram",0,0,Exercising
+33,0,2,2,1,2,1,1,1,4,1,1,1,4,1,"Facebook, Instagram, Telegram",1,1,Hanging out with friends
+54,1,4,2,1,3,1,1,1,4,1,1,1,5,1,"Facebook, Instagram, Telegram",1,1,Reading
+25,0,3,3,0,3,1,1,1,3,1,1,1,2,0,Facebook,1,0,Spending time with family
+34,0,3,3,0,3,1,1,1,5,1,1,1,4,1,TikTok,1,1,Reading
+32,0,3,3,0,3,1,1,0,5,0,1,1,1,0,Facebook,1,1,Exercising
+24,0,3,3,0,3,1,0,0,5,1,0,1,3,1,Instagram,1,1,Spending time with family
+21,0,3,2,1,2,1,0,1,2,1,1,1,3,1,Instagram,1,1,Reading
+23,0,3,1,0,3,0,0,1,3,0,1,0,1,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,0,Exercising
+20,0,3,2,0,2,0,0,1,4,0,0,1,4,0,TikTok,1,1,Spending time with family
+21,1,3,2,0,2,1,1,1,3,1,1,1,3,1,Instagram,1,0,Reading
+36,1,3,2,1,2,1,1,1,4,0,1,1,3,1,Facebook,1,0,Exercising
+28,1,2,3,1,3,0,0,1,3,1,0,1,1,1,Facebook,1,1,Spending time with family
+21,1,2,1,0,3,0,1,1,3,1,1,1,3,1,Instagram,1,1,Reading
+40,1,3,2,0,1,1,1,1,3,1,1,1,3,1,Facebook,0,0,Exercising
+18,0,2,3,1,3,1,0,1,3,0,1,1,4,1,TikTok,1,1,Spending time with family
+18,0,0,2,1,2,0,1,1,3,0,0,0,2,0,Instagram,1,0,Reading
+20,0,2,3,1,3,1,1,1,3,0,1,0,2,1,Instagram,0,0,Exercising
+56,0,3,1,1,1,0,0,0,5,1,1,1,4,0,Instagram,0,0,Spending time with family
+42,1,3,1,0,2,1,1,1,5,1,1,1,4,1,Facebook,1,1,Exercising
+27,0,3,2,0,2,0,0,0,4,0,0,0,3,0,Instagram,0,1,Spending time with family
+30,1,3,1,0,1,0,0,0,3,1,1,1,2,0,Facebook,1,1,Reading
+18,0,2,3,0,3,1,0,1,4,0,0,1,2,0,Instagram,1,0,Exercising
+30,1,3,2,0,2,1,0,0,4,1,0,1,2,1,Facebook,0,1,Spending time with family
+19,0,2,3,0,3,1,0,1,3,1,1,1,2,1,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Reading
+44,1,4,2,0,1,0,0,1,5,0,1,1,2,0,"TikTok, Facebook, Telegram,Instagram,YouTube,Snapchat,X",1,1,Exercising
+35,1,3,3,0,3,1,1,1,4,0,1,0,1,1,Facebook,0,1,Spending time with family
+32,1,3,2,1,2,1,1,1,3,0,1,1,4,1,Facebook,1,0,Reading
+32,1,3,3,1,3,0,0,0,4,1,1,1,3,1,Facebook,1,1,Exercising
+34,1,3,2,0,2,1,1,1,4,1,1,1,4,1,Instagram,1,1,Spending time with family
+32,0,2,1,0,2,1,1,1,4,0,0,0,3,1,Instagram,0,0,Reading
+26,0,1,3,0,1,0,0,1,3,0,0,1,2,0,Instagram,1,0,Exercising
+34,1,2,1,1,2,1,1,1,5,0,1,1,4,1,Instagram,0,0,Spending time with family
+25,0,3,2,1,1,1,0,1,3,0,1,1,3,1,Facebook,1,1,Reading
+36,0,3,1,0,1,0,1,0,4,1,1,1,3,0,Facebook,1,1,Exercising
+31,0,2,3,1,3,0,0,1,4,1,0,0,4,0,Instagram,1,0,Spending time with family
+30,0,3,0,0,1,0,0,1,4,1,0,1,3,1,Facebook,1,1,Exercising
+40,1,3,1,0,1,0,0,1,4,0,1,1,2,1,Facebook,1,1,Spending time with family
+28,0,3,1,0,3,0,0,1,5,0,1,0,3,0,Instagram,1,1,Reading
+29,1,2,1,0,1,0,0,0,3,1,1,1,3,0,Facebook,0,1,Exercising
+23,0,1,3,1,3,1,0,1,2,0,1,1,3,1,Instagram,0,0,Spending time with family
+30,1,3,3,0,2,1,1,1,3,1,1,1,3,1,Facebook,1,1,Reading
+21,0,2,2,1,2,0,0,0,4,0,0,0,2,0,Instagram,1,0,Exercising
+19,0,0,3,1,3,1,1,1,2,1,1,1,1,1,Instagram,1,0,Spending time with family
+19,0,0,3,1,3,1,1,1,3,1,1,0,2,1,Telegram wats up,1,0,Reading
+31,1,2,2,0,2,1,0,1,3,0,1,1,4,1,Instagram,0,1,Exercising
+29,0,3,3,1,3,1,0,1,3,1,1,1,3,1,Instagram,0,0,Spending time with family
+18,0,0,2,1,0,1,0,1,2,1,1,1,1,1,Instagram,0,1,Reading
+29,1,2,1,0,1,0,0,0,4,0,1,1,1,0,Instagram,1,1,Exercising
+18,0,2,1,0,1,0,0,0,3,0,1,0,1,0,Instagram,0,0,Spending time with family
+29,0,3,2,0,2,1,0,1,4,1,1,1,3,1,Instagram,1,1,Reading
+23,0,2,3,1,3,1,1,1,3,1,1,1,2,0,Instagram,0,0,Exercising
+30,1,3,1,0,1,1,0,1,4,0,1,1,1,1,Facebook,1,0,Spending time with family
+50,0,4,0,0,1,1,1,1,3,1,1,1,3,1,WhatsAppTelegram ,0,1,Exercising
+20,1,2,1,1,2,0,0,1,4,0,1,0,2,0,Facebook,1,0,Spending time with family
+19,0,2,1,1,1,0,1,1,4,1,1,1,3,1,Instagram,1,1,Reading
+23,0,1,1,0,2,0,0,1,3,0,1,0,2,0,Telegram,0,1,Exercising
+30,1,4,2,0,3,1,1,1,4,1,1,1,5,1,Instagram,0,0,Spending time with family
+19,0,2,3,1,3,1,1,1,3,1,1,0,1,0,Instagram,1,0,Reading
+47,0,3,2,0,2,0,0,1,3,0,1,0,3,0,Facebook,1,0,Exercising
+23,1,2,1,1,1,0,0,1,3,1,1,1,4,0,Instagram,1,1,Spending time with family
+19,0,2,3,0,3,0,0,1,4,1,0,1,4,0,Instagram,1,0,Reading
+51,0,3,2,0,2,0,0,1,4,0,1,1,4,0,Facebook,1,1,Exercising
+25,0,3,2,1,2,0,0,1,4,0,1,0,1,0,Instagram,1,1,Spending time with family
+33,0,3,1,0,3,1,1,1,4,0,0,1,2,1,YouTube,1,0,Reading
+36,1,3,3,0,3,1,0,1,1,1,1,1,1,1,TikTok,1,0,Exercising

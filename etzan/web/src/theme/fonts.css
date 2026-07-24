@@ -1,0 +1,40 @@
+/* Thmanyah faces — self-hosted woff2. Sans covers Arabic body text;
+   Serif Display is used for headings. */
+
+@font-face {
+  font-family: "Thmanyah Sans";
+  src: url("./fonts/thmanyahsans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Thmanyah Sans";
+  src: url("./fonts/thmanyahsans-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Thmanyah Sans";
+  src: url("./fonts/thmanyahsans-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thmanyah Serif Display";
+  src: url("./fonts/thmanyahserifdisplay-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Thmanyah Serif Display";
+  src: url("./fonts/thmanyahserifdisplay-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Thmanyah Serif Display";
+  src: url("./fonts/thmanyahserifdisplay-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}

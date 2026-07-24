@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+etzan/export/.venv/
+__pycache__/
+*.py[cod]
+
+# Build output — the deploy workflow rebuilds this on every push
+etzan/web/dist/
+*.tsbuildinfo
+
+# Vite emits these next to vite.config.ts when type-checking
+etzan/web/vite.config.js
+etzan/web/vite.config.d.ts
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Local tooling, not part of the project
+.claude/
+.agents/
+skills-lock.json

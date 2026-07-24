@@ -1,0 +1,4 @@
+# The Sitemap line is appended by the deploy workflow, which is the only place
+# that knows the real origin. Do not hardcode a guessed domain here.
+User-agent: *
+Allow: /

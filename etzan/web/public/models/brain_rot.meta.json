@@ -1,0 +1,34 @@
+{
+  "kind": "classifier",
+  "feature_order": [
+    "depression",
+    "worries",
+    "concentration_difficulty",
+    "interest_fluctuation",
+    "sleep_issues",
+    "distractibility",
+    "age",
+    "gender",
+    "Student",
+    "Retired",
+    "Discord",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Reddit",
+    "Snapchat",
+    "TikTok",
+    "Twitter",
+    "YouTube",
+    "rel_Divorced",
+    "rel_In a relationship",
+    "rel_Married",
+    "rel_Single"
+  ],
+  "encoding": "direct",
+  "classes": [
+    0,
+    1
+  ],
+  "positive_index": 1
+}
