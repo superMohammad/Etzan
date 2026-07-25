@@ -1,10 +1,15 @@
 import type { BrainInputs, Platform, SleepInputs } from "./types";
 import type { ModelMeta } from "./onnx";
-import { bmiFrom } from "./compute";
+import { bmiFrom, durationHours } from "./compute";
 
 // Training-set maxima used by the notebook's engineered sleep features.
 const CAFFEINE_MAX = 400;
 const ALCOHOL_MAX = 6;
+
+// Not asked in the UI. All four sleep models were trained with this column, so
+// it still has to reach the feature vector — and the training-set median is
+// exactly 0, so pinning it here shifts nothing.
+const ALCOHOL_UNITS_BEFORE_BED = 0;
 const STRESS_MAX = 10;
 const WAKE_MAX = 8;
 const LATENCY_MAX = 58;
@@ -59,7 +64,14 @@ export function sleepRaw(inputs: SleepInputs, medians: Record<string, number>): 
   const latency = opt("sleep_latency_mins", inputs.sleep_latency_mins);
   const wake = opt("wake_episodes_per_night", inputs.wake_episodes_per_night);
   const restingHr = opt("heart_rate_resting_bpm", inputs.heart_rate_resting_bpm);
-  const sleepDurationHrs = medians.sleep_duration_hrs; // not asked; median (bedtime drives duration in #6)
+  // The user's real night, derived from the bedtime and wake-up they entered.
+  // This used to be pinned to the training median (6.36h) for everyone, on the
+  // grounds that duration was "not asked" — but it is asked, just indirectly,
+  // and it is the single most important feature of the models that read it
+  // (57% of sleep_quality's importance, and the top feature of the disorder
+  // model). Pinning it moved a third of users to the wrong quality level and a
+  // fifth to the wrong disorder class.
+  const sleepDurationHrs = durationHours(inputs.bedtime, inputs.wake_up_time);
 
   return {
     age: inputs.age,
@@ -73,7 +85,7 @@ export function sleepRaw(inputs: SleepInputs, medians: Record<string, number>): 
     sleep_latency_mins: latency,
     wake_episodes_per_night: wake,
     caffeine_mg_before_bed: inputs.caffeine_mg_before_bed,
-    alcohol_units_before_bed: inputs.alcohol_units_before_bed,
+    alcohol_units_before_bed: ALCOHOL_UNITS_BEFORE_BED,
     exercise_day: inputs.exercise_day,
     steps_that_day: inputs.steps_that_day,
     nap_duration_mins: inputs.nap_duration_mins,
@@ -93,9 +105,11 @@ export function sleepRaw(inputs: SleepInputs, medians: Record<string, number>): 
     work_stress_load: inputs.work_hours_that_day * inputs.stress_score,
     restorative_sleep_percentage: rem + deep,
     took_nap: inputs.nap_duration_mins > 0 ? 1 : 0,
+    // The alcohol term is kept, at its pinned value, so this stays visibly the
+    // same expression the notebook trained on.
     stimulant_load:
       inputs.caffeine_mg_before_bed / (CAFFEINE_MAX + 1) +
-      inputs.alcohol_units_before_bed / (ALCOHOL_MAX + 1),
+      ALCOHOL_UNITS_BEFORE_BED / (ALCOHOL_MAX + 1),
     sleep_debt: Math.abs(inputs.weekend_sleep_diff_hrs),
     disruption_score:
       inputs.stress_score / (STRESS_MAX + 1) +
@@ -124,14 +138,28 @@ export function encodeDummies(raw: RawRecord, meta: ModelMeta): number[] {
   });
 }
 
-// Build the bedtime-recommender candidate rows for the duration sweep.
-export function bedtimeCandidates(
+// The grid of candidate night lengths the recommender was exported with.
+export function sweepDurations(meta: ModelMeta): number[] {
+  const sweep = meta.duration_sweep ?? { start: 5, stop: 10.25, step: 0.25 };
+  const durations: number[] = [];
+  for (let d = sweep.start; d < sweep.stop; d += sweep.step) {
+    durations.push(Math.round(d * 100) / 100);
+  }
+  return durations;
+}
+
+// One bedtime-recommender row per requested duration, everything else held
+// fixed at the user's profile. Taking the durations as an argument rather than
+// reading the sweep internally is what lets the caller price the user's OWN
+// night on the same curve as the candidates — the two then differ by duration
+// alone, which is the only way the before/after comparison means anything.
+export function bedtimeRows(
   raw: RawRecord,
-  meta: ModelMeta
-): { durations: number[]; rows: number[][] } {
+  meta: ModelMeta,
+  durations: number[]
+): number[][] {
   const dummyColumns = meta.dummy_columns ?? [];
   const defaults = meta.defaults ?? {};
-  const sweep = meta.duration_sweep ?? { start: 5, stop: 10.25, step: 0.25 };
 
   // Encode the user's control inputs, then fill unspecified encoded features
   // from the training medians (matches the notebook's profile fill).
@@ -141,15 +169,10 @@ export function bedtimeCandidates(
     if (!Number.isNaN(encoded[i])) profile[name] = encoded[i];
   });
 
-  const durations: number[] = [];
-  for (let d = sweep.start; d < sweep.stop; d += sweep.step) {
-    durations.push(Math.round(d * 100) / 100);
-  }
   const idx = dummyColumns.indexOf("sleep_duration_hrs");
-  const rows = durations.map((d) => {
+  return durations.map((d) => {
     const row = dummyColumns.map((name) => profile[name] ?? 0);
     if (idx >= 0) row[idx] = d;
     return row;
   });
-  return { durations, rows };
 }

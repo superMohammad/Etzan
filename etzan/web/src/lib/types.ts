@@ -97,7 +97,6 @@ export interface SleepInputs {
   day_type: "Weekday" | "Weekend";
   season: "Autumn" | "Spring" | "Summer" | "Winter";
   caffeine_mg_before_bed: number;
-  alcohol_units_before_bed: number;
   screen_time_before_bed_mins: number;
   room_temperature_celsius: number;
   sleep_aid_used: number;

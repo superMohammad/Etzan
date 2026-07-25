@@ -152,6 +152,25 @@ button {
   padding: 1.6rem;
 }
 
+/* Sub-page section titles. The global h2 has no top margin, which left a heading
+   sitting flush against whatever preceded it; inside a card that is right, so
+   only the first child keeps it. */
+.section-heading {
+  font-size: 1.3rem;
+  margin: 1.6rem 0 0.9rem;
+}
+.card > .section-heading:first-child {
+  margin-top: 0;
+}
+
+/* Secondary actions that belong to the page but not to its title row. */
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 1.2rem;
+}
+
 /* Score color helpers.
    Text uses the --*-text tokens, not the pastel fills: --butter-deep on cream
    is about 1.9:1, well under the 4.5:1 minimum. The pastels stay as fills only,
@@ -313,7 +332,7 @@ input[type="range"]::-moz-range-thumb {
 }
 .level-track {
   display: flex;
-  gap: 8px;
+  gap: 10px;
   justify-content: center;
   align-items: center;
 }
@@ -326,12 +345,15 @@ input[type="range"]::-moz-range-thumb {
   font-weight: 700;
   background: var(--cream-deep);
   color: var(--cocoa-soft);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
 }
+/* Same box as an inactive slot: the earlier scale(1.18) plus a 4px outer ring
+   grew the active chip past the gap and overlapped its neighbours. The fill it
+   already carries (bg-sage/butter/blush) plus an inset ring, which cannot bleed
+   outside the box, does the same job without moving anything. */
 .level-slot-active {
   color: var(--cocoa);
-  transform: scale(1.18);
-  box-shadow: 0 0 0 4px rgba(74, 55, 40, 0.08);
+  box-shadow: inset 0 0 0 2px rgba(74, 55, 40, 0.28);
 }
 .level-name {
   margin-top: 0.9rem;
@@ -342,27 +364,6 @@ input[type="range"]::-moz-range-thumb {
 .level-caption {
   font-size: 0.85rem;
   color: var(--cocoa-soft);
-}
-
-/* Technical details -------------------------------------------------------- */
-.tech-details {
-  margin-top: 1rem;
-  border-top: 1px solid var(--cream-deep);
-  padding-top: 0.8rem;
-  text-align: start;
-}
-.tech-details > summary {
-  cursor: pointer;
-  font-size: 0.9rem;
-  color: var(--cocoa-soft);
-}
-.tech-details-body {
-  margin-top: 0.6rem;
-  font-size: 0.9rem;
-  color: var(--cocoa-soft);
-}
-.tech-details-body p {
-  margin: 0.25rem 0;
 }
 
 /* Illustrations ------------------------------------------------------------ */
@@ -404,6 +405,32 @@ input[type="range"]::-moz-range-thumb {
 @keyframes fade-in {
   to {
     opacity: 1;
+  }
+}
+
+/* Sibling result cards take their spacing from the stack rather than from an
+   ad-hoc marginBottom on each child — which is how one of them ended up at zero
+   and two cards rendered as one block. Deliberately not display:grid: recharts'
+   ResponsiveContainer will not shrink inside a grid item, and both tracker
+   charts live in here. */
+.results-stack {
+  margin-top: 1.5rem;
+}
+.results-stack > * + * {
+  margin-top: 1.2rem;
+}
+
+/* Lands the eye on the results after a save scrolls them into view. */
+.results-flash {
+  border-radius: var(--radius);
+  animation: results-flash 1.1s ease-out;
+}
+@keyframes results-flash {
+  from {
+    background: var(--butter-soft);
+  }
+  to {
+    background: transparent;
   }
 }
 
@@ -528,27 +555,6 @@ input[type="range"]::-moz-range-thumb {
 }
 .prose li {
   margin-bottom: 0.5rem;
-}
-/* Wide content scrolls inside its own box; the page body never scrolls sideways. */
-.table-scroll {
-  overflow-x: auto;
-  margin-bottom: 1rem;
-}
-.data-table {
-  width: 100%;
-  border-collapse: collapse;
-  min-width: 380px;
-}
-.data-table th,
-.data-table td {
-  text-align: start;
-  padding: 0.6rem 0.7rem;
-  border-bottom: 1px solid var(--cream-deep);
-}
-.data-table th {
-  font-weight: 700;
-  color: var(--cocoa-soft);
-  font-size: 0.9rem;
 }
 .level-legend {
   list-style: none;

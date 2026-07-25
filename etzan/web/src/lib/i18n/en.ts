@@ -30,7 +30,6 @@ export const en: Record<MessageKey, string> = {
   "common.no": "No",
   "common.error": "Something went wrong: {message}",
   "common.recommendations": "What to do next",
-  "common.technicalDetails": "Technical details",
   "common.progressOf": "{have} of {need}",
   "common.loadingModel": "Loading the model into your browser…",
 
@@ -82,7 +81,7 @@ export const en: Record<MessageKey, string> = {
   "landing.dashboard.title": "Daily tracker",
   "landing.dashboard.body": "Log a day in under a minute and watch where your balance is heading.",
   "landing.privacyNote":
-    "Six machine-learning models run inside your browser via ONNX. Your answers are never sent anywhere.",
+    "Everything runs in your browser — your answers are never sent anywhere.",
 
   // --- Brain check --------------------------------------------------------- //
   "brain.pageTitle": "Brain-rot check",
@@ -153,6 +152,10 @@ export const en: Record<MessageKey, string> = {
   "brain.contributors.answer": "{value} of {max}",
 
   "brain.mh.title": "Separate signal: psychological impact",
+  // What the score is measured AGAINST. The brain targets are a median split of
+  // the survey sample, so the number is a rank inside that group, not a threshold.
+  "brain.relativeNote":
+    "This result compares you with the 481 people who answered our questionnaire — it is not a clinical threshold. By the way the scale is built, half of any group lands on the higher side.",
   "brain.mh.explain":
     "This is a second, independent model reading your mood and anxiety answers. It can disagree with the result above — that's expected, they measure different things.",
   "brain.mh.note.1": "The psychological signal found no effect tied to your usage pattern.",
@@ -161,10 +164,6 @@ export const en: Record<MessageKey, string> = {
   "brain.mh.note.4": "The psychological signal points to a possible effect worth attention.",
   "brain.mh.note.5": "The psychological signal is high. If the feeling lasts more than two weeks, talking to a professional is a reasonable step.",
 
-  "brain.tech.brainProb": "Brain-rot model probability: {value}",
-  "brain.tech.mhProb": "Psychological-impact model probability: {value}",
-  "brain.tech.threshold": "Decision threshold for both models: {value}",
-  "brain.tech.note": "The probability is the model's raw output; the level above is derived from it after rounding to display precision.",
   "brain.a11y.illustration": "Brain illustration coloured for level {level} — {name}",
 
   // --- Sleep check --------------------------------------------------------- //
@@ -198,7 +197,6 @@ export const en: Record<MessageKey, string> = {
   "sleep.field.season": "Which season is it?",
   "sleep.field.caffeine": "How much caffeine before bed? (mg)",
   "sleep.field.caffeineHint": "A coffee ≈ 95 mg · a tea ≈ 40 mg · range {range}",
-  "sleep.field.alcohol": "Alcohol units before bed",
   "sleep.field.screenBeforeBed": "How many minutes on a screen right before bed?",
   "sleep.field.roomTemp": "Room temperature (°C)",
   "sleep.field.roomTempHint": "The optimal range for deep sleep is {range} °C",
@@ -226,7 +224,6 @@ export const en: Record<MessageKey, string> = {
   "sleep.season.autumn": "Autumn",
   "sleep.season.winter": "Winter",
 
-  "sleep.wearable.legend": "Smartwatch measurements",
   "sleep.wearable.intro":
     "Leave these blank if you don't have them — we'll substitute the median from the training data.",
   "sleep.field.rem": "REM sleep (%)",
@@ -237,13 +234,14 @@ export const en: Record<MessageKey, string> = {
   "sleep.field.heartRate": "Resting heart rate",
   "sleep.field.heartRateHint": "Beats per minute · {range}",
 
-  "sleep.result.schedule": "Sleep {hours} hours, from {bedtime} to {wakeUp}.",
+  "sleep.result.scheduleAction": "Go to bed at {bedtime} and wake at {wakeUp}.",
+  "sleep.result.scheduleDuration": "That is {duration} of sleep.",
   "sleep.result.compareTitle": "Sleep quality: where you are now vs. the suggested schedule",
   "sleep.result.compareIntro":
     "Both figures come from the same model on two different schedules — read them as a before/after, not as two separate results.",
   "sleep.result.current": "Where you are now",
   "sleep.result.recommended": "On the suggested schedule",
-  "sleep.result.currentDetail": "You sleep {hours} hours starting at {bedtime}",
+  "sleep.result.currentDetail": "You sleep {duration}, starting at {bedtime}",
   "sleep.gain.one": "One level better than your current schedule.",
   "sleep.gain.two": "Two levels better than your current schedule.",
   "sleep.gain.many": "{count} levels better than your current schedule.",
@@ -260,17 +258,16 @@ export const en: Record<MessageKey, string> = {
   "sleep.curve.xAxis": "Sleep duration (hours)",
   "sleep.curve.tooltipLevel": "Level",
   "sleep.curve.tooltipHours": "{hours} hours",
-  "sleep.tech.current": "Sleep quality on your current schedule: {value} of {max}",
-  "sleep.tech.recommended": "Predicted quality at the suggested bedtime: {value} of {max}",
-  "sleep.tech.delta": "Difference: {value} points",
-  "sleep.a11y.illustration": "Illustration of a night from {bedtime} to {wakeUp} lasting {hours} hours, coloured for level {level} — {name}",
+  "sleep.a11y.illustration": "Illustration of a night from {bedtime} to {wakeUp} lasting {duration}, coloured for level {level} — {name}",
 
   // --- Dashboard ----------------------------------------------------------- //
   "dash.pageTitle": "Daily tracker",
   "dash.intro":
     "Log a day in under a minute and watch where your balance is heading. Your data is stored in this browser only and never sent to a server — take a backup before you clear browser data, or it's gone.",
-  "dash.backup": "Save a backup",
-  "dash.restore": "Restore data",
+  // "Load a file" rather than "Restore": importJson MERGES the chosen file into
+  // the existing entries, it does not replace them.
+  "dash.backup": "Save a copy",
+  "dash.restore": "Load a file",
   "dash.horizon": "Last {days}",
   "dash.summaryTitle": "Today at a glance",
   "dash.balanceTitle": "Your balance today",
@@ -331,27 +328,9 @@ export const en: Record<MessageKey, string> = {
   "about.dataQuestionnaire":
     "A digital-habits questionnaire: age, occupation and platforms used, plus 1-to-5 items on compulsive use, mood and concentration.",
   "about.dataSleep":
-    "A sleep-health dataset of roughly 100,000 nights: bedtimes and wake times, caffeine, alcohol and screen time before bed, room temperature, stress and step counts, plus wearable measures such as REM and deep-sleep percentage.",
+    "A sleep-health dataset of roughly 100,000 nights: bedtimes and wake times, caffeine and screen time before bed, room temperature, stress and step counts, plus wearable measures such as REM and deep-sleep percentage.",
   "about.dataNote":
     "Both datasets are cross-sectional and largely self-reported. They reveal correlations, not causes: a high score does not mean screens caused the state.",
-
-  "about.modelsTitle": "The models running in your browser",
-  "about.modelsIntro":
-    "Each model is exported to ONNX and executed by onnxruntime-web. These figures are measured on a held-out test set (20% of the data):",
-  "about.model.brainRot": "Brain rot",
-  "about.model.mentalHealth": "Psychological impact",
-  "about.model.sleepQuality": "Sleep quality",
-  "about.model.disorder": "Sleep disorder",
-  "about.model.feltRested": "Waking rested",
-  "about.model.bedtime": "Suggested bedtime",
-  "about.table.model": "Model",
-  "about.table.algo": "Algorithm",
-  "about.table.metric": "Performance",
-  "about.metric.auc": "AUC {value}",
-  "about.metric.acc": "accuracy {value}",
-  "about.metric.r2": "R² {value}",
-  "about.modelsCaveat":
-    "The sleep-disorder model reached 0.95 accuracy with HistGradientBoosting, but that algorithm does not convert to ONNX, so a Random Forest at 0.865 ships instead. That is a deliberate trade: lower accuracy in exchange for running entirely in the browser with no server.",
 
   "about.levelsTitle": "How to read the five levels",
   "about.levelsIntro":
@@ -439,6 +418,20 @@ export const en: Record<MessageKey, string> = {
   "contrib.daily_time": "Daily hours on social apps",
 
   // --- Day counts (plural forms are selected in format.ts) ------------------- //
+  "hours.zero": "0 hours",
+  "hours.one": "1 hour",
+  "hours.two": "2 hours",
+  "hours.few": "{count} hours",
+  "hours.many": "{count} hours",
+  "hours.other": "{count} hours",
+  "minutes.zero": "0 minutes",
+  "minutes.one": "1 minute",
+  "minutes.two": "2 minutes",
+  "minutes.few": "{count} minutes",
+  "minutes.many": "{count} minutes",
+  "minutes.other": "{count} minutes",
+  "duration.hoursAndMinutes": "{hours} {minutes}",
+
   "days.zero": "0 days",
   "days.one": "1 day",
   "days.two": "2 days",
@@ -453,7 +446,7 @@ export const en: Record<MessageKey, string> = {
   "daysLogged.other": "{count} days logged",
 
   // --- Errors ---------------------------------------------------------------- //
-  "error.invalidBackup": "That file isn't valid — choose a backup file exported from Etzan.",
+  "error.invalidBackup": "That file isn't valid — choose a file you saved from Etzan.",
 
   // --- Page metadata --------------------------------------------------------- //
   "meta.home.title": "Etzan — Your digital balance",

@@ -1,10 +1,11 @@
-import { getMeta, predictProba, predictValue, predictValues } from "./onnx";
+import { getMeta, predictProba, predictValues } from "./onnx";
 import {
-  bedtimeCandidates,
+  bedtimeRows,
   brainRecord,
   encodeDummies,
   orderDirect,
   sleepRaw,
+  sweepDurations,
 } from "./features";
 import {
   brainContributors,
@@ -71,14 +72,12 @@ export async function runSleepCheck(inputs: SleepInputs): Promise<SleepResult> {
   const medians = await sleepMedians();
   const raw = sleepRaw(inputs, medians);
 
-  const [qMeta, dMeta, rMeta, bMeta] = await Promise.all([
-    getMeta("sleep_quality"),
+  const [dMeta, rMeta, bMeta] = await Promise.all([
     getMeta("sleep_disorder_risk"),
     getMeta("felt_rested"),
     getMeta("bedtime_recommender"),
   ]);
 
-  const quality = await predictValue("sleep_quality", encodeDummies(raw, qMeta));
   const disorderRow = await predictProba("sleep_disorder_risk", encodeDummies(raw, dMeta));
   const restedRow = await predictProba("felt_rested", encodeDummies(raw, rMeta));
 
@@ -86,9 +85,21 @@ export async function runSleepCheck(inputs: SleepInputs): Promise<SleepResult> {
   const disorderClass = classes[disorderRow.indexOf(Math.max(...disorderRow))] ?? "Healthy";
   const restedProb = restedRow[1] ?? restedRow[0];
 
-  // Bedtime sweep: batch-predict quality across candidate durations.
-  const { durations, rows } = bedtimeCandidates(raw, bMeta);
-  const sweepQuality = await predictValues("bedtime_recommender", rows);
+  // Bedtime sweep, plus the user's own night appended as one more candidate.
+  //
+  // Both sides of the before/after comparison come from THIS model, at two
+  // durations, with every other feature identical — so the difference between
+  // them is the schedule change and nothing else. Reading "current" off the
+  // separate sleep_quality model instead made the two numbers differ by model,
+  // feature set and schedule at once, which is not a comparison.
+  const currentHours = durationHours(inputs.bedtime, inputs.wake_up_time);
+  const durations = sweepDurations(bMeta);
+  const rows = bedtimeRows(raw, bMeta, [...durations, currentHours]);
+  const predicted = await predictValues("bedtime_recommender", rows);
+
+  const sweepQuality = predicted.slice(0, durations.length);
+  const quality = predicted[predicted.length - 1];
+
   let bestIdx = 0;
   for (let i = 1; i < sweepQuality.length; i++) {
     if (sweepQuality[i] > sweepQuality[bestIdx]) bestIdx = i;
@@ -126,7 +137,7 @@ export async function runSleepCheck(inputs: SleepInputs): Promise<SleepResult> {
     bedtime,
     wakeUp: inputs.wake_up_time,
     recommendedHours: bestHours,
-    currentHours: durationHours(inputs.bedtime, inputs.wake_up_time),
+    currentHours,
     sweep,
     recommendations: sleepRecommendations(inputs),
   };

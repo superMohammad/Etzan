@@ -4,7 +4,7 @@ import {
 } from "recharts";
 import { runSleepCheck } from "../lib/predict";
 import { bmiFrom, durationHours } from "../lib/compute";
-import { formatNumber, formatPercent, formatRange } from "../lib/format";
+import { formatDuration, formatDurationShort, formatNumber, formatPercent, formatRange } from "../lib/format";
 import { LEVEL_KEY, levelPositionFromQuality10, toLevel } from "../lib/scoring";
 import { useLanguage } from "../lib/i18n";
 import type { MessageKey } from "../lib/i18n";
@@ -13,13 +13,11 @@ import type { SleepInputs, SleepResult } from "../lib/types";
 import SleepIllustration from "../components/SleepIllustration";
 import {
   ErrorNote,
-  FieldGroup,
   LevelScale,
   MetricCard,
   Num,
   ProgressBar,
   RecommendationList,
-  TechnicalDetails,
 } from "../components/ui";
 
 const OCCUPATIONS = ["Student", "Teacher", "Software Engineer", "Doctor", "Nurse", "Manager", "Sales", "Driver", "Freelancer", "Homemaker", "Retired", "Lawyer"];
@@ -27,7 +25,6 @@ const COUNTRIES = ["Saudi Arabia", "USA", "UK", "Germany", "France", "Japan", "I
 
 const STRESS_MIN = 1;
 const STRESS_MAX = 10;
-const QUALITY_MAX = 10;
 const NEGLIGIBLE_DELTA = 0.05; // /10 points below which the change is noise
 
 const INITIAL: SleepInputs = {
@@ -36,7 +33,7 @@ const INITIAL: SleepInputs = {
   height_cm: 170, weight_kg: 70,
   stress_score: 5, work_hours_that_day: 8, exercise_day: 0, steps_that_day: 6000,
   nap_duration_mins: 0, shift_work: 0, day_type: "Weekday", season: "Summer",
-  caffeine_mg_before_bed: 40, alcohol_units_before_bed: 0, screen_time_before_bed_mins: 45,
+  caffeine_mg_before_bed: 40, screen_time_before_bed_mins: 45,
   room_temperature_celsius: 23, sleep_aid_used: 0,
   bedtime: "00:30", wake_up_time: "07:00", weekend_sleep_diff_hrs: 1,
   rem_percentage: null, deep_sleep_percentage: null, sleep_latency_mins: null,
@@ -170,9 +167,6 @@ export default function SleepCheck(): JSX.Element {
             <div className="field"><label>{t("sleep.field.caffeine")}</label>
               <input type="number" min={0} max={600} step={10} value={form.caffeine_mg_before_bed} onChange={(e) => set("caffeine_mg_before_bed", Number(e.target.value))} />
               <span className="hint"><Num>{t("sleep.field.caffeineHint", { range: range(0, 600) })}</Num></span></div>
-            <div className="field"><label>{t("sleep.field.alcohol")}</label>
-              <input type="number" min={0} max={10} value={form.alcohol_units_before_bed} onChange={(e) => set("alcohol_units_before_bed", Number(e.target.value))} />
-              <span className="hint"><Num>{range(0, 10)}</Num></span></div>
             <div className="field"><label>{t("sleep.field.screenBeforeBed")}</label>
               <input type="number" min={0} max={300} step={5} value={form.screen_time_before_bed_mins} onChange={(e) => set("screen_time_before_bed_mins", Number(e.target.value))} />
               <span className="hint"><Num>{range(0, 300)}</Num></span></div>
@@ -198,8 +192,11 @@ export default function SleepCheck(): JSX.Element {
     },
     {
       titleKey: "sleep.step.wearable",
+      // No fieldset here. Every step is already a titled card, and this one's
+      // legend only restated the card title — two frames and two near-identical
+      // headings around a single group of fields.
       node: (
-        <FieldGroup legend={t("sleep.wearable.legend")}>
+        <>
           <p style={{ color: "var(--cocoa-soft)", marginTop: 0 }}>{t("sleep.wearable.intro")}</p>
           <div className="grid grid-2">
             <div className="field"><label>{t("sleep.field.rem")}</label>
@@ -218,7 +215,7 @@ export default function SleepCheck(): JSX.Element {
               <input type="number" min={35} max={130} value={form.heart_rate_resting_bpm ?? ""} onChange={(e) => set("heart_rate_resting_bpm", num(e.target.value))} />
               <span className="hint"><Num>{t("sleep.field.heartRateHint", { range: range(35, 130) })}</Num></span></div>
           </div>
-        </FieldGroup>
+        </>
       ),
     },
   ];
@@ -258,21 +255,30 @@ export default function SleepCheck(): JSX.Element {
             level={result.recommendedLevel}
             bedtime={result.bedtime}
             wakeUp={result.wakeUp}
-            hours={formatNumber(lang, result.recommendedHours, 1)}
+            hours={formatDurationShort(result.recommendedHours)}
             label={t("sleep.a11y.illustration", {
               bedtime: result.bedtime,
               wakeUp: result.wakeUp,
-              hours: formatNumber(lang, result.recommendedHours, 1),
+              duration: formatDuration(lang, t, result.recommendedHours),
               level: result.recommendedLevel,
               name: t(LEVEL_KEY[result.recommendedLevel]),
             })}
           />
-          <p style={{ margin: "0.6rem 0 0", color: "var(--cocoa-soft)" }}>
+          {/* The action first — the bedtime is the thing the reader actually
+              does. The duration follows as detail, in whole hours and minutes:
+              the sweep steps by 15 minutes, so a decimal read "8.8 hours". */}
+          <p style={{ margin: "0.8rem 0 0", fontSize: "1.15rem", fontWeight: 700 }}>
             <Num>
-              {t("sleep.result.schedule", {
-                hours: formatNumber(lang, result.recommendedHours, 1),
+              {t("sleep.result.scheduleAction", {
                 bedtime: result.bedtime,
                 wakeUp: result.wakeUp,
+              })}
+            </Num>
+          </p>
+          <p style={{ margin: "0.3rem 0 0", color: "var(--cocoa-soft)" }}>
+            <Num>
+              {t("sleep.result.scheduleDuration", {
+                duration: formatDuration(lang, t, result.recommendedHours),
               })}
             </Num>
           </p>
@@ -282,7 +288,7 @@ export default function SleepCheck(): JSX.Element {
             different schedules — presented as one comparison, never as two
             standalone quality figures. */}
         <div className="card" style={{ marginTop: "1.2rem" }}>
-          <h2 style={{ fontSize: "1.3rem" }}>{t("sleep.result.compareTitle")}</h2>
+          <h2 className="section-heading">{t("sleep.result.compareTitle")}</h2>
           <p style={{ marginTop: 0, color: "var(--cocoa-soft)" }}>{t("sleep.result.compareIntro")}</p>
           <div className="grid grid-2">
             <div style={{ textAlign: "center" }}>
@@ -291,7 +297,7 @@ export default function SleepCheck(): JSX.Element {
               <p style={{ color: "var(--cocoa-soft)", marginBottom: 0 }}>
                 <Num>
                   {t("sleep.result.currentDetail", {
-                    hours: formatNumber(lang, result.currentHours, 1),
+                    duration: formatDuration(lang, t, result.currentHours),
                     bedtime: form.bedtime,
                   })}
                 </Num>
@@ -325,14 +331,22 @@ export default function SleepCheck(): JSX.Element {
         </div>
 
         <div className="card" style={{ marginTop: "1.2rem" }}>
-          <h2 style={{ fontSize: "1.3rem" }}>{t("sleep.curve.title")}</h2>
+          <h2 className="section-heading">{t("sleep.curve.title")}</h2>
           <p style={{ marginTop: 0, color: "var(--cocoa-soft)" }}>{t("sleep.curve.intro")}</p>
           <div style={{ direction: "ltr", width: "100%", height: 260 }}>
             <ResponsiveContainer>
               <LineChart data={curve} margin={{ top: 10, right: 20, bottom: 24, left: 4 }}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
+                {/* The sweep steps by 0.25h, and a category axis labels every
+                    one of its 21 points — 5, 5.25, 5.5 … collided on narrow
+                    screens. A numeric axis keeps all the points in the curve
+                    and labels only the whole hours. */}
                 <XAxis
                   dataKey="hours"
+                  type="number"
+                  domain={[5, 10]}
+                  ticks={[5, 6, 7, 8, 9, 10]}
+                  allowDecimals={false}
                   tick={{ fontSize: 12 }}
                   label={{ value: t("sleep.curve.xAxis"), position: "insideBottom", offset: -14, fontSize: 12 }}
                 />
@@ -355,16 +369,8 @@ export default function SleepCheck(): JSX.Element {
           </div>
         </div>
 
-        <h2 style={{ marginTop: "1.5rem", fontSize: "1.3rem" }}>{t("common.recommendations")}</h2>
+        <h2 className="section-heading">{t("common.recommendations")}</h2>
         <RecommendationList items={result.recommendations} />
-
-        <div className="card" style={{ marginTop: "1.2rem" }}>
-          <TechnicalDetails>
-            <p><Num>{t("sleep.tech.current", { value: formatNumber(lang, result.sleepQuality, 2), max: formatNumber(lang, QUALITY_MAX, 0) })}</Num></p>
-            <p><Num>{t("sleep.tech.recommended", { value: formatNumber(lang, result.predictedQualityAtBedtime, 2), max: formatNumber(lang, QUALITY_MAX, 0) })}</Num></p>
-            <p><Num>{t("sleep.tech.delta", { value: formatNumber(lang, result.qualityDelta, 2) })}</Num></p>
-          </TechnicalDetails>
-        </div>
 
         <button className="btn btn-ghost" style={{ marginTop: "1.5rem" }} onClick={restart}>
           {t("common.restart")}
@@ -389,7 +395,7 @@ export default function SleepCheck(): JSX.Element {
           </Num>
         </div>
       </div>
-      <div className="card"><h2 style={{ fontSize: "1.3rem" }}>{t(steps[step].titleKey)}</h2>{steps[step].node}</div>
+      <div className="card"><h2 className="section-heading">{t(steps[step].titleKey)}</h2>{steps[step].node}</div>
       {error && <div style={{ marginTop: "1rem" }}><ErrorNote message={error} /></div>}
       <div style={{ display: "flex", justifyContent: "space-between", marginTop: "1.5rem" }}>
         <button className="btn btn-ghost" disabled={step === 0} onClick={() => setStep((s) => s - 1)}>

@@ -164,18 +164,6 @@ export function FieldGroup({ legend, children }: { legend: string; children: Rea
   );
 }
 
-// Raw model output (probabilities, thresholds, /10 scores) lives here rather
-// than in the result card, where it competed with the verdict.
-export function TechnicalDetails({ children }: { children: ReactNode }): JSX.Element {
-  const { t } = useLanguage();
-  return (
-    <details className="tech-details">
-      <summary>{t("common.technicalDetails")}</summary>
-      <div className="tech-details-body">{children}</div>
-    </details>
-  );
-}
-
 export function RecommendationList({ items }: { items: Recommendation[] }): JSX.Element {
   const { t } = useLanguage();
   return (

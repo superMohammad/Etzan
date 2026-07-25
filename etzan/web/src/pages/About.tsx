@@ -9,25 +9,8 @@ import { Num } from "../components/ui";
 
 const TEAM = ["محمد المالكي", "عبدالرحمن القرشي", "غدي ال دعبش", "ليان الشدوخي"];
 
-// Measured on the held-out test set by etzan/export/export_onnx.py. Every
-// estimator there is seeded with RANDOM_STATE, so these are reproducible rather
-// than approximate — and they are the SHIPPED numbers, not the notebook
-// baselines, which come from a different pipeline.
-const MODELS: {
-  nameKey: MessageKey;
-  algorithm: string;
-  metricKey: MessageKey;
-  value: number;
-  decimals: number;
-}[] = [
-  { nameKey: "about.model.brainRot", algorithm: "Logistic Regression", metricKey: "about.metric.auc", value: 0.856, decimals: 3 },
-  { nameKey: "about.model.mentalHealth", algorithm: "Gradient Boosting", metricKey: "about.metric.auc", value: 0.811, decimals: 3 },
-  { nameKey: "about.model.sleepQuality", algorithm: "Random Forest", metricKey: "about.metric.r2", value: 0.819, decimals: 3 },
-  { nameKey: "about.model.disorder", algorithm: "Random Forest", metricKey: "about.metric.acc", value: 0.865, decimals: 3 },
-  { nameKey: "about.model.feltRested", algorithm: "Logistic Regression", metricKey: "about.metric.auc", value: 0.809, decimals: 3 },
-  { nameKey: "about.model.bedtime", algorithm: "Random Forest", metricKey: "about.metric.r2", value: 0.756, decimals: 3 },
-];
-
+// Model names, algorithms and held-out scores are documented in the README, not
+// here: they are build provenance, and on the page they read as jargon.
 const LEVEL_EXPLAINERS: { level: Level; key: MessageKey }[] = [
   { level: 1, key: "about.levels.1" },
   { level: 2, key: "about.levels.2" },
@@ -59,35 +42,8 @@ export default function About(): JSX.Element {
           <li>{t("about.dataQuestionnaire")}</li>
           <li>{t("about.dataSleep")}</li>
         </ul>
-        <p style={{ marginBottom: 0 }}>{t("about.dataNote")}</p>
-      </section>
-
-      <section className="card" style={{ marginTop: "1.2rem" }}>
-        <h2>{t("about.modelsTitle")}</h2>
-        <p>{t("about.modelsIntro")}</p>
-        <div className="table-scroll">
-          <table className="data-table">
-            <thead>
-              <tr>
-                <th scope="col">{t("about.table.model")}</th>
-                <th scope="col">{t("about.table.algo")}</th>
-                <th scope="col">{t("about.table.metric")}</th>
-              </tr>
-            </thead>
-            <tbody>
-              {MODELS.map((model) => (
-                <tr key={model.nameKey}>
-                  <td>{t(model.nameKey)}</td>
-                  <td><bdi className="num">{model.algorithm}</bdi></td>
-                  <td>
-                    <Num>{t(model.metricKey, { value: formatNumber(lang, model.value, model.decimals) })}</Num>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        <p style={{ marginBottom: 0 }}>{t("about.modelsCaveat")}</p>
+        <p>{t("about.dataNote")}</p>
+        <p style={{ marginBottom: 0 }}>{t("brain.relativeNote")}</p>
       </section>
 
       <section className="card" style={{ marginTop: "1.2rem" }}>

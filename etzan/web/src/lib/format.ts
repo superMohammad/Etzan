@@ -62,7 +62,11 @@ function parseIso(isoDate: string): Date {
 // "{n} يوم" is wrong for most values. Intl.PluralRules picks the category and
 // the catalogue supplies the matching wording; English collapses to one/other
 // but goes through the same path rather than special-casing at each call site.
-function pluralKey(prefix: "days" | "daysLogged", lang: Language, count: number): MessageKey {
+function pluralKey(
+  prefix: "days" | "daysLogged" | "hours" | "minutes",
+  lang: Language,
+  count: number
+): MessageKey {
   return `${prefix}.${pluralRules[lang].select(count)}` as MessageKey;
 }
 
@@ -74,6 +78,32 @@ export function formatDays(lang: Language, t: Translate, count: number): string 
 // "يومان مسجّلان" / "2 days logged"
 export function formatDaysLogged(lang: Language, t: Translate, count: number): string {
   return t(pluralKey("daysLogged", lang, count), { count: formatNumber(lang, count, 0) });
+}
+
+// The bedtime sweep steps in quarter hours, so a decimal rendering turned 8.75
+// into "8.8 hours" — a duration nobody can act on. Split it into whole units.
+function splitDuration(decimalHours: number): { hours: number; minutes: number } {
+  const total = Math.round(decimalHours * 60);
+  return { hours: Math.floor(total / 60), minutes: total % 60 };
+}
+
+// "8 ساعات و45 دقيقة" / "8 hours 45 minutes". Falls back to the hours alone on
+// an exact hour rather than printing "8 hours 0 minutes".
+export function formatDuration(lang: Language, t: Translate, decimalHours: number): string {
+  const { hours, minutes } = splitDuration(decimalHours);
+  const hoursText = t(pluralKey("hours", lang, hours), { count: formatNumber(lang, hours, 0) });
+  if (minutes === 0) return hoursText;
+  const minutesText = t(pluralKey("minutes", lang, minutes), { count: formatNumber(lang, minutes, 0) });
+  return t("duration.hoursAndMinutes", { hours: hoursText, minutes: minutesText });
+}
+
+// Compact, Latin-only form for the illustration's arc label. That string shares
+// an LTR SVG run with the two clock times and has about 240px to fit, so it
+// stays free of Arabic letters that would need their own bidi handling; the
+// full natural-language duration is stated in the sentence directly below it.
+export function formatDurationShort(decimalHours: number): string {
+  const { hours, minutes } = splitDuration(decimalHours);
+  return minutes === 0 ? `${hours}h` : `${hours}h ${minutes}m`;
 }
 
 // An inclusive numeric range for a field label, e.g. "1–10". Render inside <bdi>.

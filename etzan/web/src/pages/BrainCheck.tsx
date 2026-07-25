@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Minus, TrendingDown, TrendingUp } from "lucide-react";
 import { runBrainCheck } from "../lib/predict";
 import { DAILY_TIME_KEYS, REGION_KEY } from "../lib/recommendations";
-import { formatNumber, formatPercent, formatRange } from "../lib/format";
+import { formatNumber, formatRange } from "../lib/format";
 import { useLanguage } from "../lib/i18n";
 import type { MessageKey } from "../lib/i18n";
 import { usePageMeta } from "../lib/usePageMeta";
@@ -18,7 +18,6 @@ import {
   Num,
   ProgressBar,
   RecommendationList,
-  TechnicalDetails,
 } from "../components/ui";
 
 const PLATFORMS: Platform[] = [
@@ -28,7 +27,6 @@ const PLATFORMS: Platform[] = [
 
 const LIKERT_MIN = 1;
 const LIKERT_MAX = 5;
-const DECISION_THRESHOLD = 0.5;
 
 const BRAIN_NOTE: Record<Level, MessageKey> = {
   1: "brain.note.1", 2: "brain.note.2", 3: "brain.note.3", 4: "brain.note.4", 5: "brain.note.5",
@@ -263,10 +261,13 @@ export default function BrainCheck(): JSX.Element {
             <LevelScale level={result.level} />
           </div>
           <p style={{ margin: "1rem 0 0", color: "var(--cocoa-soft)" }}>{t(BRAIN_NOTE[result.level])}</p>
+          <p style={{ margin: "0.8rem 0 0", color: "var(--cocoa-soft)", fontSize: "0.88rem" }}>
+            {t("brain.relativeNote")}
+          </p>
         </div>
 
         <div className="card" style={{ marginTop: "1.2rem" }}>
-          <h2 style={{ fontSize: "1.3rem" }}>
+          <h2 className="section-heading">
             {raising ? t("brain.contributors.raising") : t("brain.contributors.neutral")}
           </h2>
           <p style={{ marginTop: 0, color: "var(--cocoa-soft)" }}>
@@ -288,17 +289,8 @@ export default function BrainCheck(): JSX.Element {
           </p>
         </div>
 
-        <h2 style={{ marginTop: "1.5rem", fontSize: "1.3rem" }}>{t("common.recommendations")}</h2>
+        <h2 className="section-heading">{t("common.recommendations")}</h2>
         <RecommendationList items={result.recommendations} />
-
-        <div className="card" style={{ marginTop: "1.2rem" }}>
-          <TechnicalDetails>
-            <p>{t("brain.tech.brainProb", { value: formatPercent(lang, result.brainRotProbability) })}</p>
-            <p>{t("brain.tech.mhProb", { value: formatPercent(lang, result.mentalHealthProbability) })}</p>
-            <p>{t("brain.tech.threshold", { value: formatPercent(lang, DECISION_THRESHOLD) })}</p>
-            <p>{t("brain.tech.note")}</p>
-          </TechnicalDetails>
-        </div>
 
         <button className="btn btn-ghost" style={{ marginTop: "1.5rem" }} onClick={restart}>
           {t("common.restart")}
@@ -324,7 +316,7 @@ export default function BrainCheck(): JSX.Element {
         </div>
       </div>
       <div className="card" style={{ minHeight: 180 }}>
-        <h2 style={{ fontSize: "1.3rem" }}>{t(steps[step].titleKey)}</h2>
+        <h2 className="section-heading">{t(steps[step].titleKey)}</h2>
         {steps[step].node}
       </div>
       {error && <div style={{ marginTop: "1rem" }}><ErrorNote message={error} /></div>}

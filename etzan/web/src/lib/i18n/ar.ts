@@ -33,7 +33,6 @@ export const ar = {
   "common.no": "لا",
   "common.error": "حدث خطأ: {message}",
   "common.recommendations": "توصياتنا لك",
-  "common.technicalDetails": "تفاصيل تقنية",
   "common.progressOf": "{have} من {need}",
   "common.loadingModel": "جارٍ تحميل النموذج داخل متصفحك…",
 
@@ -85,7 +84,7 @@ export const ar = {
   "landing.dashboard.title": "لوحة المتابعة",
   "landing.dashboard.body": "سجّل يومك في أقل من دقيقة، وتابع إلى أين يتجه اتزانك عبر الأيام.",
   "landing.privacyNote":
-    "ستة نماذج تعلّم آلي تعمل داخل متصفحك عبر ONNX. لا نرسل إجاباتك إلى أي مكان.",
+    "كل شيء يعمل داخل متصفحك — لا نرسل إجاباتك إلى أي مكان.",
 
   // --- Brain check --------------------------------------------------------- //
   "brain.pageTitle": "فحص التعفن الدماغي",
@@ -156,6 +155,10 @@ export const ar = {
   "brain.contributors.answer": "{value} من {max}",
 
   "brain.mh.title": "مؤشّر منفصل: الأثر النفسي",
+  // ما الذي تُقاس عليه النتيجة: هدف النموذج مبني على تقسيم عيّنة الاستبيان عند
+  // الوسيط، فالنتيجة ترتيب داخل تلك المجموعة لا عتبة مطلقة.
+  "brain.relativeNote":
+    "هذه النتيجة تقارنك بـ481 شخصًا أجابوا على استبياننا، وليست عتبة طبية. وبحكم طريقة بناء المقياس، نصف أي مجموعة سيقع في النصف الأعلى.",
   "brain.mh.explain":
     "هذا نموذج ثانٍ مستقل يقرأ إجاباتك عن المزاج والقلق. قد يختلف عن نتيجتك أعلاه، وهذا طبيعي — كلٌّ منهما يقيس شيئًا مختلفًا.",
   "brain.mh.note.1": "لم يرصد المؤشّر النفسي أثرًا مرتبطًا بنمط استخدامك.",
@@ -164,10 +167,6 @@ export const ar = {
   "brain.mh.note.4": "المؤشّر النفسي يشير إلى أثر محتمل يستحق الانتباه.",
   "brain.mh.note.5": "المؤشّر النفسي مرتفع. إن استمرّ الشعور أكثر من أسبوعين، فالحديث مع مختص خطوة معقولة.",
 
-  "brain.tech.brainProb": "احتمال نموذج التعفن الدماغي: {value}",
-  "brain.tech.mhProb": "احتمال نموذج الأثر النفسي: {value}",
-  "brain.tech.threshold": "عتبة القرار في النموذجين: {value}",
-  "brain.tech.note": "الاحتمال مخرَج النموذج الخام؛ المستوى أعلاه مشتقّ منه بعد التقريب إلى دقة العرض.",
   "brain.a11y.illustration": "رسم توضيحي للدماغ بلون المستوى {level} — {name}",
 
   // --- Sleep check --------------------------------------------------------- //
@@ -201,7 +200,6 @@ export const ar = {
   "sleep.field.season": "ما الفصل الحالي؟",
   "sleep.field.caffeine": "كم كافيين تناولت قبل النوم؟ (ملغ)",
   "sleep.field.caffeineHint": "فنجان قهوة ≈ 95 ملغ · كوب شاي ≈ 40 ملغ · المدى {range}",
-  "sleep.field.alcohol": "وحدات الكحول قبل النوم",
   "sleep.field.screenBeforeBed": "كم دقيقة أمضيت أمام شاشة قبل النوم مباشرة؟",
   "sleep.field.roomTemp": "درجة حرارة غرفتك (مئوية)",
   "sleep.field.roomTempHint": "المدى الأمثل للنوم العميق {range} مئوية",
@@ -229,7 +227,6 @@ export const ar = {
   "sleep.season.autumn": "الخريف",
   "sleep.season.winter": "الشتاء",
 
-  "sleep.wearable.legend": "قياسات من ساعة ذكية",
   "sleep.wearable.intro":
     "اتركها فارغة إن لم تتوفّر — سنستخدم القيمة الوسيطة من بيانات التدريب بدلًا منها.",
   "sleep.field.rem": "نسبة نوم REM (%)",
@@ -240,13 +237,14 @@ export const ar = {
   "sleep.field.heartRate": "نبض القلب أثناء الراحة",
   "sleep.field.heartRateHint": "نبضة في الدقيقة · {range}",
 
-  "sleep.result.schedule": "نم {hours} ساعة، من {bedtime} إلى {wakeUp}.",
+  "sleep.result.scheduleAction": "نم الساعة {bedtime} واستيقظ الساعة {wakeUp}.",
+  "sleep.result.scheduleDuration": "أي {duration} من النوم.",
   "sleep.result.compareTitle": "جودة نومك: وضعك الآن مقابل الموعد المقترح",
   "sleep.result.compareIntro":
     "الرقمان يأتيان من النموذج نفسه على جدولين مختلفين — اقرأهما كمقارنة قبل/بعد، لا كنتيجتين منفصلتين.",
   "sleep.result.current": "وضعك الحالي",
   "sleep.result.recommended": "لو اتبعت الموعد المقترح",
-  "sleep.result.currentDetail": "تنام {hours} ساعة بدءًا من {bedtime}",
+  "sleep.result.currentDetail": "تنام {duration} بدءًا من {bedtime}",
   "sleep.gain.one": "أفضل بمستوى واحد من وضعك الحالي.",
   "sleep.gain.two": "أفضل بمستويين من وضعك الحالي.",
   "sleep.gain.many": "أفضل بـ {count} مستويات من وضعك الحالي.",
@@ -263,17 +261,16 @@ export const ar = {
   "sleep.curve.xAxis": "مدّة النوم (ساعات)",
   "sleep.curve.tooltipLevel": "المستوى",
   "sleep.curve.tooltipHours": "{hours} ساعة",
-  "sleep.tech.current": "جودة النوم على جدولك الحالي: {value} من {max}",
-  "sleep.tech.recommended": "الجودة المتوقعة عند الموعد المقترح: {value} من {max}",
-  "sleep.tech.delta": "الفرق: {value} نقطة",
-  "sleep.a11y.illustration": "رسم توضيحي لليلة نوم من {bedtime} إلى {wakeUp} بمدة {hours} ساعة، بلون المستوى {level} — {name}",
+  "sleep.a11y.illustration": "رسم توضيحي لليلة نوم من {bedtime} إلى {wakeUp} بمدة {duration}، بلون المستوى {level} — {name}",
 
   // --- Dashboard ----------------------------------------------------------- //
   "dash.pageTitle": "لوحة المتابعة",
   "dash.intro":
     "سجّل يومك في أقل من دقيقة وتابع إلى أين يتجه اتزانك. تُحفظ بياناتك في متصفحك فقط ولا تُرسل لأي خادم — خذ نسخة احتياطية قبل مسح بيانات المتصفح، وإلا فقدتها.",
-  "dash.backup": "حفظ نسخة احتياطية",
-  "dash.restore": "استعادة البيانات",
+  // «إضافة من ملف» لا «استعادة»: importJson يدمج الملف مع ما هو مسجَّل ولا
+  // يستبدله، و«استعادة» توحي بالاستبدال.
+  "dash.backup": "حفظ نسخة",
+  "dash.restore": "إضافة من ملف",
   "dash.horizon": "آخر {days}",
   "dash.summaryTitle": "ملخّص اليوم",
   "dash.balanceTitle": "اتزانك اليوم",
@@ -334,27 +331,9 @@ export const ar = {
   "about.dataQuestionnaire":
     "استبيان رقمي عن العلاقة بالتطبيقات: العمر والحالة والمنصّات المستخدمة، مع أسئلة على مقياس من 1 إلى 5 عن الاستخدام القهري والمزاج والتركيز.",
   "about.dataSleep":
-    "مجموعة بيانات صحة النوم بحوالي 100 ألف ليلة: مواعيد النوم والاستيقاظ، الكافيين والكحول ووقت الشاشة قبل النوم، حرارة الغرفة، التوتر والخطوات، إضافة إلى قياسات ساعات ذكية مثل نسبة REM والنوم العميق.",
+    "مجموعة بيانات صحة النوم بحوالي 100 ألف ليلة: مواعيد النوم والاستيقاظ، الكافيين ووقت الشاشة قبل النوم، حرارة الغرفة، التوتر والخطوات، إضافة إلى قياسات ساعات ذكية مثل نسبة REM والنوم العميق.",
   "about.dataNote":
     "البيانات مقطعية ومُبلَّغ عنها ذاتيًا في جزء كبير منها. هي تكشف ارتباطات، لا علاقات سببية: النتيجة المرتفعة لا تعني أن الشاشة سبّبت الحالة.",
-
-  "about.modelsTitle": "النماذج التي تعمل في متصفحك",
-  "about.modelsIntro":
-    "كل نموذج مُصدَّر إلى صيغة ONNX ويعمل عبر onnxruntime-web. هذه أرقام الأداء على مجموعة اختبار محجوزة (20٪ من البيانات):",
-  "about.model.brainRot": "التعفن الدماغي",
-  "about.model.mentalHealth": "الأثر النفسي",
-  "about.model.sleepQuality": "جودة النوم",
-  "about.model.disorder": "اضطراب النوم",
-  "about.model.feltRested": "الشعور بالراحة",
-  "about.model.bedtime": "موعد النوم المقترح",
-  "about.table.model": "النموذج",
-  "about.table.algo": "الخوارزمية",
-  "about.table.metric": "الأداء",
-  "about.metric.auc": "AUC {value}",
-  "about.metric.acc": "دقة {value}",
-  "about.metric.r2": "R² {value}",
-  "about.modelsCaveat":
-    "نموذج اضطراب النوم كان يبلغ دقة 0.95 بخوارزمية HistGradientBoosting، لكنها لا تتحوّل إلى ONNX، فشُحنت Random Forest بدقة 0.865. هذه مقايضة مقصودة: دقة أقل مقابل عمل كامل داخل المتصفح دون خادم.",
 
   "about.levelsTitle": "كيف تقرأ المستويات الخمسة؟",
   "about.levelsIntro":
@@ -442,6 +421,20 @@ export const ar = {
   "contrib.daily_time": "ساعات التواصل الاجتماعي اليومية",
 
   // --- Day counts (plural forms are selected in format.ts) ------------------- //
+  "hours.zero": "لا ساعات",
+  "hours.one": "ساعة واحدة",
+  "hours.two": "ساعتان",
+  "hours.few": "{count} ساعات",
+  "hours.many": "{count} ساعة",
+  "hours.other": "{count} ساعة",
+  "minutes.zero": "لا دقائق",
+  "minutes.one": "دقيقة واحدة",
+  "minutes.two": "دقيقتان",
+  "minutes.few": "{count} دقائق",
+  "minutes.many": "{count} دقيقة",
+  "minutes.other": "{count} دقيقة",
+  "duration.hoursAndMinutes": "{hours} و{minutes}",
+
   "days.zero": "لا أيام",
   "days.one": "يوم واحد",
   "days.two": "يومان",
@@ -456,7 +449,7 @@ export const ar = {
   "daysLogged.other": "{count} يوم مسجّل",
 
   // --- Errors ---------------------------------------------------------------- //
-  "error.invalidBackup": "الملف غير صالح — اختر ملف نسخة احتياطية صادرًا من اتزان.",
+  "error.invalidBackup": "الملف غير صالح — اختر ملفًا سبق أن حفظته من اتزان.",
 
   // --- Page metadata --------------------------------------------------------- //
   "meta.home.title": "اتزان — توازنك الرقمي",
